@@ -51,8 +51,8 @@ def search( term, exact=False ):
 def boardgame( id ):
     """ Retrieve information about a particular game or games
 
-    boardgame( "421" ) # doctest:+ELLIPSIS
-    {...'description': '1830 is one of the most famous 18xx games...}
+    >>> boardgame( "421" ) # doctest:+ELLIPSIS
+    {...'description': "1830 is one of the most famous 18xx games...}
 
     """
 
@@ -92,6 +92,14 @@ def wishlist( username ):
 
     return rv
 
-if __name__ == "__main__":
+def getTestSuite():
+    import unittest
     import doctest
-    doctest.testmod()
+    suite = unittest.TestSuite()
+    suite.addTest( doctest.DocTestSuite( __name__ ) )
+    return suite
+
+if __name__ == "__main__":
+    import unittest
+    runner = unittest.TextTestRunner()
+    runner.run( getTestSuite() )

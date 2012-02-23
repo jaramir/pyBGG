@@ -9,5 +9,6 @@ setuptools.setup(
     description  = 'BoardGameGeek API for Python',
     author       = 'Francesco Gigli',
     author_email = 'jaramir@gmail.com',
-    packages     = setuptools.find_packages(),
+    packages     = [ "pyBGG", ],
+    test_suite   = 'pyBGG.getTestSuite',
 )
