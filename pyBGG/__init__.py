@@ -39,6 +39,26 @@ class BoardGame( object ):
         self.et = et
         self.id = et.attrib["objectid"]
 
+    def __getattr__( self, name ):
+        el = self.__find( name )
+        if el is None:
+            raise AttributeError( name )
+        return el.text
+
+    def __find( self, name ):
+        el = self.et.find( name )
+        if el is None:
+            self.fetch()
+            el = self.et.find( name )
+        return el
+
+    def __findall( self, term ):
+        names = self.et.findall( term )
+        if not names:
+            self.fetch()
+            names = self.et.findall( term )
+        return names
+
     @classmethod
     def by_id( cls, id ):
         """
@@ -54,7 +74,7 @@ class BoardGame( object ):
         Returns the primary name.
 
         """
-        return self.__getattr__( "name[@primary='true']" )
+        return self.__find( "name[@primary='true']" ).text
 
     @property
     def names( self ):
@@ -62,22 +82,9 @@ class BoardGame( object ):
         Returns all names sorted by sortindex (popularity, I suppose).
 
         """
-        names = self.et.findall( "name" )
-        if not names:
-            self.fetch()
-            names = self.et.findall( "name" )
+        names = self.__findall( "name" )
         names.sort( key= lambda e: e.attrib["sortindex"] )
         return [ n.text for n in names ]
-
-    def __getattr__( self, name ):
-        el = self.et.find( name )
-        if el is not None:
-            return el.text
-        self.fetch()
-        el = self.et.find( name )
-        if el is not None:
-            return el.text
-        raise AttributeError( name )
 
     def fetch( self ):
         """
