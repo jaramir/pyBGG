@@ -25,9 +25,9 @@ along with pyBGG.  If not, see <http://www.gnu.org/licenses/>.
 LINKS
 -----
 
-http://boardgamegeek.com/xmlapi/termsofuse
-http://boardgamegeek.com/wiki/page/BGG_XML_API
-http://boardgamegeek.com/wiki/page/BGG_XML_API
+* http://boardgamegeek.com/xmlapi/termsofuse
+* http://boardgamegeek.com/wiki/page/BGG_XML_API
+* http://boardgamegeek.com/wiki/page/BGG_XML_API
 
 TODO
 ----
