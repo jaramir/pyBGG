@@ -27,12 +27,7 @@ import xml.etree.ElementTree as ET
 
 root = "http://www.boardgamegeek.com/xmlapi/"
 
-class DoubleFetch( Exception ):
-    """
-    A BoardGame should never ever fetch data two times
-
-    """
-    pass
+boardgame_cache = {}
 
 class BoardGame( object ):
     def __init__( self, et ):
@@ -45,17 +40,24 @@ class BoardGame( object ):
             raise AttributeError( name )
         return el.text
 
+    def __fetch( self ):
+        if self.id not in boardgame_cache:
+            url = root + "boardgame/" + urllib.quote( self.id )
+            tree = ET.parse( urllib2.urlopen( url ) )
+            boardgame_cache[self.id] = tree.find( "boardgame" )
+        self.et = boardgame_cache[self.id]
+
     def __find( self, name ):
         el = self.et.find( name )
         if el is None:
-            self.fetch()
+            self.__fetch()
             el = self.et.find( name )
         return el
 
     def __findall( self, term ):
         names = self.et.findall( term )
         if not names:
-            self.fetch()
+            self.__fetch()
             names = self.et.findall( term )
         return names
 
@@ -85,23 +87,6 @@ class BoardGame( object ):
         names = self.__findall( "name" )
         names.sort( key= lambda e: e.attrib["sortindex"] )
         return [ n.text for n in names ]
-
-    def fetch( self ):
-        """
-        Fetch the complete informations for this game
-
-        should never be called to begin with
-        will rise DoubleFetch if called more than one time
-
-        """
-        url = root + "boardgame/" + urllib.quote( self.id )
-        tree = ET.parse( urllib2.urlopen( url ) )
-        self.et = tree.find( "boardgame" )
-
-        # never ever call me again
-        def raise_df():
-            raise DoubleFetch()
-        self.fetch = raise_df
 
 def search( term, exact=False ):
     """

@@ -18,10 +18,12 @@ You should have received a copy of the GNU General Public License
 along with pyBGG.  If not, see <http://www.gnu.org/licenses/>.
 
 """
-
-# mock BGG server
 import urllib2
 import StringIO
+import unittest
+import pyBGG
+
+# mock BGG server
 
 canned_response = {
     "http://www.boardgamegeek.com/xmlapi/boardgame/13": open( "fixture/bgCatan" ).read(),
@@ -46,17 +48,43 @@ class TestResponse( object ):
         return []
 
 class TestHandler( urllib2.HTTPHandler ):
+    def __init__( self ):
+        self.hits = []
+
     def http_open( self, req ):
+        self.hits.append( req.get_full_url() )
         return TestResponse( req )
 
-handler = TestHandler( debuglevel=1 )
+    def reset_hits( self ):
+        self.hits = []
+
+handler = TestHandler()
 opener = urllib2.build_opener( handler )
 urllib2.install_opener( opener )
 
-import unittest
-import pyBGG
+## This works but will make a request per fixture on every run
+## Uncomment and use when necessary
+##
+##class fixtureTest( unittest.TestCase ):
+##    def test_fixtures( self ):
+##        for url in canned_response.keys():
+##            req = urllib2.Request( url )
+##            op = urllib2.build_opener( urllib2.HTTPHandler )
+##            self.assertEqual( op.open( req ).read(), opener.open( req ).read() )
+
+class handlerTest( unittest.TestCase ):
+    def setUp( self ):
+        handler.reset_hits()
+
+    def test_count_hits( self ):
+        url = "http://www.boardgamegeek.com/xmlapi/boardgame/13"
+        urllib2.urlopen( url ).read()
+        self.assertEqual( handler.hits, [url] )
 
 class pyBGGTest( unittest.TestCase ):
+
+    def setUp( self ):
+        handler.reset_hits()
 
     def test_exact_search_gone_wrong( self ):
         bg = pyBGG.search( "pyBGG test search", exact=1 )
@@ -78,10 +106,13 @@ class pyBGGTest( unittest.TestCase ):
         bg = pyBGG.BoardGame.by_id( "421" )
         self.assertEqual( "1830: Railways & Robber Barons", bg.name )
 
-    def test_raise_on_second_fetch( self ):
+    def test_boardgame_info_taken_from_memory_cache( self ):
+        pyBGG.boardgame_cache = {} # empty cache now
         bg = pyBGG.BoardGame.by_id( "421" )
-        bg.fetch()
-        self.assertRaises( pyBGG.DoubleFetch, bg.fetch )
+        bg.description
+        bg2 = pyBGG.BoardGame.by_id( "421" )
+        bg2.names
+        self.assertEqual( handler.hits, [ "http://www.boardgamegeek.com/xmlapi/boardgame/421" ] )
 
     def test_game_with_many_sorted_names( self ):
         en = "The Settlers of Catan"

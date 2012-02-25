@@ -32,7 +32,6 @@ LINKS
 TODO
 ----
 
-* automated test for fixture validity
-* search(term, prefetch=True) makes a single fetch with multiple boardgames [+fixture]
+* search(term, prefetch=True) makes a single fetch with multiple boardgames and populates boardgame_cache
 * optional caching via external memcache server
-* mandatory internal memory caching [possible to control now that we "hacked" urllib2]
+* retrive user collection
