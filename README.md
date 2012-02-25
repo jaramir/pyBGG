@@ -32,6 +32,7 @@ http://boardgamegeek.com/wiki/page/BGG_XML_API
 TODO
 ----
 
-* search(term, prefetch=True) makes a single fetch with multiple boardgames
+* automated test for fixture validity
+* search(term, prefetch=True) makes a single fetch with multiple boardgames [+fixture]
 * optional caching via external memcache server
-* mandatory internal memory caching
+* mandatory internal memory caching [possible to control now that we "hacked" urllib2]

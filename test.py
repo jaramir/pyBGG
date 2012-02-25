@@ -19,6 +19,40 @@ along with pyBGG.  If not, see <http://www.gnu.org/licenses/>.
 
 """
 
+# mock BGG server
+import urllib2
+import StringIO
+
+canned_response = {
+    "http://www.boardgamegeek.com/xmlapi/boardgame/13": open( "fixture/bgCatan" ).read(),
+    "http://www.boardgamegeek.com/xmlapi/boardgame/421": open( "fixture/bg1830" ).read(),
+    "http://www.boardgamegeek.com/xmlapi/search?search=1830%3A%20Railways%20%26%20Robber%20Barons": open( "fixture/search1830" ).read(),
+    "http://www.boardgamegeek.com/xmlapi/search?search=I%20Coloni%20di%20Catan&exact=1": open( "fixture/searchCatan" ).read(),
+    "http://www.boardgamegeek.com/xmlapi/search?search=pyBGG%20test%20search&exact=1": open( "fixture/searchTest" ).read(),
+    }
+
+class TestResponse( object ):
+    def __init__( self, request ):
+        url = request.get_full_url()
+        if not url in canned_response:
+            raise Exception( "%s not in canned response!" % url )
+        self.request = request
+        self.code = 200
+        self.msg = "OK"
+        self.content = StringIO.StringIO( canned_response[url] )
+        self.read = self.content.read
+
+    def info( self ):
+        return []
+
+class TestHandler( urllib2.HTTPHandler ):
+    def http_open( self, req ):
+        return TestResponse( req )
+
+handler = TestHandler( debuglevel=1 )
+opener = urllib2.build_opener( handler )
+urllib2.install_opener( opener )
+
 import unittest
 import pyBGG
 
@@ -50,14 +84,17 @@ class pyBGGTest( unittest.TestCase ):
         self.assertRaises( pyBGG.DoubleFetch, bg.fetch )
 
     def test_game_with_many_sorted_names( self ):
-        bg = pyBGG.BoardGame.by_id( "13" )
-        names = bg.names
-        self.assertIsInstance( names, list )
         en = "The Settlers of Catan"
         us = "Catan"
         it = "I Coloni di Catan"
         ru = u"Заселниците на Катан"
         ja = u"カタンの開拓者"
+
+        bg = pyBGG.BoardGame.by_id( "13" )
+        names = bg.names
+
+        self.assertIsInstance( names, list )
+
         self.assertIn( en, names ) # sort = 5
         self.assertIn( us, names ) # sort = 1
         self.assertIn( it, names ) # sort = 3
