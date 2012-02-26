@@ -61,6 +61,12 @@ class BoardGame( object ):
             names = self.et.findall( term )
         return names
 
+    def __eq__( self, other ):
+        return isinstance( other, self.__class__ ) and self.id == other.id
+
+    def __ne__( self, other ):
+        return not self.__eq__( other )
+
     @classmethod
     def by_id( cls, id ):
         """
@@ -84,16 +90,18 @@ class BoardGame( object ):
         Returns all names sorted by sortindex (popularity, I suppose).
 
         """
+        self.__fetch() # requires full info
         names = self.__findall( "name" )
         names.sort( key= lambda e: e.attrib["sortindex"] )
         return [ n.text for n in names ]
 
-def search( term, exact=False ):
+def search( term, exact=False, prefetch=False ):
     """
     Search for games by name and by AKAs and return a list of BoardGames
 
     term: name to look for
     exact: do a search for the exact term and return one BoardGame or None
+    prefetch: if set to True fetch game info for all results with a single call
 
     """
 
@@ -103,8 +111,13 @@ def search( term, exact=False ):
 
     tree = ET.parse( urllib2.urlopen( url ) )
 
+    games = tree.findall( "boardgame" )
+
+    if prefetch:
+        __prefetch( [ urllib.quote( el.attrib["objectid"] ) for el in games ] )
+
     rv = []
-    for bg in tree.findall( "boardgame" ):
+    for bg in games:
         rv.append( BoardGame( bg ) )
 
     if exact:
@@ -112,3 +125,39 @@ def search( term, exact=False ):
             return rv[0]
         return None
     return rv
+
+def collection( username, own=False, prefetch=False ):
+    """
+    Retrieve games in a user's collection.
+
+    username: the BGG username (eg. "cesco")
+    owned: if set to True return only owned games
+    prefetch: if set to True fetch game info for all results with a single call
+
+    """
+
+    url = root + "collection/" + urllib.quote( username )
+    if own:
+        url += "?own=1"
+
+    tree = ET.parse( urllib2.urlopen( url ) )
+
+    games = tree.findall( "item[@objecttype='thing'][@subtype='boardgame']" )
+
+    if prefetch:
+        __prefetch( [ urllib.quote( el.attrib["objectid"] ) for el in games ] )
+
+    rv = []
+    for bg in games:
+        rv.append( BoardGame( bg ) )
+    return rv
+
+def __prefetch( ids ):
+    """
+    Fetch and push in boardgame_cache full info for all boardgames ids passed
+
+    """
+    murl = root + "boardgame/" + ",".join( ids )
+    mtree = ET.parse( urllib2.urlopen( murl ) )
+    for subtree in mtree.findall( "boardgame" ):
+        boardgame_cache[subtree.attrib["objectid"]] = subtree

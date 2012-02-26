@@ -1,0 +1,2597 @@
+<boardgames termsofuse="http://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="66000">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">1099: Domus clari Geminiani</name>
+									
+			<description>In 1099 started the construction of Duomo di Modena (Modena Cathedral) one of the greatest Italian example of Roman-Gothic architecture.&lt;br/&gt;Strongly acclaimed by citizens the construction was initially committed to the architect Lanfranco and the sculptor Wiligelmo and to the disciples of their schools.&lt;br/&gt;7 years later Saint Geminiano Memorabilia were moved from the old church to the new Cathedral, escorted by 6 miles guard and 12 cives guards to avoid thefts. In the following centuries the Cathedral construction was committed to Anselmo da Campione and his disciples.&lt;br/&gt;&lt;br/&gt;The goal of this card game is to retrace the stages of the construction trying to be the one to best contribute.&lt;br/&gt;&lt;br/&gt;Players will use materials deck to build up the different part of the cathedral. Between the first and second stage of construction they need also to take part in the Memorabilia movement.&lt;br/&gt;&lt;br/&gt;This game wins an international competition held by Comune di Modena in 2008 for designing a game about Duomo di Modena construction&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic672031_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic672031.jpg</image>
+						
+												<boardgamedesigner objectid="34743">Francesco Berardi</boardgamedesigner>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamepublisher objectid="11493">Edicta Edizioni</boardgamepublisher>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgameversion objectid="24683">Italian first edition</boardgameversion>
+															<boardgameartist objectid="34744">Federico Manicardi</boardgameartist>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="5+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="68448">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>30</playingtime>
+			<age>10</age>
+
+							<name  sortindex="1">7 csoda</name>
+							<name  sortindex="1">7 Cudów Świata</name>
+							<name primary="true" sortindex="1">7 Wonders</name>
+							<name  sortindex="1">七大奇蹟</name>
+							<name  sortindex="1">世界の七不思議</name>
+									
+			<description>Description from BoardgameNews.com:&lt;br/&gt;&lt;br/&gt;7 Wonders lasts three ages. In each age, players receive seven cards from a particular deck, choose one of those cards, then pass the remainder to an adjacent player, as in Fairy Tale or a Magic: the Gathering booster draft. Players reveal their cards simultaneously, paying resources if needed or collecting resources or interacting with other players in various ways. (Players have individual boards with special powers on which to organize their cards, and the boards are double-sided as in Bauza's Ghost Stories.) Each player then chooses another card from the deck they were passed, and the process repeats until players have six cards in play from that age. After three ages, the game ends.&lt;br/&gt;&lt;br/&gt;In essence 7 Wonders is a card development game along the lines of Race for the Galaxy or Dominion. Some cards have immediate effects, while others provide bonuses or upgrades later in the game. Some cards provide discounts on future purchases. Some provide military strength to overpower your neighbors and others give nothing but victory points. Unlike Magic or Fairy Tale, however, each card is played immediately after being drafted, so you'll know which cards your neighbor is receiving and how his choices might affect what you've already built up. Cards are passed left-right-left over the three ages, so you need to keep an eye on the neighbors in both directions.&lt;br/&gt;&lt;br/&gt;Though the box of earlier editions is listed as being for 3-7 players, there is an official 2-player variant included in the instructions.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic860217_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic860217.jpg</image>
+						
+																			<boardgamehonor objectid="13215">2010 Tric Trac d&#039;Or</boardgamehonor>
+															<boardgamehonor objectid="13218">2010 Tric Trac Nominee</boardgamehonor>
+															<boardgamehonor objectid="13465">2011 Fairplay À la carte Winner</boardgamehonor>
+															<boardgamehonor objectid="13896">2011 Golden Geek Best Board Game Artwork/Presentation Nominee</boardgamehonor>
+															<boardgamehonor objectid="13897">2011 Golden Geek Best Card Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="14820">2011 Golden Geek Best Card Game Winner</boardgamehonor>
+															<boardgamehonor objectid="13900">2011 Golden Geek Best Family Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="14828">2011 Golden Geek Best Family Board Game Winner</boardgamehonor>
+															<boardgamehonor objectid="13901">2011 Golden Geek Best Innovative Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="13902">2011 Golden Geek Best Party Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="13904">2011 Golden Geek Best Strategy Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="13176">2011 Gra Roku Game of the Year Nominee</boardgamehonor>
+															<boardgamehonor objectid="13186">2011 Guldbrikken Best Adult Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="12828">2011 International Gamers Awards - General Strategy; Multi-player Nominee</boardgamehonor>
+																						<boardgamehonor objectid="14609">2011 Lucca Games Best Boardgame Nominee</boardgamehonor>
+															<boardgamehonor objectid="14608">2011 Lucca Games Best Boardgame Winner</boardgamehonor>
+															<boardgamehonor objectid="13119">2011 Nederlandse Spellenprijs Nominee</boardgamehonor>
+															<boardgamehonor objectid="11078">2011 Spiel des Jahres Kennerspiel Game of the Year Winner</boardgamehonor>
+															<boardgamehonor objectid="12901">2011 Vuoden Peli Adult Game of the Year Nominee</boardgamehonor>
+															<boardgamehonor objectid="12586">2011 Vuoden Peli Adult Game of the Year Winner</boardgamehonor>
+																																				<boardgamefamily objectid="17552">7 Wonders</boardgamefamily>
+																																																																																																										<boardgameexpansion objectid="110308">7 Wonders: Catan Island</boardgameexpansion>
+															<boardgameexpansion objectid="111661">7 Wonders: Cities</boardgameexpansion>
+																						<boardgameexpansion objectid="92539">7 Wonders: Leaders</boardgameexpansion>
+															<boardgameexpansion objectid="99315">7 Wonders: Leaders - Stevie Wonder Promo Card</boardgameexpansion>
+															<boardgameexpansion objectid="83445">7 Wonders: Manneken Pis Promo</boardgameexpansion>
+																																				<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+																						<boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+															<boardgamepublisher objectid="15889">Asterion Press</boardgamepublisher>
+															<boardgamedesigner objectid="9714">Antoine Bauza</boardgamedesigner>
+																													<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																													<boardgamecategory objectid="1015">Civilization</boardgamecategory>
+															<boardgameartist objectid="12016">Miguel Coimbra</boardgameartist>
+																																																																<boardgameversion objectid="71930">English first edition</boardgameversion>
+																																											<boardgameversion objectid="92749">English second edition</boardgameversion>
+																																																		<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="71931">French first edition</boardgameversion>
+																																				<boardgameversion objectid="107117">French Second Edition</boardgameversion>
+																																																		<boardgamepodcastepisode objectid="6114">Garrett&#039;s Games 208 - Gathering Game Commentary Part 1</boardgamepodcastepisode>
+															<boardgamepublisher objectid="8820">Gém Klub Kft.</boardgamepublisher>
+																																																																																																																	<boardgameversion objectid="86472">German second edition</boardgameversion>
+																						<boardgameversion objectid="92343">Greek first edition</boardgameversion>
+																													<boardgamepublisher objectid="1391">Hobby Japan</boardgamepublisher>
+																																																																<boardgameversion objectid="100077">Italian first edition</boardgameversion>
+															<boardgamepublisher objectid="6214">Kaissa Chess &amp; Games</boardgamepublisher>
+																													<boardgamepublisher objectid="3218">Lautapelit.fi</boardgamepublisher>
+															<boardgameversion objectid="63364">Lautapelit.fi edition</boardgameversion>
+															<boardgameversion objectid="133460">Lautapelit.fi second edition</boardgameversion>
+																																																																																												<boardgameversion objectid="69211">Polish edition</boardgameversion>
+																																																																<boardgamepublisher objectid="7466">REBEL.pl</boardgamepublisher>
+															<boardgameversion objectid="94717">Rebel.pl edition</boardgameversion>
+															<boardgameversion objectid="22251">Repos German edition</boardgameversion>
+															<boardgameversion objectid="148324">Repos Hungarian edition</boardgameversion>
+															<boardgameversion objectid="93700">Repos Multilingual version</boardgameversion>
+															<boardgamepublisher objectid="4384">Repos Production</boardgamepublisher>
+															<boardgameversion objectid="99240">Repos Production multi-lingual version</boardgameversion>
+																																																																																												<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+																						<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+																																				<boardgameversion objectid="74143">Spanish version</boardgameversion>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+																						<boardgameversion objectid="151396">Third Edition with 4 Awards pictured on the box top</boardgameversion>
+																						<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+																																																																																			
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="432">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="200" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="34" />
+					<result value="Recommended" numvotes="113" />
+					<result value="Not Recommended" numvotes="141" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="121" />
+					<result value="Recommended" numvotes="211" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="230" />
+					<result value="Recommended" numvotes="129" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="170" />
+					<result value="Recommended" numvotes="172" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="82" />
+					<result value="Recommended" numvotes="207" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="72" />
+					<result value="Recommended" numvotes="202" />
+					<result value="Not Recommended" numvotes="57" />
+				</results>					
+			
+		<results numplayers="7+">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="151" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="129">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="92" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="36" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="79">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="27" />
+					<result value="10" numvotes="25" />
+					<result value="12" numvotes="21" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="31260">
+			<yearpublished>2007</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>120</playingtime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Agricola</name>
+							<name  sortindex="1">Агрикола</name>
+							<name  sortindex="1">アグリコラ</name>
+							<name  sortindex="1">农场主</name>
+							<name  sortindex="1">農家樂</name>
+							<name  sortindex="1">아그리콜라</name>
+									
+			<description>In Agricola, you're a farmer in a wooden shack with your spouse and little else. On a turn, you get to take only two actions, one for you and one for the spouse, from all the possibilities you'll find on a farm: collecting clay, wood, or stone; building fences; and so on. You might think about having kids in order to get more work accomplished, but first you need to expand your house. And what are you going to feed all the little rugrats?&lt;br/&gt;&lt;br/&gt;The game supports many levels of complexity, mainly through the use (or non-use) of two of its main types of cards, Minor Improvements and Occupations. In the beginner's version (called the Family Variant in the U.S. release), these cards are not used at all. For advanced play, the U.S. release includes three levels of both types of cards; Basic (E-deck), Interactive (I-deck), and Complex (K-deck), and the rulebook encourages players to experiment with the various decks and mixtures thereof. Aftermarket decks such as the Z-Deck and the L-Deck also exist.&lt;br/&gt;&lt;br/&gt;Agricola is a turn-based game. There are 14 game turns plus 6 harvest phases (after turn 4, 7, 9, 11, 13, and 14).&lt;br/&gt;Each player starts with two playing tokens (farmer and wife) and thus can take two actions per turn. There are multiple options, and while the game progresses, you'll have more and more: first thing in a turn, a new action card is flipped over.&lt;br/&gt;Problem: Each action can be taken by one player each turn, so it's important to do some things with high preference.&lt;br/&gt;Each player also starts with a hand of 7 Occupation cards (of more than 160 total) and 7 Minor Improvement cards (of more than 140 total) that he/she may use during the game if they fit in his/her strategy. Speaking of which, there are countless strategies, some depending on your card hand. Sometimes it's a good choice to stay on course, and sometimes it is better to react to your opponents' actions.&lt;br/&gt;&lt;br/&gt;Description taken from BoardgameNews.com.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic259085_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic259085.jpg</image>
+						
+												<boardgamehonor objectid="8763">2008 Golden Geek Best 2-Player Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="8769">2008 Golden Geek Best Board Game Artwork/Presentation Nominee</boardgamehonor>
+															<boardgamehonor objectid="8768">2008 Golden Geek Best Family Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="8762">2008 Golden Geek Best Gamer&#039;s Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="8724">2008 Golden Geek Best Gamer&#039;s Board Game Winner</boardgamehonor>
+															<boardgamehonor objectid="8723">2008 Golden Geek Board Game of the Year Winner</boardgamehonor>
+															<boardgamehonor objectid="13163">2008 Hra roku Nominee</boardgamehonor>
+															<boardgamehonor objectid="13164">2008 Hra roku Winner</boardgamehonor>
+															<boardgamehonor objectid="12667">2008 International Gamers Awards - General Strategy; Multi-player</boardgamehonor>
+															<boardgamehonor objectid="13383">2008 Jogo do Ano</boardgamehonor>
+															<boardgamehonor objectid="8839">2008 Spiel des jahres &quot;Complex Game&quot; Winner</boardgamehonor>
+															<boardgamehonor objectid="13223">2008 Tric Trac d&#039;Or</boardgamehonor>
+															<boardgamehonor objectid="13226">2008 Tric Trac Nominee</boardgamehonor>
+															<boardgamehonor objectid="10362">2009 Gra Roku Game of the Year Winner</boardgamehonor>
+															<boardgamehonor objectid="12473">2009 Lucca Games Best Game Mechanics Winner</boardgamehonor>
+															<boardgamehonor objectid="12649">2009 Ludoteca Ideale Official Selection Winner</boardgamehonor>
+															<boardgamehonor objectid="13121">2009 Nederlandse Spellenprijs Nominee</boardgamehonor>
+															<boardgamehonor objectid="13122">2009 Nederlandse Spellenprijs Winner</boardgamehonor>
+															<boardgamepublisher objectid="267">999 Games</boardgamepublisher>
+																																				<boardgamefamily objectid="3865">Agricola</boardgamefamily>
+																																																		<boardgameexpansion objectid="59158">Agricola CZ-Deck</boardgameexpansion>
+															<boardgameexpansion objectid="113413">Agricola Ereigniskarten</boardgameexpansion>
+																						<boardgameexpansion objectid="39090">Agricola L-Deck</boardgameexpansion>
+															<boardgameexpansion objectid="39256">Agricola Ö-Deck</boardgameexpansion>
+																													<boardgameexpansion objectid="38733">Agricola X-Deck</boardgameexpansion>
+															<boardgameexpansion objectid="37235">Agricola Z-Deck</boardgameexpansion>
+																						<boardgameexpansion objectid="109012">Agricola: De Lage Landen</boardgameexpansion>
+															<boardgameexpansion objectid="43018">Agricola: Farmers of the Moor</boardgameexpansion>
+															<boardgameexpansion objectid="85704">Agricola: Gamers&#039; Deck</boardgameexpansion>
+															<boardgameexpansion objectid="103182">Agricola: NL-Deck</boardgameexpansion>
+															<boardgameexpansion objectid="73833">Agricola: The Goodies Expansion</boardgameexpansion>
+															<boardgameexpansion objectid="83697">Agricola: The Legen*dairy Forest Deck</boardgameexpansion>
+															<boardgameexpansion objectid="38641">Agricola: Through the Seasons</boardgameexpansion>
+																						<boardgameexpansion objectid="103183">Agricola: World Championship Deck - 2011</boardgameexpansion>
+																																																		<boardgamepublisher objectid="7162">Brain Games</boardgamepublisher>
+																						<boardgameversion objectid="81718">Chinese Edition</boardgameversion>
+																						<boardgamepublisher objectid="14813">Compaya.hu - Gamer Café Kft.</boardgamepublisher>
+																																																									<boardgameversion objectid="20720">Dutch first edition</boardgameversion>
+																																																																																																			<boardgamecategory objectid="1021">Economic</boardgamecategory>
+																																																																																																										<boardgamepodcastepisode objectid="9076">Episode #3: How to Play Agricola</boardgamepodcastepisode>
+															<boardgameversion objectid="76931">Estonian edition</boardgameversion>
+															<boardgamecategory objectid="1013">Farming</boardgamecategory>
+																						<boardgameartist objectid="11507">Klemens Franz</boardgameartist>
+																																																																														<boardgameversion objectid="24269">German edition with SdJ Komplexes Spiel sticker</boardgameversion>
+																																																																																																																																																																		<boardgamefamily objectid="3866">Harvest Trilogy</boardgamefamily>
+															<boardgamepublisher objectid="1391">Hobby Japan</boardgamepublisher>
+															<boardgameversion objectid="90393">Hobby Japan Japanese Edition</boardgameversion>
+															<boardgamepublisher objectid="6275">HomoLudicus</boardgamepublisher>
+																						<boardgameversion objectid="69505">Hungarian edition</boardgameversion>
+																						<boardgameexpansion objectid="114557">Improved Farming &amp; Disasters (fan expansion for Agricola)</boardgameexpansion>
+																						<boardgameversion objectid="27747">Italian edition</boardgameversion>
+															<boardgamepublisher objectid="8291">Korea Boardgames</boardgamepublisher>
+															<boardgameversion objectid="41351">Korean edition</boardgameversion>
+															<boardgameversion objectid="129767">Korean Revised Second Edition 2009</boardgameversion>
+															<boardgamepublisher objectid="5812">Lacerta</boardgamepublisher>
+															<boardgameversion objectid="24739">Lacerta edition</boardgameversion>
+															<boardgamepublisher objectid="234">Lookout Games</boardgamepublisher>
+															<boardgameversion objectid="22673">Lookout Games German First edition</boardgameversion>
+															<boardgameversion objectid="64715">Lookout Games German Second Edition with Animeeples</boardgameversion>
+															<boardgameversion objectid="64718">Lookout Games German Third Edition DSP and Spiel des Jahres Logo</boardgameversion>
+																						<boardgamepublisher objectid="7992">MINDOK</boardgamepublisher>
+															<boardgameversion objectid="90394">MINDOK Czech Edition</boardgameversion>
+															<boardgameexpansion objectid="73500">The MY Deck (Fan Expansion for Agricola)</boardgameexpansion>
+																																																																																																																																																																																																					<boardgamedesigner objectid="10">Uwe Rosenberg</boardgamedesigner>
+																													<boardgameversion objectid="113858">Russian first edition</boardgameversion>
+															<boardgamepublisher objectid="8313">Smart Ltd</boardgamepublisher>
+															<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgameversion objectid="154731">Spanish edition</boardgameversion>
+															<boardgameversion objectid="29502">Spanish First Edition</boardgameversion>
+																																				<boardgameversion objectid="70909">Spanish Second edition</boardgameversion>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="3888">Stratelibri</boardgamepublisher>
+															<boardgamepublisher objectid="9234">Swan Panasia Co., Ltd.</boardgamepublisher>
+																													<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+																						<boardgameversion objectid="27305">Ystari French version</boardgameversion>
+															<boardgamepublisher objectid="2861">Ystari Games</boardgamepublisher>
+															<boardgamepublisher objectid="538">Z-Man Games</boardgamepublisher>
+																						<boardgameversion objectid="21333">Z-Man Games First Edition</boardgameversion>
+															<boardgameversion objectid="25707">Z-Man Games Special Edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="967">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="41" />
+					<result value="Recommended" numvotes="450" />
+					<result value="Not Recommended" numvotes="166" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="150" />
+					<result value="Recommended" numvotes="540" />
+					<result value="Not Recommended" numvotes="84" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="453" />
+					<result value="Recommended" numvotes="352" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="563" />
+					<result value="Recommended" numvotes="269" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="197" />
+					<result value="Recommended" numvotes="445" />
+					<result value="Not Recommended" numvotes="113" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="337" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="494">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="1" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="33" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="373" />
+					<result level="15" value="Unplayable in another language" numvotes="84" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="337">
+			<results>		
+					<result value="2" numvotes="2" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="6" />
+					<result value="8" numvotes="36" />
+					<result value="10" numvotes="84" />
+					<result value="12" numvotes="118" />
+					<result value="14" numvotes="67" />
+					<result value="16" numvotes="17" />
+					<result value="18" numvotes="3" />
+					<result value="21 and up" numvotes="2" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="43018">
+			<yearpublished>2009</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>120</playingtime>
+			<age>12</age>
+
+							<name  sortindex="1">Agricola : Les Fermiers de la Lande</name>
+							<name  sortindex="1">Agricola: Bosques y Cenagales</name>
+							<name  sortindex="1">Agricola: Contadini della brughiera</name>
+							<name  sortindex="1">Agricola: De Veenboeren</name>
+							<name  sortindex="1">Agricola: Die Moorbauern</name>
+							<name primary="true" sortindex="1">Agricola: Farmers of the Moor</name>
+							<name  sortindex="1">Agricola: Sedláci z blat</name>
+							<name  sortindex="1">Agricola: Torfowisko</name>
+							<name  sortindex="1">アグリコラ：泥沼からの出発</name>
+							<name  sortindex="1">農家樂：沼澤農夫擴充</name>
+							<name  sortindex="1">아그리콜라: 새로운 도전</name>
+									
+			<description>Agricola: Farmers of the Moor is the first big expansion for Agricola.&lt;br/&gt;&lt;br/&gt;This expansion adds to the base game with a large set of new improvements, and adds a number of new features. Horses are introduced as a new type of animal.  In addition, you not only have to feed your family, but you must keep them from becoming &amp;quot;ill&amp;quot; by heating each room in your house.  You can get fuel to heat your home by chopping down the forests on your farmyard, or by harvesting peat.&lt;br/&gt;&lt;br/&gt;Agricola: Farmers of the Moor was released at Essen 2009.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic568164_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic568164.jpg</image>
+						
+												<boardgamehonor objectid="8754">2010 Golden Geek Best Board Game Expansion Nominee</boardgamehonor>
+															<boardgamepublisher objectid="267">999 Games</boardgamepublisher>
+															<boardgamefamily objectid="3865">Agricola</boardgamefamily>
+																						<boardgameexpansion objectid="111165">Agricola: Biogas Plant Promo Card</boardgameexpansion>
+															<boardgameversion objectid="80877">Chinese Edition</boardgameversion>
+																						<boardgameversion objectid="24011">Dutch First edition</boardgameversion>
+																																											<boardgamecategory objectid="1021">Economic</boardgamecategory>
+																																																																<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+																						<boardgamecategory objectid="1013">Farming</boardgamecategory>
+															<boardgameversion objectid="58617">First edition</boardgameversion>
+															<boardgameversion objectid="116486">First edition</boardgameversion>
+															<boardgameartist objectid="11507">Klemens Franz</boardgameartist>
+															<boardgameversion objectid="49756">French edition</boardgameversion>
+																													<boardgameversion objectid="21438">German first edition</boardgameversion>
+																																											<boardgamepublisher objectid="1391">Hobby Japan</boardgamepublisher>
+															<boardgamepublisher objectid="6275">HomoLudicus</boardgamepublisher>
+															<boardgameexpansion objectid="114557">Improved Farming &amp; Disasters (fan expansion for Agricola)</boardgameexpansion>
+															<boardgamepublisher objectid="8291">Korea Boardgames</boardgamepublisher>
+															<boardgameversion objectid="129768">Korean Edition</boardgameversion>
+															<boardgamepublisher objectid="5812">Lacerta</boardgamepublisher>
+															<boardgamepublisher objectid="234">Lookout Games</boardgamepublisher>
+															<boardgamepublisher objectid="7992">MINDOK</boardgamepublisher>
+																						<boardgameversion objectid="28936">Polish Edition</boardgameversion>
+																																				<boardgamedesigner objectid="10">Uwe Rosenberg</boardgamedesigner>
+																													<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgameversion objectid="29500">Spanish Edition</boardgameversion>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="3888">Stratelibri</boardgamepublisher>
+															<boardgamepublisher objectid="9234">Swan Panasia Co., Ltd.</boardgamepublisher>
+															<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+																						<boardgamepublisher objectid="2861">Ystari Games</boardgamepublisher>
+															<boardgamepublisher objectid="538">Z-Man Games</boardgamepublisher>
+															<boardgameversion objectid="21439">Z-Man Games First Edition</boardgameversion>
+															<boardgameexpansion objectid="31260" inbound="true">Agricola</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="37">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="17">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="0" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="16" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="8" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="2346">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<age>9</age>
+
+							<name primary="true" sortindex="1">DVONN</name>
+									
+			<description>DVONN is played on an elongated hexagonal board, with 23 white, 23 black and 3 red DVONN-pieces. In the beginning the board is empty. The players first place the DVONN-pieces on the board and next to their own pieces. Then they start stacking pieces on top of each other. A single piece may be moved 1 space in any direction, a stack of two pieces may be moved two spaces, etc. A stack must always be moved as a whole and a move must always end on top of another piece or stack. If pieces or stacks lose contact with the DVONN-pieces, they must be removed from the board. The game ends when no more moves can be made. The players put the stacks they control on top of each other and the one with the highest stack is the winner.&lt;br/&gt;&lt;br/&gt;This game is part of project GIPF.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic255238_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic255238.jpg</image>
+						
+												<boardgamehonor objectid="12726">2002 International Gamers Awards - General Strategy; Two-players</boardgamehonor>
+															<boardgamehonor objectid="12331">2002 Mensa Select Winner</boardgamehonor>
+															<boardgamehonor objectid="13142">2002 Nederlandse Spellenprijs Nominee</boardgamehonor>
+															<boardgamehonor objectid="8662">2002 Spiel des Jahres Recommended</boardgamehonor>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																													<boardgamedesigner objectid="244">Kris Burm</boardgamedesigner>
+															<boardgamepublisher objectid="6818">Corfix</boardgamepublisher>
+															<boardgameversion objectid="72408">Don &amp; Co first edition</boardgameversion>
+															<boardgamepublisher objectid="137">Don &amp; Co.</boardgamepublisher>
+															<boardgameversion objectid="25239">Don&amp;Co Edition -  with Game of the Year (USA) Logo</boardgameversion>
+																																																																																																																															<boardgameexpansion objectid="5117">GIPF Project Set 2</boardgameexpansion>
+																																				<boardgameartist objectid="12605">lu&#039;cifer</boardgameartist>
+															<boardgamefamily objectid="6485">Mensa Select</boardgamefamily>
+																																				<boardgameversion objectid="27248">Prize List  Edition</boardgameversion>
+															<boardgamefamily objectid="10">Project GIPF</boardgamefamily>
+																																											<boardgamepublisher objectid="3">Rio Grande Games</boardgamepublisher>
+															<boardgameversion objectid="31702">Rio Grande Games Edition with Five award logos</boardgameversion>
+																						<boardgamepublisher objectid="7473">SMART</boardgamepublisher>
+															<boardgameversion objectid="131824">SMART Edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="31">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="31" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="20">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="20" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="6" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="58110">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>90</playingtime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Horse Fever</name>
+									
+			<description>Horse Fever transports players to a setting based on the noir novels of the 1930s, where each player is called on to impersonate rich bettors that will use any means necessary to cause the bets they place to pay off. They will fix races, bribe bookmakers, make horses fall asleep, buy stables and borrow money from the Mob in order to gain victory for their bets.&lt;br/&gt;&lt;br/&gt;Horse Fever has three different game modes: Board Game, Family Game and Party Game. These three different modes enable each kind of player to have a good time. The Board Game will enable expert players to discover a game based on an endless number of strategies; the Family Game will enable little players and families to get to know the basic game dynamics while playing a simpler but yet just as fun game; the Party Game will transform Horse Fever into a platform for a potentially endless number of players and turn any boring party into the most entertaining event of the century.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic949941_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic949941.jpg</image>
+						
+												<boardgamehonor objectid="12651">2010 Ludoteca Ideale Official Selection</boardgamehonor>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgamepodcastepisode objectid="8372">BGWS 068 – Horse Racing Games</boardgamepodcastepisode>
+															<boardgamepublisher objectid="10768">Cranio Creations</boardgamepublisher>
+																																				<boardgamepublisher objectid="15605">Galápagos Jogos</boardgamepublisher>
+															<boardgameversion objectid="140232">Galápagos Jogos Brazilian Edition</boardgameversion>
+																																											<boardgameartist objectid="28355">Giulia Ghigini</boardgameartist>
+															<boardgamepublisher objectid="264">Heidelberger Spieleverlag</boardgamepublisher>
+															<boardgamefamily objectid="5730">Horse Racing</boardgamefamily>
+																						<boardgameversion objectid="72358">Multilingual first edition</boardgameversion>
+															<boardgameversion objectid="91866">Multilingual second edition</boardgameversion>
+																													<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+																						<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamedesigner objectid="28238">Lorenzo Silva</boardgamedesigner>
+															<boardgamedesigner objectid="28239">Lorenzo Tucci Sorrentino</boardgamedesigner>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="21">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="15">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="13" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="30" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="14">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="2452">
+			<yearpublished>1983</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>20</playingtime>
+			<age>6</age>
+
+							<name  sortindex="1">Balance Tower</name>
+							<name  sortindex="1">Bugs Building</name>
+							<name  sortindex="1">Cae - Cae</name>
+							<name  sortindex="1">Hoppla Nature</name>
+							<name  sortindex="1">Huojuva torni</name>
+							<name primary="true" sortindex="1">Jenga</name>
+							<name  sortindex="1">Jenga Mark II</name>
+							<name  sortindex="1">JENGA: Tim Burton’s The Nightmare Before Christmas Travel Edition</name>
+							<name  sortindex="1">Jiggle Tower</name>
+							<name  sortindex="1">Jinga</name>
+							<name  sortindex="1">Klodsmajor</name>
+							<name  sortindex="1">Mini Timber Tumble</name>
+							<name  sortindex="1">Plock Bygg &amp; Ras!</name>
+							<name  sortindex="1">Red High Rise</name>
+							<name  sortindex="1">Stack &#039;em</name>
+							<name  sortindex="1">Tenka</name>
+							<name  sortindex="1">Tilt!</name>
+							<name  sortindex="1">Timba!</name>
+							<name  sortindex="1">Timber</name>
+							<name  sortindex="1">Torre de Madera</name>
+							<name  sortindex="1">Torremoto</name>
+							<name  sortindex="1">Tour Chancelante</name>
+							<name  sortindex="1">Tower</name>
+							<name  sortindex="1">Tower Up</name>
+							<name  sortindex="1">Tumble</name>
+							<name  sortindex="1">Tumble Tower</name>
+							<name  sortindex="1">Turmania</name>
+							<name  sortindex="1">Wackelturm</name>
+							<name  sortindex="1">Башня</name>
+							<name  sortindex="1">ジェンガ</name>
+							<name  sortindex="1">젠가</name>
+									
+			<description>A tower building game.&lt;br/&gt;&lt;br/&gt;Jenga is played with 54 wooden blocks; each block is 3 times as long as it is wide, and slightly smaller in height than in width. The blocks are stacked in a tower formation; each story is three blocks placed adjacent to each other along their long side, and each story is placed perpendicular to the previous (so, for example, if the blocks in the first story are pointing north-south, the second story blocks will point east-west). There are therefore 18 stories to the Jenga tower. Since stacking the blocks neatly can be tedious, a plastic loading tray is included.&lt;br/&gt;&lt;br/&gt;Once the tower is built, the person who built the tower moves first. Moving in Jenga consists of taking one and only one block from any story except the completed top story of the tower at the time of the turn, and placing it on the topmost story in order to complete it. Only one hand at a time may be used to remove a block; both hands can be used, but only one hand may be on the tower at a time. Blocks may be bumped to find a loose block that will not disturb the rest of the tower. Any block that is moved out of place may be left out of place if it is determined that it will knock the tower over if it is removed. The turn ends when the next person to move touches the tower, although he or she can wait 10 seconds before moving for the previous turn to end if they believe the tower will fall in that time.&lt;br/&gt;&lt;br/&gt;The game ends when the tower falls in any significant way -- in other words, any piece falls from the tower, other than the piece being knocked out to move to the top. The loser is the person who made the tower fall (i.e. whose turn it was when the tower fell); the winner is the person who moved before the loser.&lt;br/&gt;&lt;br/&gt;The same game concept was published in 1984 by Fagus under the name &amp;quot;Hoppla - eins zuviel!&amp;quot;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic275096_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic275096.jpg</image>
+						
+												<boardgameartist objectid="3">(Uncredited)</boardgameartist>
+															<boardgamefamily objectid="5607">3D Games</boardgamefamily>
+																													<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+															<boardgamepublisher objectid="4922">Barnes &amp; Noble</boardgamepublisher>
+															<boardgamepublisher objectid="4680">Borras Plana S.A.</boardgamepublisher>
+															<boardgamepublisher objectid="17388">Creative Crafthouse</boardgamepublisher>
+																																																		<boardgamepublisher objectid="588">Early Learning Centre</boardgamepublisher>
+															<boardgameversion objectid="97762">Early Learning Centre Edition</boardgameversion>
+																						<boardgamepublisher objectid="1731">Estrela</boardgamepublisher>
+															<boardgamepublisher objectid="200">Fundex</boardgamepublisher>
+															<boardgameversion objectid="78508">Fundex Version</boardgameversion>
+																													<boardgameversion objectid="86668">German edition</boardgameversion>
+															<boardgameversion objectid="151147">Grow Edition</boardgameversion>
+															<boardgamepublisher objectid="858">Grow Jogos e Brinquedos</boardgamepublisher>
+															<boardgamepublisher objectid="51">Hasbro</boardgamepublisher>
+															<boardgameversion objectid="30219">Hasbro/Milton Bradley version 1996</boardgameversion>
+															<boardgamefamily objectid="10407">Hello Kitty</boardgamefamily>
+															<boardgamepublisher objectid="4742">IKEA</boardgamepublisher>
+															<boardgameversion objectid="23996">Irwin edition</boardgameversion>
+															<boardgameversion objectid="61533">Irwin Toy edition</boardgameversion>
+															<boardgamepublisher objectid="520">Irwin Toy Ltd.</boardgamepublisher>
+															<boardgameversion objectid="148428">Japanese edition</boardgameversion>
+															<boardgamefamily objectid="5642">Jenga</boardgamefamily>
+															<boardgameversion objectid="32477">Jenga Vintage Wood Book Edition</boardgameversion>
+																						<boardgamepublisher objectid="327">Lagoon Games</boardgamepublisher>
+															<boardgameversion objectid="30220">Lagoon Games Tumble</boardgameversion>
+																						<boardgamepublisher objectid="11279">Leslie Scott Associates</boardgamepublisher>
+															<boardgamepublisher objectid="6290">MB Spiele</boardgamepublisher>
+															<boardgamepublisher objectid="12803">Melco</boardgamepublisher>
+															<boardgamepublisher objectid="20">Milton Bradley</boardgamepublisher>
+															<boardgameversion objectid="99692">Milton Bradley Edition 1993</boardgameversion>
+															<boardgameversion objectid="52156">Milton Bradley US edition 1986</boardgameversion>
+															<boardgameversion objectid="25452">Milton Bradley/Hasbro edition 2000</boardgameversion>
+																						<boardgameversion objectid="27073">Onyx Edition</boardgameversion>
+															<boardgamepublisher objectid="779">Paradigm Games Ltd</boardgamepublisher>
+															<boardgamepublisher objectid="28">Parker Brothers</boardgamepublisher>
+															<boardgameversion objectid="99725">Parker Brothers Dutch Edition 2009</boardgameversion>
+															<boardgameversion objectid="51450">Parker Brothers International Edition</boardgameversion>
+															<boardgameversion objectid="72754">Parker Brothers Travel edition</boardgameversion>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgamesubdomain objectid="5498">Party Games</boardgamesubdomain>
+															<boardgamepublisher objectid="2188">Pavilion</boardgamepublisher>
+															<boardgameversion objectid="52155">Pavilion Edition</boardgameversion>
+															<boardgamepublisher objectid="6360">Pokonobe Associates</boardgamepublisher>
+															<boardgamefamily objectid="11505">Promotional Board Games</boardgamefamily>
+															<boardgamepublisher objectid="47">Queen Games</boardgamepublisher>
+																																				<boardgameversion objectid="30738">Scandinavian Edition</boardgameversion>
+															<boardgamepublisher objectid="5392">Schmidt France</boardgamepublisher>
+															<boardgamedesigner objectid="1151">Leslie Scott</boardgamedesigner>
+															<boardgamepublisher objectid="21744">Siam Mandalay</boardgamepublisher>
+															<boardgameversion objectid="152351">Siam Mandalay version</boardgameversion>
+															<boardgamepublisher objectid="777">Simba Toys</boardgamepublisher>
+																						<boardgamepublisher objectid="4281">SPM - Syarikat Permainan Malaysia</boardgamepublisher>
+															<boardgamepublisher objectid="21293">Stihl</boardgamepublisher>
+															<boardgamepublisher objectid="964">Tactic</boardgamepublisher>
+															<boardgamefamily objectid="10566">Tarzan</boardgamefamily>
+															<boardgamepublisher objectid="8089">Tesco</boardgamepublisher>
+															<boardgameversion objectid="81663">Tesco edition</boardgameversion>
+															<boardgamepublisher objectid="1322">Tomy</boardgamepublisher>
+															<boardgamefamily objectid="5619">Transformers</boardgamefamily>
+															<boardgamepublisher objectid="8841">tridias</boardgamepublisher>
+															<boardgamepublisher objectid="634">USAopoly</boardgamepublisher>
+															<boardgamepublisher objectid="9301">Woodstock Spiele</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="37">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="20" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="29">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="29" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="19">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="3" />
+					<result value="5" numvotes="9" />
+					<result value="6" numvotes="5" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="34010">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Journey to the Center of the Earth</name>
+							<name  sortindex="1">Matka Maan Keskipisteeseen</name>
+							<name  sortindex="1">Podróż do wnętrza ziemi</name>
+							<name  sortindex="1">Reis naar het Middelpunt der Aarde</name>
+							<name  sortindex="5">Die Reise zum Mittelpunkt der Erde</name>
+							<name  sortindex="1">Reisen til Jordens Indre</name>
+							<name  sortindex="1">Utazás a Föld középpontja felé</name>
+							<name  sortindex="1">Ταξίδι στο Κέντρο της Γης</name>
+									
+			<description>Players lead the main characters from the novel on a journey into one volcano, across an underground ocean, and up another volcano while trying to discover fossils and observe strange creatures.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic590605_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic590605.jpg</image>
+						
+												<boardgamehonor objectid="9282">2008 Årets Spill Best Family Game Nominee</boardgamehonor>
+															<boardgamepublisher objectid="267">999 Games</boardgamepublisher>
+															<boardgameversion objectid="156332">999 Games Dutch edition</boardgameversion>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamepublisher objectid="4335">Competo / Marektoy</boardgamepublisher>
+															<boardgamedesigner objectid="381">Rüdiger Dorn</boardgamedesigner>
+																													<boardgameversion objectid="34470">English first edition</boardgameversion>
+																													<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="138449">Finnish/Norwegian edition</boardgameversion>
+															<boardgamepublisher objectid="4617">Galakta</boardgamepublisher>
+																						<boardgameversion objectid="30401">German first edition</boardgameversion>
+																																																																																																																	<boardgameversion objectid="29447">Greek First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgameversion objectid="102033">Hungarian edition</boardgameversion>
+																													<boardgamefamily objectid="9314">Jules Verne&#039;s novels</boardgamefamily>
+															<boardgamepublisher objectid="6214">Kaissa Chess &amp; Games</boardgamepublisher>
+															<boardgamepublisher objectid="37">Kosmos</boardgamepublisher>
+															<boardgamefamily objectid="4256">Kosmos Literature Series</boardgamefamily>
+															<boardgamepublisher objectid="10">Mayfair Games</boardgamepublisher>
+															<boardgamecategory objectid="1093">Novel-based</boardgamecategory>
+															<boardgamepublisher objectid="22">Piatnik</boardgamepublisher>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgameversion objectid="33685">Polish edition</boardgameversion>
+																													<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamecategory objectid="1097">Travel</boardgamecategory>
+																						<boardgameartist objectid="11883">Franz Vohwinkel</boardgameartist>
+															<boardgamepublisher objectid="1466">Zvezda</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="36" value="No necessary in-game text" numvotes="0" />
+					<result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="7" />
+					<result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="40" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="60054">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>80</playingtime>
+			<age>8</age>
+
+							<name  sortindex="1">Anführer der Smallworld</name>
+							<name  sortindex="5">Les Chefs de Smallworld</name>
+							<name primary="true" sortindex="1">Leaders of Small World</name>
+							<name  sortindex="1">Lideres de Smallworld</name>
+							<name  sortindex="1">Smallworld</name>
+									
+			<description>This expansion of Small World is a promotional expansion first given away at Spiel 2009 in Essen. The expansion is based on an idea of Michael Ormesher in a Days of Wonder &amp;quot;Race design contest&amp;quot;.&lt;br/&gt;&lt;br/&gt;The expansion consists of 24 leader tokens that are neither a race nor a power. When you pick a new race, you can opt to buy its leader. The leader acts as an additional race token. The leader, however, disappears as soon as the race goes into decline. Also, the leader is brave, which means that he can only be staying at regions that are not immune.&lt;br/&gt;&lt;br/&gt;Leaders can be held hostage for ransom. If the ransom is not paid, the leader counts as two victory points at the end of the game for the player that captured the leader.&lt;br/&gt;&lt;br/&gt;The expansion was available EXCLUSIVELY from The BGG Store but is now out of stock and there are currently no plans to make it available again.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic589620_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic589620.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamefamily objectid="8241">BoardGameGeek Promo Offerings</boardgamefamily>
+															<boardgamecategory objectid="1015">Civilization</boardgamecategory>
+															<boardgameartist objectid="12016">Miguel Coimbra</boardgameartist>
+															<boardgamepublisher objectid="1027">Days of Wonder</boardgamepublisher>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																													<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="26875">First edition</boardgameversion>
+															<boardgamedesigner objectid="49">Philippe Keyaerts</boardgamedesigner>
+															<boardgamedesigner objectid="30603">Michael Ormesher</boardgamedesigner>
+															<boardgamefamily objectid="3868">Small World</boardgamefamily>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+																						<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgameexpansion objectid="40692" inbound="true">Small World</boardgameexpansion>
+															<boardgameexpansion objectid="97786" inbound="true">Small World Underground</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="5+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="41" value="No necessary in-game text" numvotes="2" />
+					<result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="45" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="24480">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>120</playingtime>
+			<age>12</age>
+
+							<name  sortindex="1">Filary Ziemi</name>
+							<name  sortindex="4">De Kathedraal</name>
+							<name  sortindex="5">Los Pilares de la Tierra</name>
+							<name  sortindex="3">I Pilastri della Terra</name>
+							<name  sortindex="5">Les Piliers de la Terre</name>
+							<name  sortindex="1">Pilíře země</name>
+							<name primary="true" sortindex="5">The Pillars of the Earth</name>
+							<name  sortindex="5">Die Säulen der Erde</name>
+							<name  sortindex="1">Stormenes tid</name>
+							<name  sortindex="1">Taivaan pilarit</name>
+							<name  sortindex="1">Στυλοβάτες της Γης</name>
+							<name  sortindex="1">대지의 기둥</name>
+									
+			<description>Die S&amp;auml;ulen der Erde / The Pillars of the Earth is based on the bestselling novel by Ken Follett and the 2006 game in the Kosmos line of literature-based games.&lt;br/&gt;&lt;br/&gt;At the beginning of the 13th century, construction of the greatest and most beautiful cathedral in England begins. Players are builders who try to contribute the most to this cathedral's construction and, in so doing, score the most victory points.  Gameplay roughly consists of using workers to produce raw materials, and then using craftsmen to convert the materials into victory points.  Workers may also be used to produce gold, the currency of the game.  Players are also given three master builders each turn, each of which can do a variety of tasks, including recruiting more workers, buying or selling goods, or just obtaining victory points.  Getting early choices with a master builder costs gold, as does purchasing better craftsmen.  Players must strike a balance between earning gold to fund their purchases and earning victory points.&lt;br/&gt;&lt;br/&gt;Expanded by:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     The Pillars of the Earth Expansion Set (which include the Expansion Cards in some editions)&lt;br/&gt;     The Pillars of the Earth: Expansion Cards (which are included in the Expansion Set in some editions)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Buy Microbadges&lt;br/&gt;&lt;br/&gt;Pillars of the Earth Fan&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Pillars of the Earth - I pimped my cathedral&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;      Pillars of the Earth fan&lt;br/&gt;      Pillars of the Earth fan&lt;br/&gt;      Pillars of the Earth fan - Exp. Set&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic212815_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic212815.jpg</image>
+						
+												<boardgamehonor objectid="9283">2007 Årets Spill Best Family Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="9260">2007 Årets Spill Best Family Game Winner</boardgamehonor>
+															<boardgamehonor objectid="8850">2007 Golden Geek Best Board Game Artwork/Presentation Nominee</boardgamehonor>
+															<boardgamehonor objectid="8849">2007 Golden Geek Best Family Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="8846">2007 Golden Geek Best Gamer&#039;s Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="13161">2007 Hra roku Nominee</boardgamehonor>
+															<boardgamehonor objectid="12823">2007 International Gamers Awards - General Strategy; Multi-player Nominee</boardgamehonor>
+															<boardgamehonor objectid="13127">2007 Nederlandse Spellenprijs Nominee</boardgamehonor>
+															<boardgamehonor objectid="8642">2007 Spiel des Jahres Recommended</boardgamehonor>
+															<boardgamehonor objectid="13229">2007 Tric Trac de Bronze</boardgamehonor>
+															<boardgamehonor objectid="13230">2007 Tric Trac Nominee</boardgamehonor>
+															<boardgamehonor objectid="12906">2007 Vuoden Peli Adult Game of the Year Nominee</boardgamehonor>
+															<boardgamehonor objectid="12646">2008 Ludoteca Ideale Official Selection</boardgamehonor>
+															<boardgamepublisher objectid="267">999 Games</boardgamepublisher>
+															<boardgamepublisher objectid="4304">Albi</boardgamepublisher>
+																																											<boardgamepublisher objectid="6189">Cappelen</boardgamepublisher>
+															<boardgamepublisher objectid="4335">Competo / Marektoy</boardgamepublisher>
+																						<boardgamepublisher objectid="2366">Devir</boardgamepublisher>
+															<boardgameversion objectid="30872">Devir First edition</boardgameversion>
+																						<boardgameversion objectid="20635">Dutch edition</boardgameversion>
+																																																																																					<boardgamecategory objectid="1021">Economic</boardgamecategory>
+																						<boardgameversion objectid="27557">English Mayfair/Kosmos edition</boardgameversion>
+																																																									<boardgamepublisher objectid="5657">Filosofia Editions</boardgamepublisher>
+															<boardgameversion objectid="29524">Finnish Edition</boardgameversion>
+																						<boardgameversion objectid="29517">French Edition</boardgameversion>
+																																				<boardgamepublisher objectid="4617">Galakta</boardgamepublisher>
+																						<boardgamepodcastepisode objectid="6132">Garrett&#039;s Games 68 - Pillars of the Earth, Thurn and Taxis Expansion</boardgamepodcastepisode>
+															<boardgameversion objectid="24467">German first edition</boardgameversion>
+																																																																																																																																																																																<boardgameversion objectid="89782">German second edition w/ DSP</boardgameversion>
+															<boardgameversion objectid="30093">German special edition with expansion</boardgameversion>
+															<boardgameversion objectid="23748">Greek first edition</boardgameversion>
+																																				<boardgameversion objectid="29521">Italian Edition</boardgameversion>
+															<boardgamepublisher objectid="6214">Kaissa Chess &amp; Games</boardgamepublisher>
+															<boardgamefamily objectid="7839">Ken Follett novels</boardgamefamily>
+															<boardgamepublisher objectid="37">Kosmos</boardgamepublisher>
+															<boardgamefamily objectid="4256">Kosmos Literature Series</boardgamefamily>
+																						<boardgamepublisher objectid="10">Mayfair Games</boardgamepublisher>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgameartist objectid="11825">Michael Menzel</boardgameartist>
+																						<boardgameversion objectid="85157">Norwegian edition</boardgameversion>
+															<boardgamecategory objectid="1093">Novel-based</boardgamecategory>
+																													<boardgameexpansion objectid="31753">The Pillars of the Earth Expansion Set</boardgameexpansion>
+																						<boardgameexpansion objectid="33559">The Pillars of the Earth: Expansion Cards</boardgameexpansion>
+																						<boardgameartist objectid="22516">Anke Pohl</boardgameartist>
+															<boardgameversion objectid="29523">Polish Edition</boardgameversion>
+																																																																																																			<boardgameartist objectid="22515">Thilo Rick</boardgameartist>
+															<boardgamedesigner objectid="142">Michael Rieneck</boardgamedesigner>
+																																				<boardgameversion objectid="29519">Spanish Edition</boardgameversion>
+															<boardgameversion objectid="37233">Spanish Edition</boardgameversion>
+																						<boardgamedesigner objectid="7391">Stefan Stadler</boardgamedesigner>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="9235">Stupor Mundi</boardgamepublisher>
+																																																		<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="188">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="88" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="79" />
+					<result value="Not Recommended" numvotes="47" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="54" />
+					<result value="Recommended" numvotes="99" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="102" />
+					<result value="Recommended" numvotes="46" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="62" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="62">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="0" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="11" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="45" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="6" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="36">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="16" />
+					<result value="12" numvotes="13" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="19764">
+			<yearpublished>2005</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">PÜNCT</name>
+							<name  sortindex="1">Punct</name>
+									
+			<description>P&amp;Uuml;NCT, the fifth released game by design in project GIPF, is a connection game.&lt;br/&gt;The goal is to connect two opposite sides of the board. A player's turn consists of either bringing a new piece into play or moving one already on the board.&lt;br/&gt;&lt;br/&gt;This game is part of project GIPF.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic94721_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic94721.jpg</image>
+						
+												<boardgamehonor objectid="8855">2006 Golden Geek Best 2-Player Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="12965">2006 International Gamers Award - General Strategy: Two-players</boardgamehonor>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="244">Kris Burm</boardgamedesigner>
+															<boardgamepublisher objectid="137">Don &amp; Co.</boardgamepublisher>
+															<boardgameversion objectid="25241">Don&amp;Co Edition</boardgameversion>
+																																																									<boardgameartist objectid="12605">lu&#039;cifer</boardgameartist>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+																																				<boardgamefamily objectid="10">Project GIPF</boardgamefamily>
+																																																									<boardgamepublisher objectid="3">Rio Grande Games</boardgamepublisher>
+															<boardgameversion objectid="31771">Rio Grande Games Edition</boardgameversion>
+																						<boardgamepublisher objectid="7473">SMART</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="7" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="8192">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Railroad Dice</name>
+							<name  sortindex="1">Railroad Dice - Die ersten Schienen</name>
+									
+			<description>Railroad Dice: The First Rails is the first game in a new series of railway games using dice as their main component.&lt;br/&gt;&lt;br/&gt;Each player is an investor who wants to take control of one or more of the 5 Railroad companies with the aim of constructing as many adjacent Railway Stations as possible in order to attract the most Passengers.&lt;br/&gt;&lt;br/&gt;The game is played simultaneously on two large tiles upon which the tracks and stations are built. In a fairly unique methodology, finished tiles are replaced by miniature tiles as the tracks grow.&lt;br/&gt;&lt;br/&gt;(Initially released in a cube box at Essen 2003 with a publication run of 300 copies)&lt;br/&gt;&lt;br/&gt;Expanded by:&lt;br/&gt;&lt;br/&gt;    Railroad Dice: Crossing&lt;br/&gt;    Railroad Dice: Germany&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Followed by:&lt;br/&gt;&lt;br/&gt;    Railroad Dice 2&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic220462_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic220462.jpg</image>
+						
+												<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameartist objectid="28148">Oliver Fermer</boardgameartist>
+															<boardgamedesigner objectid="2811">Jens Kappe</boardgamedesigner>
+																						<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgamefamily objectid="8971">Railroad Dice</boardgamefamily>
+																						<boardgameexpansion objectid="13591">Railroad Dice: Crossing</boardgameexpansion>
+															<boardgameexpansion objectid="13463">Railroad Dice: Germany</boardgameexpansion>
+																						<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgameversion objectid="26323">Second edition</boardgameversion>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+															<boardgameversion objectid="72062">Wassertal first edition in box cube</boardgameversion>
+															<boardgamepublisher objectid="1896">Wassertal Spieleverlag</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="56" value="No necessary in-game text" numvotes="2" />
+					<result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="60" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="20551">
+			<yearpublished>2006</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>150</playingtime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Shogun</name>
+							<name  sortindex="1">Szogun</name>
+							<name  sortindex="1">쇼군</name>
+									
+			<description>Shogun is based on the Wallenstein game system. The game is set in the Sengoku period (approx 1467-1573) which ends with the inception of the well-known Tokugawa Shogunate.&lt;br/&gt;&lt;br/&gt;The game is an international edition with language-independent components and five language-dependent rule booklets.&lt;br/&gt;&lt;br/&gt;Japan during the Sengoku or &amp;ldquo;Warring States&amp;rdquo; Period: each player assumes the role of a great Daimyo with all his troops.  Each Daimyo has the same 10 possible actions to develop his kingdom and secure points.  To do so he must deploy his armies with great skill.  Each round, the players decide which of the actions are to be played out and in which of their provinces.  If battle ensues between opposing armies, the unique Cubetower plays the leading role.  The troops from both sides are thrown in together and the cubes that fall out at the bottom show who has won immediately.  Owning provinces, temples, theaters, and castles means points when scores are tallied.  Whichever Daimyo has the highest number of points after the second tally becomes &amp;ndash; SHOGUN!&lt;br/&gt;&lt;br/&gt;Re-implements:&lt;br/&gt;&lt;br/&gt;    Wallenstein&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic145843_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic145843.jpg</image>
+						
+																			<boardgamehonor objectid="8850">2007 Golden Geek Best Board Game Artwork/Presentation Nominee</boardgamehonor>
+															<boardgamehonor objectid="8846">2007 Golden Geek Best Gamer&#039;s Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="8733">2007 Golden Geek Best Gamer&#039;s Board Game Winner</boardgamehonor>
+															<boardgamehonor objectid="8847">2007 Golden Geek Best Wargame Nominee</boardgamehonor>
+															<boardgamehonor objectid="8732">2007 Golden Geek Board Game of the Year Winner</boardgamehonor>
+															<boardgamehonor objectid="13127">2007 Nederlandse Spellenprijs Nominee</boardgamehonor>
+															<boardgamehonor objectid="13228">2007 Tric Trac d&#039;Argent</boardgamehonor>
+															<boardgamehonor objectid="13230">2007 Tric Trac Nominee</boardgamehonor>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamefamily objectid="9470">Asian Theme</boardgamefamily>
+															<boardgamepublisher objectid="6784">Bergsala Enigma</boardgamepublisher>
+																													<boardgamefamily objectid="10634">Country: Japan</boardgamefamily>
+																																											<boardgamecategory objectid="1021">Economic</boardgamecategory>
+																																																																<boardgamepublisher objectid="8845">G3</boardgamepublisher>
+																																																																																												<boardgamedesigner objectid="60">Dirk Henn</boardgamedesigner>
+																						<boardgameversion objectid="118142">Hungarian first edtition</boardgameversion>
+																						<boardgamepublisher objectid="10946">M-Ágnes</boardgamepublisher>
+															<boardgameartist objectid="11825">Michael Menzel</boardgameartist>
+																																																																							<boardgameversion objectid="31144">Polish edition</boardgameversion>
+																																																		<boardgamepublisher objectid="47">Queen Games</boardgamepublisher>
+															<boardgameversion objectid="23949">Queen Games First Edition</boardgameversion>
+															<boardgameversion objectid="24033">Queen Games Second Edition</boardgameversion>
+																																											<boardgameversion objectid="77945">Scandinavian edition</boardgameversion>
+															<boardgameexpansion objectid="74823">Shogun: Tenno&#039;s Court</boardgameexpansion>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+															<boardgamemechanic objectid="2079">Variable Phase Order</boardgamemechanic>
+																											
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="147">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="75" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="74" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="69" />
+					<result value="Not Recommended" numvotes="42" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="74" />
+					<result value="Recommended" numvotes="63" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="97" />
+					<result value="Recommended" numvotes="35" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="53" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="63">
+			
+		<results>		
+					<result level="61" value="No necessary in-game text" numvotes="61" />
+					<result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="65" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="35">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="6" />
+					<result value="12" numvotes="17" />
+					<result value="14" numvotes="8" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="40692">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>80</playingtime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Small World</name>
+							<name  sortindex="1">Smallworld</name>
+							<name  sortindex="1">スモールワールド</name>
+							<name  sortindex="1">小小世界</name>
+									
+			<description>In Small World, players vie for conquest and control of a world that is simply too small to accommodate them all.&lt;br/&gt;&lt;br/&gt;Designed by Philippe Keyaerts as a fantasy follow-up to his award-winning Vinci, Small World is inhabited by a zany cast of characters such as dwarves, wizards, amazons, giants, orcs, and even humans, who use their troops to occupy territory and conquer adjacent lands in order to push the other races off the face of the earth.&lt;br/&gt;&lt;br/&gt;Picking the right combination from the 14 different fantasy races and 20 unique special powers, players rush to expand their empires - often at the expense of weaker neighbors. Yet they must also know when to push their own over-extended civilization into decline and ride a new one to victory!&lt;br/&gt;&lt;br/&gt;Reimplements:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Vinci (released in 1999)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Re-implemented by:&lt;br/&gt;&lt;br/&gt;    Small World Underground (released in 2011)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Clarifications: available in a pinned forum post.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic428828_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic428828.jpg</image>
+						
+												<boardgamehonor objectid="8420">2009 Golden Geek Best Board Game Artwork/Presentation Nominee</boardgamehonor>
+															<boardgamehonor objectid="8413">2009 Golden Geek Best Family Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="8356">2009 Golden Geek Best Gamers&#039; Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="8416">2009 Golden Geek Best Wargame Nominee</boardgamehonor>
+															<boardgamehonor objectid="12825">2009 International Gamers Awards - General Strategy; Multi-player Nominee</boardgamehonor>
+															<boardgamehonor objectid="13219">2009 Tric Trac d&#039;Or</boardgamehonor>
+															<boardgamehonor objectid="13222">2009 Tric Trac Nominee</boardgamehonor>
+															<boardgamehonor objectid="12796">2010 Boardgames Australia Awards Best International Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="8751">2010 Golden Geek Best Board Game Artwork/Presentation Nominee</boardgamehonor>
+															<boardgamehonor objectid="8755">2010 Golden Geek Best Family Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="8759">2010 Golden Geek Best Strategy Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="8761">2010 Golden Geek Best Wargame Nominee</boardgamehonor>
+															<boardgamehonor objectid="13196">2010 Guldbrikken Special Jury Prize</boardgamehonor>
+															<boardgamehonor objectid="12653">2011 Ludoteca Ideale Official Selection</boardgamehonor>
+																																											<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+																																																									<boardgamecategory objectid="1015">Civilization</boardgamecategory>
+															<boardgameartist objectid="12016">Miguel Coimbra</boardgameartist>
+																						<boardgamepublisher objectid="14813">Compaya.hu - Gamer Café Kft.</boardgamepublisher>
+																						<boardgamepublisher objectid="1027">Days of Wonder</boardgamepublisher>
+																						<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																																																		<boardgameversion objectid="24053">Dutch version</boardgameversion>
+															<boardgamepublisher objectid="2973">Edge Entertainment</boardgamepublisher>
+															<boardgameversion objectid="23936">English first edition</boardgameversion>
+																																																																																																																								<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="73633">French first edition</boardgameversion>
+																																																									<boardgameversion objectid="26772">German first edition</boardgameversion>
+																																																		<boardgamepublisher objectid="5530">Giochi Uniti</boardgamepublisher>
+															<boardgamepublisher objectid="1391">Hobby Japan</boardgamepublisher>
+																						<boardgameversion objectid="137139">Hungarian First Edition</boardgameversion>
+																													<boardgameversion objectid="88159">Italian first edition</boardgameversion>
+																													<boardgameversion objectid="101077">Japanese Edition</boardgameversion>
+															<boardgamedesigner objectid="49">Philippe Keyaerts</boardgamedesigner>
+															<boardgameexpansion objectid="60054">Leaders of Small World</boardgameexpansion>
+																																																																																																																																													<boardgamefamily objectid="3868">Small World</boardgamefamily>
+																						<boardgameexpansion objectid="65490">Small World Community&#039;s Compendium I (fan expansion for Small World)</boardgameexpansion>
+															<boardgameexpansion objectid="66640">Small World Community&#039;s Compendium II (fan expansion for Small World)</boardgameexpansion>
+																																																									<boardgameexpansion objectid="81618">Small World: Be Not Afraid...</boardgameexpansion>
+															<boardgameexpansion objectid="57072">Small World: Cursed!</boardgameexpansion>
+															<boardgameexpansion objectid="57070">Small World: Grand Dames of Small World</boardgameexpansion>
+															<boardgameexpansion objectid="84183">Small World: Necromancer Island</boardgameexpansion>
+															<boardgameexpansion objectid="64592">Small World: Random Map Expansion (fan expansion for Small World)</boardgameexpansion>
+															<boardgameexpansion objectid="71818">Small World: Tales and Legends</boardgameexpansion>
+															<boardgameexpansion objectid="109632">Small World: Tunnels</boardgameexpansion>
+																																				<boardgameversion objectid="33361">Spanish first edition</boardgameversion>
+																						<boardgamepodcastepisode objectid="7679">Spiele-Podcast Nr. 62: Smallworld (Days of Wonder)</boardgamepodcastepisode>
+																						<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="3888">Stratelibri</boardgamepublisher>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+																																											<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+																																		
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="362">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="195" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="43" />
+					<result value="Recommended" numvotes="183" />
+					<result value="Not Recommended" numvotes="73" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="115" />
+					<result value="Recommended" numvotes="176" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="227" />
+					<result value="Recommended" numvotes="92" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="86" />
+					<result value="Recommended" numvotes="176" />
+					<result value="Not Recommended" numvotes="30" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="129" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="164">
+			
+		<results>		
+					<result level="66" value="No necessary in-game text" numvotes="77" />
+					<result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="61" />
+					<result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="23" />
+					<result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="70" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="134">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="7" />
+					<result value="8" numvotes="58" />
+					<result value="10" numvotes="55" />
+					<result value="12" numvotes="9" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="57072">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>80</playingtime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Small World: Cursed!</name>
+							<name  sortindex="1">Small World: Maauuudits !</name>
+							<name  sortindex="1">Small World: Verflucht!</name>
+							<name  sortindex="1">Small World: Vervloekt</name>
+							<name  sortindex="1">Small World: ¡Malditos!</name>
+							<name  sortindex="1">Smallworld</name>
+									
+			<description>Cursed! is a Small World board game expansion. Cursed! includes 2  new Small World Races - Kobolds and Goblins; along with 5 new Special Power Badges - Cursed; Hordes of; Marauding; Ransacking; and Were-. The Cursed! expansion was created as part of the Small World Design Contest and features winning designs from the over 700 different entries submitted. This is an expansion and requires a copy of the Small World board game.&lt;br/&gt;&lt;br/&gt;Expands:&lt;br/&gt;&lt;br/&gt;     Small World&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic563285_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic563285.jpg</image>
+						
+																			<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamecategory objectid="1015">Civilization</boardgamecategory>
+															<boardgameartist objectid="12016">Miguel Coimbra</boardgameartist>
+															<boardgamepublisher objectid="1027">Days of Wonder</boardgamepublisher>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="72795">Dutch First Edition</boardgameversion>
+															<boardgamepublisher objectid="2973">Edge Entertainment</boardgamepublisher>
+															<boardgameversion objectid="26867">English First Edition</boardgameversion>
+																						<boardgameversion objectid="55512">English Second Printing</boardgameversion>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="26869">French First Edition</boardgameversion>
+															<boardgameversion objectid="26868">German First Edition</boardgameversion>
+																													<boardgamedesigner objectid="8347">Phil Harding</boardgamedesigner>
+																						<boardgamedesigner objectid="49">Philippe Keyaerts</boardgamedesigner>
+															<boardgamedesigner objectid="7640">Paolo Mori</boardgamedesigner>
+																																											<boardgamefamily objectid="3868">Small World</boardgamefamily>
+															<boardgameversion objectid="26870">Spanish First Edition</boardgameversion>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+																													<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgameexpansion objectid="40692" inbound="true">Small World</boardgameexpansion>
+															<boardgameexpansion objectid="97786" inbound="true">Small World Underground</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="71" value="No necessary in-game text" numvotes="4" />
+					<result level="72" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="73" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="74" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="75" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="57070">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>80</playingtime>
+			<age>8</age>
+
+							<name  sortindex="1">Grandes Damas de Small World</name>
+							<name  sortindex="1">Grootse Dames van Small World</name>
+							<name  sortindex="1">Small World: Frauenpower</name>
+							<name  sortindex="1">Small World: Grand Dames</name>
+							<name primary="true" sortindex="1">Small World: Grand Dames of Small World</name>
+							<name  sortindex="1">Small World: Honneur aux Dames!</name>
+									
+			<description>The Grand Dames of Small World is the first expansion for Days of Wonder's Small World board game released in 2009. The Grand Dames includes 3 new powerful female race banners - Gypsies, Priestesses and the ghostly White Ladies. It also includes 2 new Special Power Badges - Historian and Peace-Loving. The Grand Dames of Small World expansion was created as part of the Small World Design Contest and features winning designs from the over 700 different entries submitted. This is an expansion and requires a copy of the Small World board game.&lt;br/&gt;&lt;br/&gt;Expands:&lt;br/&gt;&lt;br/&gt;     Small World&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic563283_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic563283.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamecategory objectid="1015">Civilization</boardgamecategory>
+															<boardgameartist objectid="12016">Miguel Coimbra</boardgameartist>
+															<boardgamepublisher objectid="1027">Days of Wonder</boardgamepublisher>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="72793">Dutch first edition</boardgameversion>
+															<boardgamepublisher objectid="2973">Edge Entertainment</boardgamepublisher>
+															<boardgameversion objectid="26871">English First Edition</boardgameversion>
+																						<boardgameversion objectid="55510">English Second Printing</boardgameversion>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="26873">French First Edition</boardgameversion>
+															<boardgameversion objectid="26872">German First Edition</boardgameversion>
+																													<boardgamedesigner objectid="30118">Michael Haverty</boardgamedesigner>
+																						<boardgamedesigner objectid="49">Philippe Keyaerts</boardgamedesigner>
+															<boardgamedesigner objectid="26626">Jason Oman</boardgamedesigner>
+																																											<boardgamefamily objectid="3868">Small World</boardgamefamily>
+															<boardgameversion objectid="26874">Spanish First Edition</boardgameversion>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+																													<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgameexpansion objectid="40692" inbound="true">Small World</boardgameexpansion>
+															<boardgameexpansion objectid="97786" inbound="true">Small World Underground</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="76" value="No necessary in-game text" numvotes="2" />
+					<result level="77" value="Some necessary text - easily memorized or small crib sheet" numvotes="6" />
+					<result level="78" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="79" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="80" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="71818">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>75</playingtime>
+			<age>10</age>
+
+							<name  sortindex="1">Small World: Contes et Légendes</name>
+							<name  sortindex="1">Small World: Cuentos y Leyendas</name>
+							<name  sortindex="1">Small World: Fabeln und Legenden</name>
+							<name primary="true" sortindex="1">Small World: Tales and Legends</name>
+							<name  sortindex="1">Small world: Verhalen &amp; Legendes</name>
+							<name  sortindex="1">Smallworld</name>
+							<name  sortindex="1">スモールワールド　物語と伝説</name>
+							<name  sortindex="1">スモールワールド拡張セット　物語と伝説</name>
+									
+			<description>Will you end up drinking the Philter of Forgetfulness, be flung from the Great Catapult, or even have a chance to seduce the White Queen?&lt;br/&gt;&lt;br/&gt;Thanks to this new expansion for Small World, the wise veterans of the game now have a chance to re-write History...&lt;br/&gt;&lt;br/&gt;Tales &amp;amp; Legends introduces 54 new Event cards that change the storyline of each turn during the game.  Some events may have small consequences, while others are nearly cataclysmic in their impact.&lt;br/&gt;&lt;br/&gt;At the start of each turn (except the first) a new event card is drawn and put into play. The next Upcoming Event is also visible, so players know what faces them on the next turn.&lt;br/&gt;&lt;br/&gt;This expansion was created by Laurent Verrier, Special Prize Winner of the Small World Design Contest. Philippe Keyaerts, the original game&amp;rsquo;s author, provided additional development assistance.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic728313_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic728313.jpg</image>
+						
+																			<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1015">Civilization</boardgamecategory>
+															<boardgamepublisher objectid="1027">Days of Wonder</boardgamepublisher>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="49733">Dutch edition</boardgameversion>
+															<boardgamepublisher objectid="2973">Edge Entertainment</boardgamepublisher>
+															<boardgameversion objectid="38276">English edition</boardgameversion>
+																						<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="38277">French edition</boardgameversion>
+															<boardgameartist objectid="12935">Nicolas Fructus</boardgameartist>
+															<boardgameversion objectid="48719">German edition</boardgameversion>
+																						<boardgamepublisher objectid="1391">Hobby Japan</boardgamepublisher>
+																						<boardgameversion objectid="48119">Japanese Edition</boardgameversion>
+															<boardgamedesigner objectid="49">Philippe Keyaerts</boardgamedesigner>
+																													<boardgamefamily objectid="3868">Small World</boardgamefamily>
+															<boardgameversion objectid="51841">Spanish Edition</boardgameversion>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+																						<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamedesigner objectid="37724">Laurent Verrier</boardgamedesigner>
+															<boardgameexpansion objectid="40692" inbound="true">Small World</boardgameexpansion>
+															<boardgameexpansion objectid="97786" inbound="true">Small World Underground</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="0" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="27627">
+			<yearpublished>2007</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>90</playingtime>
+			<age>13</age>
+
+							<name primary="true" sortindex="1">Talisman (fourth edition)</name>
+							<name  sortindex="1">Talisman - Magia i Miecz</name>
+							<name  sortindex="1">Talisman: Die Magische Suche (4. Edition)</name>
+							<name  sortindex="1">Talismán: El Juego de la Búsqueda Mágica</name>
+							<name  sortindex="1">Talisman: Il Gioco delle Avventure Magiche</name>
+							<name  sortindex="1">Talisman: Le jeu des quêtes magiques (4ème édition révisée)</name>
+							<name  sortindex="1">Talisman: The Magical Quest Game - Revised 4th edition</name>
+							<name  sortindex="1">Talisman: Varázslatos küldetések</name>
+							<name  sortindex="1">Talisman: Магическое приключение (4е переработанное издание)</name>
+							<name  sortindex="1">Талисман: 4-я редакция</name>
+							<name  sortindex="1">タリスマン</name>
+									
+			<description>Talisman is a cult classic board game with a fantasy theme. There are 14 characters a player can control, from the heroic Warrior to the powerful Sorcerer. In this perilous adventure, play centers around the journey of these gallant heroes to find and claim the Crown of Command, a magical artifact with the power to destroy all rivals and make the bearer the true ruler of the kingdom. Only with strength, courage, wisdom and a few good dice rolls will players be able to survive the ultimate test and beat their opponents to victory. Part of the Talisman series of games.&lt;br/&gt;&lt;br/&gt;Revised using:&lt;br/&gt;&lt;br/&gt;    Talisman Upgrade Pack&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Expanded by:&lt;br/&gt;&lt;br/&gt;    Talisman (fourth edition): The Reaper Expansion&lt;br/&gt;    Talisman 4th Edition (Revised): Instructor&lt;br/&gt;    Talisman 4th Edition (Revised): Doppelganger&lt;br/&gt;    Talisman (fourth edition): The Dungeon Expansion&lt;br/&gt;    Talisman (fourth edition): The Frostmarch Expansion&lt;br/&gt;    Talisman 4th Edition (Revised) - Crown of Command&lt;br/&gt;    Talisman 4th Edition (Revised) - Danse Macabre&lt;br/&gt;    Talisman (fourth edition): The Highland Expansion&lt;br/&gt;    Talisman (fourth edition): The Sacred Pool Expansion&lt;br/&gt;    Talisman (fourth edition): The Dragon Expansion&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Re-implements:&lt;br/&gt;&lt;br/&gt;    Talisman&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic332870_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic332870.jpg</image>
+						
+																			<boardgamehonor objectid="12649">2009 Ludoteca Ideale Official Selection Winner</boardgamehonor>
+																						<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+																													<boardgameartist objectid="20362">Massimiliano Bertolini</boardgameartist>
+															<boardgamepublisher objectid="6457">Black Industries</boardgamepublisher>
+															<boardgameversion objectid="25926">Black Industries Edition</boardgameversion>
+																																				<boardgamepublisher objectid="6194">Delta Vision Publishing</boardgamepublisher>
+															<boardgamepublisher objectid="2366">Devir</boardgamepublisher>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																																																																<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamepublisher objectid="17">Fantasy Flight Games</boardgamepublisher>
+															<boardgameversion objectid="23921">Fantasy Flight Games Revised 4th Edition</boardgameversion>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+																						<boardgamepublisher objectid="4617">Galakta</boardgamepublisher>
+															<boardgamepublisher objectid="26">Games Workshop Ltd.</boardgamepublisher>
+															<boardgameversion objectid="29394">German edition</boardgameversion>
+																													<boardgamepublisher objectid="5530">Giochi Uniti</boardgamepublisher>
+															<boardgamedesigner objectid="7483">John Goodenough</boardgamedesigner>
+															<boardgamedesigner objectid="345">Robert Harris</boardgamedesigner>
+															<boardgamepublisher objectid="264">Heidelberger Spieleverlag</boardgamepublisher>
+															<boardgamepublisher objectid="1391">Hobby Japan</boardgamepublisher>
+															<boardgameartist objectid="14202">Ralph Horsley</boardgameartist>
+																						<boardgameversion objectid="141016">Italian fourth edition</boardgameversion>
+																						<boardgameartist objectid="14108">Jeremy McHugh</boardgameartist>
+															<boardgamepublisher objectid="504">Nexus</boardgamepublisher>
+																													<boardgamepublisher objectid="39">Pegasus Spiele</boardgamepublisher>
+															<boardgameversion objectid="30424">Polish Edition</boardgameversion>
+																																																																<boardgamemechanic objectid="2035">Roll and Move</boardgamemechanic>
+																						<boardgameversion objectid="69815">Russian Edition</boardgameversion>
+															<boardgamepublisher objectid="8313">Smart Ltd</boardgamepublisher>
+															<boardgameversion objectid="30421">Spanish Edition</boardgameversion>
+																						<boardgameartist objectid="12436">WiL Springer</boardgameartist>
+															<boardgamefamily objectid="26">Talisman</boardgamefamily>
+															<boardgameexpansion objectid="99815">Talisman (fourth edition): The Dragon Expansion</boardgameexpansion>
+															<boardgameexpansion objectid="41064">Talisman (fourth edition): The Dungeon Expansion</boardgameexpansion>
+															<boardgameexpansion objectid="54475">Talisman (fourth edition): The Frostmarch Expansion</boardgameexpansion>
+															<boardgameexpansion objectid="67051">Talisman (fourth edition): The Highland Expansion</boardgameexpansion>
+															<boardgameexpansion objectid="38025">Talisman (fourth edition): The Reaper Expansion</boardgameexpansion>
+															<boardgameexpansion objectid="75857">Talisman (fourth edition): The Sacred Pool Expansion</boardgameexpansion>
+																						<boardgameexpansion objectid="67054">Talisman 4th Edition (Revised) - Crown of Command</boardgameexpansion>
+															<boardgameexpansion objectid="67056">Talisman 4th Edition (Revised) - Danse Macabre</boardgameexpansion>
+															<boardgameexpansion objectid="67058">Talisman 4th Edition (Revised): Doppelganger</boardgameexpansion>
+															<boardgameexpansion objectid="67057">Talisman 4th Edition (Revised): Instructor</boardgameexpansion>
+																						<boardgameexpansion objectid="67299">Talisman 4th Edition Optional Characters</boardgameexpansion>
+																						<boardgameexpansion objectid="67059">Talisman 4th Edition: Arena</boardgameexpansion>
+															<boardgameexpansion objectid="67060">Talisman 4th Edition: Rod of Ruin</boardgameexpansion>
+																																																									<boardgameexpansion objectid="38326">Talisman Upgrade Pack</boardgameexpansion>
+																						<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+																													<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="80">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="45" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="38" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="34" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="51" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="37" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="37">
+			
+		<results>		
+					<result level="86" value="No necessary in-game text" numvotes="0" />
+					<result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="7" />
+					<result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="25" />
+					<result level="90" value="Unplayable in another language" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="35">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="15" />
+					<result value="10" numvotes="10" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="34127">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<age>8</age>
+
+							<name  sortindex="5">Les Aventuriers du RAIL : Le Jeu de Cartes</name>
+							<name  sortindex="1">Menolippu Korttipeli</name>
+							<name  sortindex="1">Ticket to Ride: Het kaartspel</name>
+							<name primary="true" sortindex="1">Ticket to Ride: The Card Game</name>
+							<name  sortindex="1">Zug um Zug: Das Kartenspiel</name>
+							<name  sortindex="1">¡Aventureros al Tren! El Juego de Cartas</name>
+									
+			<description>A New Train Adventure Begins!&lt;br/&gt;&lt;br/&gt;The Ticket to Ride Card Game delivers all of the excitement, fun, and nail-biting tension of the original Ticket to Ride board game, but with several unique game-play twists in a new stand-alone, card game format.&lt;br/&gt;&lt;br/&gt;Players collect sets of illustrated Train cards, which are then used to complete Destination Tickets - routes between two cities depicted on each ticket. But before their Train cards can be used, players must face the risk of &amp;quot;train-robbing,&amp;quot; where another player may force them to lose their hard-earned cards.&lt;br/&gt;&lt;br/&gt;Contains 96 illustrated train car cards, 46 destination tickets, 6 big city prize cards, and a rulebook.&lt;br/&gt;&lt;br/&gt;Part of the Ticket to Ride series.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic306342_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic306342.jpg</image>
+						
+												<boardgamehonor objectid="8938">2008 Fairplay À la carte Winner</boardgamehonor>
+															<boardgamehonor objectid="8764">2008 Golden Geek Best Card Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="12797">2009 Boardgames Australia Awards Best International Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="8419">2009 Golden Geek Best Card Game Nominee</boardgamehonor>
+															<boardgamepublisher objectid="6784">Bergsala Enigma</boardgamepublisher>
+																													<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamepublisher objectid="1027">Days of Wonder</boardgamepublisher>
+															<boardgameversion objectid="20984">Days of Wonder First International Edition</boardgameversion>
+															<boardgameartist objectid="11886">Julien Delval</boardgameartist>
+																																				<boardgamepublisher objectid="2973">Edge Entertainment</boardgamepublisher>
+																																																		<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="22553">Finnish first edition</boardgameversion>
+															<boardgameversion objectid="92157">French edition</boardgameversion>
+																																											<boardgameversion objectid="25851">German Version</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgamepublisher objectid="3218">Lautapelit.fi</boardgamepublisher>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamedesigner objectid="9">Alan R. Moon</boardgamedesigner>
+															<boardgameartist objectid="9">Alan R. Moon</boardgameartist>
+																																																									<boardgameversion objectid="30638">Scandinavian edition</boardgameversion>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgameversion objectid="49786">Spanish edition</boardgameversion>
+																													<boardgamefamily objectid="17">Ticket to Ride</boardgamefamily>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="71">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="33" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="25" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="21">
+			
+		<results>		
+					<result level="91" value="No necessary in-game text" numvotes="18" />
+					<result level="92" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="93" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="94" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="95" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="12">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="7" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="20426">
+			<yearpublished>1990</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>30</playingtime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Top - 3</name>
+									
+			<description>Triangular backgammon for three players (with a variant for two). During the game, one player with three or more pieces out of play can became &amp;quot;the killer&amp;quot;, with special rules.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic105364_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic105364.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="839">Marco Donadoni</boardgamedesigner>
+															<boardgamepublisher objectid="253">Editrice Giochi</boardgamepublisher>
+															<boardgamefamily objectid="4023">Gammon</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="96" value="No necessary in-game text" numvotes="1" />
+					<result level="97" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="98" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="99" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="100" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="11955">
+			<yearpublished>2004</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>20</playingtime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Waz Baraz</name>
+									
+			<description>During the thousandth Moon night the Dancing witches gather for an ancient magical ritual. Move around the Magic Circle and discover the Dancing Leaders in a deductive game with an enchanted setting.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic58045_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic58045.jpg</image>
+						
+												<boardgamedesigner objectid="190">Spartaco Albertarelli</boardgamedesigner>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamepublisher objectid="650">Kidultgame</boardgamepublisher>
+																						<boardgameartist objectid="28153">Antonella Platano</boardgameartist>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="28025">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<age>8</age>
+
+							<name  sortindex="1">Abracadabra</name>
+							<name  sortindex="4">Du Balai!</name>
+							<name  sortindex="1">Flinke Feger</name>
+							<name  sortindex="1">Streghe Volanti</name>
+							<name primary="true" sortindex="1">Wicked Witches Way</name>
+							<name  sortindex="1">Zlot Czarownic</name>
+									
+			<description>From the Publisher:&lt;br/&gt;&lt;br/&gt;Wicked Witches Way is a board game which will put you in command of a flying witches broom that you will have to control with daring and mastery.&lt;br/&gt;&lt;br/&gt;Your goal? Win the race by passing the finish line first! Spot the dice, recreate the proper formula and advance... But don't forget that two kinds of combinations are possible, depending on the color: orange and its turbo mode, or black, with its special cards filled with spells and sneaky tricks! The choice is yours! Memory, audacity, and cunning will be your best assets to take the victory.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic258479_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic258479.jpg</image>
+						
+												<boardgamehonor objectid="13234">2006 Tric Trac Nominee</boardgamehonor>
+															<boardgamehonor objectid="8853">2007 Golden Geek Best Children&#039;s Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="8639">2008 Spiel des Jahres Recommended</boardgamehonor>
+															<boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+																													<boardgamedesigner objectid="1727">Bruno Cathala</boardgamedesigner>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="33900">Dutch edition</boardgameversion>
+																													<boardgamepublisher objectid="253">Editrice Giochi</boardgamepublisher>
+															<boardgamepublisher objectid="7496">Egmont Polska</boardgamepublisher>
+																						<boardgameversion objectid="33905">English edition</boardgameversion>
+																																				<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameexpansion objectid="36969">Flinke Feger: Die magischen Pentagramme</boardgameexpansion>
+															<boardgameexpansion objectid="39627">Flinke Feger: Gitty Geisterhand</boardgameexpansion>
+															<boardgameversion objectid="33904">French edition</boardgameversion>
+																						<boardgameartist objectid="12011">Eckhard Freytag</boardgameartist>
+																						<boardgameversion objectid="33903">German edition</boardgameversion>
+																																																		<boardgamecategory objectid="1079">Humor</boardgamecategory>
+															<boardgameversion objectid="79273">Italian edition</boardgameversion>
+																						<boardgamedesigner objectid="295">Serge Laget</boardgamedesigner>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+																						<boardgameartist objectid="12386">Stéphane Poinsot</boardgameartist>
+															<boardgameversion objectid="29767">Polish Edition</boardgameversion>
+																																											<boardgamepublisher objectid="2778">Pro Ludo</boardgamepublisher>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+																						<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamepublisher objectid="254">University Games</boardgamepublisher>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="101" value="No necessary in-game text" numvotes="0" />
+					<result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="7" />
+					<result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="105" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+	</boardgames>

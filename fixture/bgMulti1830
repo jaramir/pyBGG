@@ -1,0 +1,979 @@
+<boardgames termsofuse="http://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="88400">
+			<yearpublished>2010</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>0</playingtime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">1830 France</name>
+									
+			<description>1830 is one of the most famous 18xx games. One of the things some gamers like about it is that the game has 'no chance' element. That is to say, if players wished to play two games with the same moves, the outcome would be the same. Players are seeking to make the most money by buying and selling stock in various share companies located on eastern United States map. The stock manipulation aspect of the game is widely-regarded as one of the best. The board itself is actually a fairly abstract hexagonal system, with track tiles placed on top of the hexes. Plus each 18xx title adds new and different elements to the game. This game features private rail companies and an extremely vicious, 'robber baron' oriented stock market. A game is finished when the bank runs out of money or one player is forced to declare bankruptcy, and the player with the greatest personal holdings wins.&lt;br/&gt;&lt;br/&gt;This game is effectively 1830 on a new map.  It has the same number of major companies and private companies as 1830, the tile mix is a close derivative of 1830's. and the private companies have the same powers as in 1830.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic1124874_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic1124874.jpg</image>
+						
+												<boardgamefamily objectid="19">18xx</boardgamefamily>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamefamily objectid="11006">Country: France</boardgamefamily>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgameversion objectid="76098">First edition</boardgameversion>
+															<boardgamedesigner objectid="32263">Michael Liebetanz</boardgamedesigner>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+															<boardgamepublisher objectid="5429">Wolfram Janich</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="37322">
+			<yearpublished>1999</yearpublished>
+			<minplayers>0</minplayers>
+			<maxplayers>0</maxplayers>
+			<playingtime>0</playingtime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">1830 G2 Extension Kit</name>
+									
+			<description>The is an 18xx expansion for 1830: Railways &amp; Robber Barons.&lt;br/&gt;&lt;br/&gt;From the insert sheet:&lt;br/&gt;&lt;br/&gt;For '1830' and other games&lt;br/&gt;&lt;br/&gt;Value 33 scrip (12 off)&lt;br/&gt;Value 17 scrip (6 off)&lt;br/&gt;&lt;br/&gt;These values can be useful in '1830' games where transactions often require $33 change from $100.  The value $17+$33=$50.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic545090_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic545090.jpg</image>
+						
+												<boardgamefamily objectid="19">18xx</boardgamefamily>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+															<boardgamedesigner objectid="58">Francis Tresham</boardgamedesigner>
+															<boardgameversion objectid="155783">Tresham First Edition</boardgameversion>
+															<boardgamepublisher objectid="236">Tresham Games</boardgamepublisher>
+															<boardgameexpansion objectid="421" inbound="true">1830: Railways &amp; Robber Barons</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="31013">
+			<yearpublished>1986</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">1830 Lummerland</name>
+									
+			<description>Lummerland is an island from the novel for children 'Jim Knopf and Lukas the engine driver' by Michael Ende. &lt;br/&gt;In the original map the hexes are named after the figures in the novel&lt;br/&gt;&lt;br/&gt;C4 = Jim Knopf (came to the island by post), &lt;br/&gt;C8 = Lukas, the engine driver, &lt;br/&gt;C6 = Alfons, quarter to twelfth (the king), &lt;br/&gt;D7 = Mr. Sleeve , &lt;br/&gt;B5 = Mrs. Waas (has a little shop).&lt;br/&gt;&lt;br/&gt;In principle the rules of 1830, an 18xx game, apply. The tiles of 1830 are used, although not all of them will be needed.&lt;br/&gt;&lt;br/&gt;There is only one private company, the &amp;quot;Mailship&amp;quot;. Its price is 20$ and it has the characteristic of the &amp;quot;Schuylkill Valley&amp;quot;. No Hex is blocked by the Mailship.&lt;br/&gt;&lt;br/&gt;There are only two Corporations: &amp;quot;Jim Knopf&amp;quot; (JK) and &amp;quot;Lukas, the engine driver&amp;quot; (LL). Both corporations may build a station at C6 beside their home stations. &lt;br/&gt;There are the following trains: Two 2, and one 3, 4, 5, 6, Diesel each. In the phase &amp;quot;purchase of trains&amp;quot; a corporation may buy only one train. &lt;br/&gt;Wenn the 5-train is bought Mrs Waas bakes a &amp;quot;Gugelhupf&amp;quot; (A kind of cake in a special shape). In the following Operating Round B5 is worth 20$.&lt;br/&gt;&lt;br/&gt;The total money is 2000$, 1200$ are divided between the players in the beginning. &lt;br/&gt;At the start of the game each player may make a bid. The player with the highest bid chooses his seat first. The other player follow in order of their bids. If two or more players have the same bid, roll a dice. In the end of the game the bids are subtracted from the money of the players.&lt;br/&gt;&lt;br/&gt;[The description is taken from Adam Romoth's new webpage at &lt;a target='_blank' href=&quot;http://www.adam-romoth.de/18xx/18xx.php&quot; rel=&quot;nofollow&quot;&gt;http://www.adam-romoth.de/18xx/18xx.php&lt;/a&gt;]&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic233005_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic233005.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamefamily objectid="19">18xx</boardgamefamily>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+																						<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamedesigner objectid="9128">Kay-Viktor Stegemann</boardgamedesigner>
+															<boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="111775">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>0</playingtime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">1830: Chattanooga promotional card</name>
+									
+			<description>A micro-expansion for 1830: Railways &amp;amp; Robber Barons featuring one city, Chattanooga. It is  in honour of Mark Derrick's Chattanooga Railgaming Challenge, held every year in Chattanooga.&lt;br/&gt;&lt;br/&gt;This expansion adds one city to a less congested corner of the map, giving the players an incentive to build into otherwise quite empty area.&lt;br/&gt;&lt;br/&gt;This was a give-away item with purchase in Spiel '11.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic1130042_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic1130042.jpg</image>
+						
+												<boardgamefamily objectid="19">18xx</boardgamefamily>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgameversion objectid="133593">First edition</boardgameversion>
+															<boardgamepublisher objectid="234">Lookout Games</boardgamepublisher>
+															<boardgamepublisher objectid="10">Mayfair Games</boardgamepublisher>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgameexpansion objectid="421" inbound="true">1830: Railways &amp; Robber Barons</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="7+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="421">
+			<yearpublished>1986</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>300</playingtime>
+			<age>14</age>
+
+							<name  sortindex="1">1830: Ferrovie e Capitani d&#039;Industria</name>
+							<name primary="true" sortindex="1">1830: Railways &amp; Robber Barons</name>
+							<name  sortindex="1">1830: Schienenleger &amp; Spekulanten</name>
+							<name  sortindex="1">1830: The Game of Railroads and Robber Barons</name>
+									
+			<description>1830 is one of the most famous 18xx games. One of the things some gamers like about this game is that the game has 'no chance' element. That is to say, if players wished to play two games with the same moves, the outcome would be the same also.&lt;br/&gt;&lt;br/&gt;This game takes the basic mechanics from Tresham's 1829, and adds several new elements. Players are seeking to make the most money by buying and selling stock in various share companies located on eastern United States map. The stock manipulation aspect of the game is widely-regarded as one of the best. The board itself is actually a fairly abstract hexagonal system, with track tiles placed on top of the hexes. Plus each 18xx title adds new and different elements to the game. This game features private rail companies and an extremely vicious, 'robber baron' oriented stock market. A game is finished when the bank runs out of money or one player is forced to declare bankruptcy, and the player with the greatest personal holdings wins.&lt;br/&gt;&lt;br/&gt;The 2011 version of 1830 was published by Mayfair Games in partnership with Lookout Games of Germany. This publication was developed under license from Francis Tresham in co-operation with Bruce Shelly (the original 1830 developer). This version contains rules and components for Francis Tresham's original classic design, a faster-playing basic game, and new variants from some of the world's best railroad game developers.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic882119_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic882119.jpg</image>
+						
+																			<boardgameexpansion objectid="37322">1830 G2 Extension Kit</boardgameexpansion>
+																						<boardgameexpansion objectid="111775">1830: Chattanooga promotional card</boardgameexpansion>
+															<boardgameexpansion objectid="56839">1830: Take A Ride on the Reading</boardgameexpansion>
+															<boardgameexpansion objectid="56841">1830: The Coalfields</boardgameexpansion>
+															<boardgameexpansion objectid="56840">1830: The Pere Marquette</boardgameexpansion>
+															<boardgameexpansion objectid="59644">1830: Variant Box #1</boardgameexpansion>
+															<boardgameexpansion objectid="59645">1830: Wabash</boardgameexpansion>
+															<boardgamefamily objectid="19">18xx</boardgamefamily>
+															<boardgamepublisher objectid="267">999 Games</boardgamepublisher>
+																						<boardgameartist objectid="12516">Mike Atkinson</boardgameartist>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamepublisher objectid="5">Avalon Hill</boardgamepublisher>
+															<boardgameartist objectid="12193">Jared Blando</boardgameartist>
+																																				<boardgameversion objectid="129454">Dutch second edition</boardgameversion>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgameversion objectid="24028">English first edition</boardgameversion>
+																						<boardgameversion objectid="79271">English second edition</boardgameversion>
+																						<boardgamepodcastepisode objectid="9063">Episode #13: How to Play 1830</boardgamepodcastepisode>
+																																				<boardgameversion objectid="111546">German second edition</boardgameversion>
+																						<boardgameversion objectid="140991">Italian first edition</boardgameversion>
+															<boardgameartist objectid="2652">Charles Kibler</boardgameartist>
+																						<boardgamepublisher objectid="234">Lookout Games</boardgamepublisher>
+															<boardgamepublisher objectid="10">Mayfair Games</boardgamepublisher>
+																																				<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+																																				<boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="3888">Stratelibri</boardgamepublisher>
+															<boardgameartist objectid="13649">James Talbot</boardgameartist>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+															<boardgamedesigner objectid="58">Francis Tresham</boardgamedesigner>
+																																				<boardgameartist objectid="13456">Mark Zug</boardgameartist>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="36">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="20" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="7+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="7" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="5" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="31230">
+			<yearpublished>1980</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<age>0</age>
+
+							<name  sortindex="1">1830</name>
+							<name  sortindex="1">1830: Belgische Revolutie</name>
+							<name primary="true" sortindex="1">1830: Révolution Belge</name>
+									
+			<description>Replay the battle that took place in 1830 around Brussels between the Netherlands and Belgian freedom fighters.&lt;br/&gt;&lt;br/&gt;The Dutch fight to keep control over the city of Brussels, while the Belgians try to conquer the city. (with 3 and 4 players, the armies of both sides are split up in 2)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic236078_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic236078.jpg</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamedesigner objectid="8345">Charles Turquin</boardgamedesigner>
+															<boardgamefamily objectid="12226">Country: Belgium</boardgamefamily>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamepublisher objectid="7281">EDI-AR</boardgamepublisher>
+															<boardgameversion objectid="114897">First edition</boardgameversion>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="56839">
+			<yearpublished>1987</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>300</playingtime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">1830: Take A Ride on the Reading</name>
+									
+			<description>1830: Take A Ride on the Reading by Alan Moon, published originally in The General volume 23, number 6 (and republished in the Train Gamer&amp;rsquo;s Gazette volume 2, number 4), adds the Reading Railroad to the game along with several tile-changes and related rules changes to 1830: Railways &amp; Robber Barons, an 18xx game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic567186_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic567186.jpg</image>
+						
+												<boardgamefamily objectid="19">18xx</boardgamefamily>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamepublisher objectid="5">Avalon Hill</boardgamepublisher>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgameversion objectid="30341">The General Volume 23, Number 6 edition</boardgameversion>
+															<boardgamedesigner objectid="9">Alan R. Moon</boardgamedesigner>
+															<boardgameartist objectid="9">Alan R. Moon</boardgameartist>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamepublisher objectid="10719">The Train Gamers Gazette</boardgamepublisher>
+															<boardgameversion objectid="30344">The Train Gamers Gazette edition</boardgameversion>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+															<boardgameexpansion objectid="421" inbound="true">1830: Railways &amp; Robber Barons</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="56841">
+			<yearpublished>1995</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>300</playingtime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">1830: The Coalfields</name>
+									
+			<description>1830: The Coalfields by Alan Moon, published originally in Games International number 6 (and republished in the Train Gamer&amp;rsquo;s Gazette volume 2, number 2 and in Rail Gamer Magazine #7), expands 1830: Railways &amp; Robber Barons, an 18xx game.  It adds the Norfolk and Western Railroad; an extra portion of the board; two 7 trains; off-board connections that can be the center of a run, instead of the end; and suggests several other changes to the rules of play, including rules for combining it with 1830: Take A Ride on the Reading.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic561364_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic561364.jpg</image>
+						
+												<boardgamefamily objectid="19">18xx</boardgamefamily>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamepublisher objectid="14413">Foxray Ltd</boardgamepublisher>
+															<boardgamepublisher objectid="5155">Games International</boardgamepublisher>
+															<boardgamedesigner objectid="9">Alan R. Moon</boardgamedesigner>
+															<boardgamepublisher objectid="3722">Rail Gamer</boardgamepublisher>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameversion objectid="155899">Train Gamers First Edition</boardgameversion>
+															<boardgamepublisher objectid="10719">The Train Gamers Gazette</boardgamepublisher>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+															<boardgameexpansion objectid="421" inbound="true">1830: Railways &amp; Robber Barons</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="56840">
+			<yearpublished>1996</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>300</playingtime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">1830: The Pere Marquette</name>
+									
+			<description>1830: The Pere Marquette by Federico Vellani, published in the Train Gamer&amp;rsquo;s Gazette volume 3, number 1, adds a new western railroad and related rules to 1830: Railways &amp; Robber Barons, an 18xx game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic568793_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic568793.jpg</image>
+						
+												<boardgamefamily objectid="19">18xx</boardgamefamily>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameversion objectid="155900">Train Gamers First Edition</boardgameversion>
+															<boardgamepublisher objectid="10719">The Train Gamers Gazette</boardgamepublisher>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+															<boardgamedesigner objectid="605">Federico Vellani</boardgamedesigner>
+															<boardgameexpansion objectid="421" inbound="true">1830: Railways &amp; Robber Barons</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="59644">
+			<yearpublished>2006</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>240</playingtime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">1830: Variant Box #1</name>
+									
+			<description>Wolfram Janich's Variant Box #1 is an 18xx expansion for 1830 consists of:&lt;br/&gt;&lt;br/&gt;- A variant map for 1830, designed by Wolfram Janich&lt;br/&gt;- A second variant map for 1830,  designed by Wolfram Janich&lt;br/&gt;- The &quot;Wabash&quot; expansion for 1830, designed by Harry Wu&lt;br/&gt;- The &amp;quot;Simple&amp;quot; variant for 1830, designed by John David Galt&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic1146094_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic1146094.jpg</image>
+						
+												<boardgamefamily objectid="19">18xx</boardgamefamily>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgameversion objectid="111280">First Edition</boardgameversion>
+															<boardgamedesigner objectid="30313">John David Galt</boardgamedesigner>
+															<boardgamedesigner objectid="7019">Wolfram Janich</boardgamedesigner>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+															<boardgamepublisher objectid="5429">Wolfram Janich</boardgamepublisher>
+															<boardgamedesigner objectid="9338">Harry Wu</boardgamedesigner>
+															<boardgameexpansion objectid="421" inbound="true">1830: Railways &amp; Robber Barons</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="59645">
+			<yearpublished>1999</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>240</playingtime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">1830: Wabash</name>
+									
+			<description>Originally published in rail Gamer Magazine, the Wabash Expansion is an 18xx expansion for 1830 and then later commercially published in Wolfram Janich's 1830: Variant Box #1, an periodically reprinted by Winsome.&lt;br/&gt;&lt;br/&gt;The Wabash Expansion consists of: &lt;br/&gt;1) an extention the map to the west and south-west, pushing Chicago and the America west red areas a few hexes further out&lt;br/&gt;2) adds a gray city north of the NYC home (not in the 2010 Winsome edition)&lt;br/&gt;3) adds a few extra tiles to the mix&lt;br/&gt;4) adds some trains&lt;br/&gt;5) replaces the diesels with 7 trains (pictured as Challengers)&lt;br/&gt;6) adds $2000 to the bank &lt;br/&gt;7) adds another railroad corporation&amp;ndash;the Wabash.&lt;br/&gt;&lt;br/&gt;The Wabash is available at the start of the game like the other corporations. Its starting city is located on the Western area of the map near Chicago.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic634074_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic634074.jpg</image>
+						
+												<boardgamefamily objectid="19">18xx</boardgamefamily>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamepublisher objectid="3722">Rail Gamer</boardgamepublisher>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+															<boardgamepublisher objectid="65">Winsome Games</boardgamepublisher>
+															<boardgameversion objectid="142334">Winsome Games edition 2010</boardgameversion>
+															<boardgamepublisher objectid="5429">Wolfram Janich</boardgamepublisher>
+															<boardgameversion objectid="111281">Wolfram Janich Magazine Edition</boardgameversion>
+															<boardgamedesigner objectid="9338">Harry Wu</boardgamedesigner>
+															<boardgameexpansion objectid="421" inbound="true">1830: Railways &amp; Robber Barons</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="23189">
+			<yearpublished>2006</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>120</playingtime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Age of Steam Expansion: 1830&#039;s Pennsylvania / Northern California</name>
+									
+			<description>This Age of Steam Expansion expands the game to 1830's Pennsylvania and Northern California.&lt;br/&gt;&lt;br/&gt;1830's Pennsylvania: This Age of Steam expansion takes place in 1830&amp;rsquo;s Pennsylvania, as the industrial revolution began, and the demand for coal to power locomotives and all manner of machinery started to peak. At that time, the railroad industry was driven by an abundant source of coal from the coal mines of Western Pennsylvania. Unique features to this map include coal-producing towns and cities in Western Pennsylvania, heavily-urbanized cities in Southeastern Pennsylvania, and special bonuses for coal (black cube) deliveries: coal can be delivered twice as far as your locomotive, or you can receive double income for its delivery!&lt;br/&gt;&lt;br/&gt;Northern California: This Age of Steam expansion takes place in Northern California, focusing on San Francisco, Oakland, San Jose, Santa Cruz and Sacramento, and the struggle to move goods across the San Francisco Bay Area. Unique features to this map include two bridges across the San Francisco Bay, the port city of Santa Cruz where goods line up for delivery, a three tile San Jose city with double goods growth, and the ever-changing destination of Sacramento, where the goods desired by that city are dictated by the flow of goods into Santa Cruz. This map is a redesign of the popular Age of Steam: Bay Area map (Essen 2005 Limited Edition), with modified cities and towns, with a map changed slightly in size to fit on a standard Age of Steam board. It is slightly more forgiving than the original map.&lt;br/&gt;&lt;br/&gt;From Ted Alspach, the designer of Age of Steam Expansion: Bay Area (Limited 2005 Essen Edition).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic231610_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic231610.jpg</image>
+						
+												<boardgamefamily objectid="86">Age of Steam</boardgamefamily>
+															<boardgamedesigner objectid="6046">Ted Alspach</boardgamedesigner>
+																						<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamepublisher objectid="5774">Bezier Games</boardgamepublisher>
+															<boardgameversion objectid="25284">Bezier Games Edition</boardgameversion>
+															<boardgamemechanic objectid="2013">Commodity Speculation</boardgamemechanic>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+																						<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+															<boardgameexpansion objectid="4098" inbound="true">Age of Steam</boardgameexpansion>
+															<boardgameexpansion objectid="27833" inbound="true">Steam</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="70875">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>90</playingtime>
+			<age>12</age>
+
+							<name  sortindex="1">Belgium 1830</name>
+							<name primary="true" sortindex="1">Belgium 1831</name>
+									
+			<description>Belgium 1831 is a political and social-economic influence board game set in the troubled Kingdom of Belgium after their Independence Revolution in 1830.&lt;br/&gt;&lt;br/&gt;During the game, players will represent the growing Belgian bourgeoisie and they'll industrialize the Belgian provinces, buying materials to build factories to obtain greater economic power, will vote in the National Congress seeking to increase their political influence, will expand its social mass and will send, to the provinces under their dominion, at the highest authority, King Leopold I of Belgium, to revise the provinces in the pursuit of their own interests.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Belgium 1831 es un juego de mesa de influencias pol&amp;iacute;ticas y socioecon&amp;oacute;micas ambientado en el convulso Reino de B&amp;eacute;lgica tras su Revoluci&amp;oacute;n de Independencia de 1830.&lt;br/&gt;&lt;br/&gt;Durante el juego, los jugadores representar&amp;aacute;n a la creciente burgues&amp;iacute;a, industrializando las provincias belgas, comprando materiales para construir f&amp;aacute;bricas y as&amp;iacute; obtener el mayor poder econ&amp;oacute;mico, votando en el Congreso Nacional buscando incrementar su influencia pol&amp;iacute;tica, expandiendo su masa social y enviando a la m&amp;aacute;xima autoridad, el Rey Leopoldo I de B&amp;eacute;lgica, a revisar las provincias bajo su dominio en pos de sus propios intereses.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Game contents:&lt;br/&gt;&lt;br/&gt; 1 game board.&lt;br/&gt; 1 white pawn, representing King Leopold I.&lt;br/&gt; 3 pawns (black, yellow and red), representing players.&lt;br/&gt; 30 Belgian coins.&lt;br/&gt; 15 factories (5 representing metallurgical factories and 5 representing textile factories, in each player color).&lt;br/&gt; 20 wood cubes, representing construction materials (10 grey for bricks and 10 brown for wood).&lt;br/&gt; 27 white wood cubes for marking Belgian provinces scored.&lt;br/&gt; 63 wood cubes, representing Belgian citizens (21 cubes in each players color).&lt;br/&gt;&lt;br/&gt;For an advanced game these components can also be used:&lt;br/&gt;&lt;br/&gt; 1 violet pawn, representing Pope Gregory XVI.&lt;br/&gt; 1 Pope game starting tile.&lt;br/&gt; 9 Royal Honours cards, representing Belgian provinces.&lt;br/&gt; 10 factories (5 blue representing metallurgical factories and 5 green representing textile factories).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic738996_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic738996.jpg</image>
+						
+												<boardgamepublisher objectid="772">(Unpublished)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+																						<boardgamefamily objectid="12226">Country: Belgium</boardgamefamily>
+															<boardgamedesigner objectid="37313">Javier Garcia</boardgamedesigner>
+															<boardgamecategory objectid="1088">Industry / Manufacturing</boardgamecategory>
+															<boardgameartist objectid="34490">Chechu Nieto</boardgameartist>
+															<boardgamecategory objectid="1001">Political</boardgamecategory>
+															<boardgameversion objectid="35592">Print &amp; Play edition</boardgameversion>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="1" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+					<boardgame objectid="2396">
+			<yearpublished>2001</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>180</playingtime>
+			<age>14</age>
+
+							<name  sortindex="1">Ur 1830 BC</name>
+							<name primary="true" sortindex="1">Ur: 1830 BC</name>
+									
+			<description>This game isn't a true 18xx game, in the sense that it's officially sanctioned by Francis Tresham.  However, it shares a good number of characteristics with the 18xx series of games, while still being different enough to be a different game.  The game is about diverting water from rivers into irrigation channels and supplying the life-giving water to sections of land.  In 18xx, there are private companies; in Ur, there are independent nations.  In 18xx, there are companies with shareholders and a majority-controlling president; in Ur, there are countries with landowners and a majority-controlling King.  Once a Kingdom has enough land purchased in it, it begins to build water infrastructure in the form of reservoirs and pumps.  These structures draw the water away from the rivers into irrigation channels which are drawn straight on the board.  Like 18xx, the technology increases as the game progresses, making channel diggers obsolete and bringing out more efficient waterworks.  When a section of land is irrigated, the owner earns a small degree income and the kingdom it's located in earns a much larger income, which can then be given to the landowners or kept in the Kingdom's coffers for future upgrades.  The game is finally over when all the incoming water is used, forcing the southern tribes to invade, or a kingdom cannot fulfill it's obligation to buy more ditch-diggers and falls into revolution.  The player with the largest personal holdings (land and money) is the victor.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic156288_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic156288.jpg</image>
+						
+												<boardgamefamily objectid="19">18xx</boardgamefamily>
+															<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamecategory objectid="1015">Civilization</boardgamecategory>
+															<boardgamedesigner objectid="270">Jeroen Doumen</boardgamedesigner>
+																													<boardgameversion objectid="36425">First edition</boardgameversion>
+																						<boardgamepublisher objectid="140">Splotter Spellen</boardgamepublisher>
+																						<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamedesigner objectid="407">Joris Wiersinga</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="0" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+	</boardgames>

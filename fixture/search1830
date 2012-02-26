@@ -1,6 +1,58 @@
  <boardgames termsofuse="http://boardgamegeek.com/xmlapi/termsofuse">
+			<boardgame objectid="88400">
+			<name primary="true">1830 France</name>			
+							<yearpublished>2010</yearpublished>
+					</boardgame>
+			<boardgame objectid="37322">
+			<name primary="true">1830 G2 Extension Kit</name>			
+							<yearpublished>1999</yearpublished>
+					</boardgame>
+			<boardgame objectid="31013">
+			<name primary="true">1830 Lummerland</name>			
+							<yearpublished>1986</yearpublished>
+					</boardgame>
+			<boardgame objectid="111775">
+			<name primary="true">1830: Chattanooga promotional card</name>			
+							<yearpublished>2011</yearpublished>
+					</boardgame>
 			<boardgame objectid="421">
 			<name primary="true">1830: Railways &amp; Robber Barons</name>			
 							<yearpublished>1986</yearpublished>
+					</boardgame>
+			<boardgame objectid="31230">
+			<name primary="true">1830: Révolution Belge</name>			
+							<yearpublished>1980</yearpublished>
+					</boardgame>
+			<boardgame objectid="56839">
+			<name primary="true">1830: Take A Ride on the Reading</name>			
+							<yearpublished>1987</yearpublished>
+					</boardgame>
+			<boardgame objectid="56841">
+			<name primary="true">1830: The Coalfields</name>			
+							<yearpublished>1995</yearpublished>
+					</boardgame>
+			<boardgame objectid="56840">
+			<name primary="true">1830: The Pere Marquette</name>			
+							<yearpublished>1996</yearpublished>
+					</boardgame>
+			<boardgame objectid="59644">
+			<name primary="true">1830: Variant Box #1</name>			
+							<yearpublished>2006</yearpublished>
+					</boardgame>
+			<boardgame objectid="59645">
+			<name primary="true">1830: Wabash</name>			
+							<yearpublished>1999</yearpublished>
+					</boardgame>
+			<boardgame objectid="23189">
+			<name primary="true">Age of Steam Expansion: 1830&#039;s Pennsylvania / Northern California</name>			
+							<yearpublished>2006</yearpublished>
+					</boardgame>
+			<boardgame objectid="70875">
+			<name >Belgium 1830</name>			
+							<yearpublished>2010</yearpublished>
+					</boardgame>
+			<boardgame objectid="2396">
+			<name primary="true">Ur: 1830 BC</name>			
+							<yearpublished>2001</yearpublished>
 					</boardgame>
 	</boardgames>

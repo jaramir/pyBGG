@@ -28,10 +28,15 @@ import pyBGG
 canned_response = {
     "http://www.boardgamegeek.com/xmlapi/boardgame/13": open( "fixture/bgCatan" ).read(),
     "http://www.boardgamegeek.com/xmlapi/boardgame/421": open( "fixture/bg1830" ).read(),
-    "http://www.boardgamegeek.com/xmlapi/search?search=1830%3A%20Railways%20%26%20Robber%20Barons": open( "fixture/search1830" ).read(),
+    "http://www.boardgamegeek.com/xmlapi/boardgame/66000,68448,31260,43018,2346,58110,2452,34010,60054,24480,19764,8192,20551,40692,57072,57070,71818,27627,34127,20426,11955,28025": open( "fixture/bgMulti" ).read(),
+    "http://www.boardgamegeek.com/xmlapi/search?search=1830%3A%20Railways%20%26%20Robber%20Barons": open( "fixture/search1830name" ).read(),
     "http://www.boardgamegeek.com/xmlapi/search?search=I%20Coloni%20di%20Catan&exact=1": open( "fixture/searchCatan" ).read(),
     "http://www.boardgamegeek.com/xmlapi/search?search=pyBGG%20test%20search&exact=1": open( "fixture/searchTest" ).read(),
-    }
+    "http://www.boardgamegeek.com/xmlapi/collection/cesco": open( "fixture/collectionCesco" ).read(),
+    "http://www.boardgamegeek.com/xmlapi/collection/cesco?own=1": open( "fixture/collectionCescoOwn" ).read(),
+    "http://www.boardgamegeek.com/xmlapi/search?search=1830": open( "fixture/search1830" ).read(),
+    "http://www.boardgamegeek.com/xmlapi/boardgame/88400,37322,31013,111775,421,31230,56839,56841,56840,59644,59645,23189,70875,2396": open( "fixture/bgMulti1830" ).read(),
+}
 
 class TestResponse( object ):
     def __init__( self, request ):
@@ -134,6 +139,42 @@ class pyBGGTest( unittest.TestCase ):
 
         self.assertLess( names.index( ru ), names.index( it ), "Wrong sort: %s before %s" % ( it, ru ) )
         self.assertLess( names.index( it ), names.index( en ), "Wrong sort: %s before %s" % ( en, it ) )
+
+    def test_game_names_from_search( self ):
+        bg = pyBGG.search( "I Coloni di Catan", exact=1 )
+        self.assertIn( "The Settlers of Catan", bg.names )
+        self.assertIn( "I Coloni di Catan", bg.names )
+
+    def test_search_does_prefetch( self ):
+        handler.reset_hits()
+        games = pyBGG.search( "1830", prefetch=True )
+        hits = [
+            "http://www.boardgamegeek.com/xmlapi/search?search=1830",
+            "http://www.boardgamegeek.com/xmlapi/boardgame/88400,37322,31013,111775,421,31230,56839,56841,56840,59644,59645,23189,70875,2396",
+            ]
+        self.assertListEqual( handler.hits, hits )
+
+    def test_collection( self ):
+        coll = pyBGG.collection( "cesco" )
+        self.assertIsInstance( coll, list )
+        self.assertIsInstance( coll[0], pyBGG.BoardGame )
+        self.assertIn( pyBGG.BoardGame.by_id( "57070" ), coll )
+
+    def test_collection_prefetch( self ):
+        handler.reset_hits()
+        coll = pyBGG.collection( "cesco", own=True, prefetch=True )
+        for game in coll:
+            game.names # this would normaly generate a hit
+        hits = [
+            "http://www.boardgamegeek.com/xmlapi/collection/cesco?own=1",
+            "http://www.boardgamegeek.com/xmlapi/boardgame/66000,68448,31260,43018,2346,58110,2452,34010,60054,24480,19764,8192,20551,40692,57072,57070,71818,27627,34127,20426,11955,28025",
+            ]
+        self.assertListEqual( handler.hits, hits )
+
+    def test_prefetch_populates_cache( self ):
+        coll = pyBGG.collection( "cesco", own=True, prefetch=True )
+        for game in coll:
+            self.assertIn( game.id, pyBGG.boardgame_cache.keys() )
 
 if __name__ == '__main__':
     unittest.main()

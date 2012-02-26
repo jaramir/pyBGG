@@ -32,6 +32,4 @@ LINKS
 TODO
 ----
 
-* search(term, prefetch=True) makes a single fetch with multiple boardgames and populates boardgame_cache
 * optional caching via external memcache server
-* retrive user collection
