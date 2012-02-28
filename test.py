@@ -36,6 +36,7 @@ canned_response = {
     "http://www.boardgamegeek.com/xmlapi/collection/cesco?own=1": open( "fixture/collectionCescoOwn" ).read(),
     "http://www.boardgamegeek.com/xmlapi/search?search=1830": open( "fixture/search1830" ).read(),
     "http://www.boardgamegeek.com/xmlapi/boardgame/88400,37322,31013,111775,421,31230,56839,56841,56840,59644,59645,23189,70875,2396": open( "fixture/bgMulti1830" ).read(),
+    "http://www.boardgamegeek.com/xmlapi/collection/Iago71?own=1": open( "fixture/collectionIago71" ).read(),
 }
 
 class TestResponse( object ):
@@ -175,6 +176,13 @@ class pyBGGTest( unittest.TestCase ):
         coll = pyBGG.collection( "cesco", own=True, prefetch=True )
         for game in coll:
             self.assertIn( game.id, pyBGG.boardgame_cache.keys() )
+
+    def test_collection_no_prefetch_no_requests( self ):
+        handler.reset_hits()
+        coll = pyBGG.collection( "Iago71", own=True, prefetch=False )
+        for item in coll:
+            item.name
+        self.assertListEqual( handler.hits, ["http://www.boardgamegeek.com/xmlapi/collection/Iago71?own=1"] )
 
 if __name__ == '__main__':
     unittest.main()

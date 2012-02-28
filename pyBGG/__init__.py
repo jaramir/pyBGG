@@ -79,10 +79,22 @@ class BoardGame( object ):
     @property
     def name( self ):
         """
-        Returns the primary name.
+        Returns the first name.
+        Prefear primary names.
 
         """
-        return self.__find( "name[@primary='true']" ).text
+        names = self.__findall( "name" )
+
+        # sort by sortindex if available
+        names.sort( key=lambda e: e.attrib.get( "sortindex", "1" ) )
+
+        # find a primary one
+        for name in names:
+            if "primary" in name.attrib:
+                return name.text
+
+        # return the first
+        return names[0].text
 
     @property
     def names( self ):
