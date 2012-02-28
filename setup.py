@@ -23,7 +23,7 @@ import setuptools
 
 setuptools.setup(
     name         = "pyBGG",
-    version      = "0.1",
+    version      = "0.1.1",
     description  = "BoardGameGeek XML API for Python",
     author       = "Francesco Gigli",
     author_email = "jaramir@gmail.com",
