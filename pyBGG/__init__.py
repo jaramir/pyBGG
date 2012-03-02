@@ -30,9 +30,10 @@ root = "http://www.boardgamegeek.com/xmlapi/"
 boardgame_cache = {}
 
 class BoardGame( object ):
-    def __init__( self, et ):
+    def __init__( self, et, fetched=False ):
         self.et = et
         self.id = et.attrib["objectid"]
+        self.fetched = fetched
 
     def __getattr__( self, name ):
         el = self.__find( name )
@@ -41,11 +42,16 @@ class BoardGame( object ):
         return el.text
 
     def __fetch( self ):
+        if self.fetched:
+            return
+
         if self.id not in boardgame_cache:
             url = root + "boardgame/" + urllib.quote( self.id )
             tree = ET.parse( urllib2.urlopen( url ) )
             boardgame_cache[self.id] = tree.find( "boardgame" )
         self.et = boardgame_cache[self.id]
+
+        self.fetched = True
 
     def __find( self, name ):
         el = self.et.find( name )
@@ -107,6 +113,30 @@ class BoardGame( object ):
         names.sort( key= lambda e: e.attrib["sortindex"] )
         return [ n.text for n in names ]
 
+    @property
+    def thumbnail( self ):
+        """
+        Returns the thumbnail.
+
+        """
+        self.__fetch() # requires full info
+        thumbnail = self.et.find( "thumbnail" )
+        if thumbnail is not None:
+            return thumbnail.text
+        return None
+
+    @property
+    def image( self ):
+        """
+        Returns the image.
+
+        """
+        self.__fetch() # requires full info
+        image = self.et.find( "image" )
+        if image is not None:
+            return image.text
+        return None
+
 def search( term, exact=False, prefetch=False ):
     """
     Search for games by name and by AKAs and return a list of BoardGames
@@ -126,11 +156,11 @@ def search( term, exact=False, prefetch=False ):
     games = tree.findall( "boardgame" )
 
     if prefetch:
-        __prefetch( [ urllib.quote( el.attrib["objectid"] ) for el in games ] )
+        games = __prefetch( [ urllib.quote( el.attrib["objectid"] ) for el in games ] )
 
     rv = []
     for bg in games:
-        rv.append( BoardGame( bg ) )
+        rv.append( BoardGame( bg, fetched=prefetch ) )
 
     if exact:
         if rv:
@@ -157,11 +187,11 @@ def collection( username, own=False, prefetch=False ):
     games = tree.findall( "item[@objecttype='thing'][@subtype='boardgame']" )
 
     if prefetch:
-        __prefetch( [ urllib.quote( el.attrib["objectid"] ) for el in games ] )
+        games = __prefetch( [ urllib.quote( el.attrib["objectid"] ) for el in games ] )
 
     rv = []
     for bg in games:
-        rv.append( BoardGame( bg ) )
+        rv.append( BoardGame( bg, fetched=prefetch ) )
     return rv
 
 def __prefetch( ids ):
@@ -173,3 +203,4 @@ def __prefetch( ids ):
     mtree = ET.parse( urllib2.urlopen( murl ) )
     for subtree in mtree.findall( "boardgame" ):
         boardgame_cache[subtree.attrib["objectid"]] = subtree
+        yield subtree

@@ -25,18 +25,23 @@ import pyBGG
 
 # mock BGG server
 
+def read_fixture( name ):
+    with open( "fixture/" + name ) as fp:
+        return fp.read()
+
 canned_response = {
-    "http://www.boardgamegeek.com/xmlapi/boardgame/13": open( "fixture/bgCatan" ).read(),
-    "http://www.boardgamegeek.com/xmlapi/boardgame/421": open( "fixture/bg1830" ).read(),
-    "http://www.boardgamegeek.com/xmlapi/boardgame/66000,68448,31260,43018,2346,58110,2452,34010,60054,24480,19764,8192,20551,40692,57072,57070,71818,27627,34127,20426,11955,28025": open( "fixture/bgMulti" ).read(),
-    "http://www.boardgamegeek.com/xmlapi/search?search=1830%3A%20Railways%20%26%20Robber%20Barons": open( "fixture/search1830name" ).read(),
-    "http://www.boardgamegeek.com/xmlapi/search?search=I%20Coloni%20di%20Catan&exact=1": open( "fixture/searchCatan" ).read(),
-    "http://www.boardgamegeek.com/xmlapi/search?search=pyBGG%20test%20search&exact=1": open( "fixture/searchTest" ).read(),
-    "http://www.boardgamegeek.com/xmlapi/collection/cesco": open( "fixture/collectionCesco" ).read(),
-    "http://www.boardgamegeek.com/xmlapi/collection/cesco?own=1": open( "fixture/collectionCescoOwn" ).read(),
-    "http://www.boardgamegeek.com/xmlapi/search?search=1830": open( "fixture/search1830" ).read(),
-    "http://www.boardgamegeek.com/xmlapi/boardgame/88400,37322,31013,111775,421,31230,56839,56841,56840,59644,59645,23189,70875,2396": open( "fixture/bgMulti1830" ).read(),
-    "http://www.boardgamegeek.com/xmlapi/collection/Iago71?own=1": open( "fixture/collectionIago71" ).read(),
+    "http://www.boardgamegeek.com/xmlapi/boardgame/13": read_fixture( "bgCatan" ),
+    "http://www.boardgamegeek.com/xmlapi/boardgame/421": read_fixture( "bg1830" ),
+    "http://www.boardgamegeek.com/xmlapi/boardgame/66000,68448,31260,43018,2346,58110,2452,34010,60054,24480,19764,8192,20551,40692,57072,57070,71818,27627,34127,20426,11955,28025": read_fixture( "bgMulti" ),
+    "http://www.boardgamegeek.com/xmlapi/search?search=1830%3A%20Railways%20%26%20Robber%20Barons": read_fixture( "search1830name" ),
+    "http://www.boardgamegeek.com/xmlapi/search?search=I%20Coloni%20di%20Catan&exact=1": read_fixture( "searchCatan" ),
+    "http://www.boardgamegeek.com/xmlapi/search?search=pyBGG%20test%20search&exact=1": read_fixture( "searchTest" ),
+    "http://www.boardgamegeek.com/xmlapi/collection/cesco": read_fixture( "collectionCesco" ),
+    "http://www.boardgamegeek.com/xmlapi/collection/cesco?own=1": read_fixture( "collectionCescoOwn" ),
+    "http://www.boardgamegeek.com/xmlapi/search?search=1830": read_fixture( "search1830" ),
+    "http://www.boardgamegeek.com/xmlapi/boardgame/88400,37322,31013,111775,421,31230,56839,56841,56840,59644,59645,23189,70875,2396": read_fixture( "bgMulti1830" ),
+    "http://www.boardgamegeek.com/xmlapi/collection/Iago71?own=1": read_fixture( "collectionIago71" ),
+    "http://www.boardgamegeek.com/xmlapi/boardgame/111377": read_fixture( "bgNoImages" ),
 }
 
 class TestResponse( object ):
@@ -91,6 +96,7 @@ class pyBGGTest( unittest.TestCase ):
 
     def setUp( self ):
         handler.reset_hits()
+        pyBGG.boardgame_cache = {}
 
     def test_exact_search_gone_wrong( self ):
         bg = pyBGG.search( "pyBGG test search", exact=1 )
@@ -147,7 +153,6 @@ class pyBGGTest( unittest.TestCase ):
         self.assertIn( "I Coloni di Catan", bg.names )
 
     def test_search_does_prefetch( self ):
-        handler.reset_hits()
         games = pyBGG.search( "1830", prefetch=True )
         hits = [
             "http://www.boardgamegeek.com/xmlapi/search?search=1830",
@@ -162,7 +167,6 @@ class pyBGGTest( unittest.TestCase ):
         self.assertIn( pyBGG.BoardGame.by_id( "57070" ), coll )
 
     def test_collection_prefetch( self ):
-        handler.reset_hits()
         coll = pyBGG.collection( "cesco", own=True, prefetch=True )
         for game in coll:
             game.names # this would normaly generate a hit
@@ -178,11 +182,33 @@ class pyBGGTest( unittest.TestCase ):
             self.assertIn( game.id, pyBGG.boardgame_cache.keys() )
 
     def test_collection_no_prefetch_no_requests( self ):
-        handler.reset_hits()
         coll = pyBGG.collection( "Iago71", own=True, prefetch=False )
         for item in coll:
             item.name
         self.assertListEqual( handler.hits, ["http://www.boardgamegeek.com/xmlapi/collection/Iago71?own=1"] )
+
+    def test_no_thumbnail( self ):
+        bg = pyBGG.BoardGame.by_id( 111377 )
+        self.assertEqual( None, bg.thumbnail )
+
+    def test_no_image( self ):
+        bg = pyBGG.BoardGame.by_id( 111377 )
+        self.assertEqual( None, bg.image )
+
+    def test_no_useless_fetch( self ):
+        bg = pyBGG.BoardGame.by_id( 13 )
+        bg.names # does the fetch
+        pyBGG.boardgame_cache = None # raise exception if hit
+        self.assertEqual( bg.image, "http://cf.geekdo-images.com/images/pic268839.jpg" )
+        self.assertEqual( bg.thumbnail, "http://cf.geekdo-images.com/images/pic268839_t.jpg" )
+        self.assertIsInstance( bg.names, list )
+        self.assertEqual( len( bg.names ), 40 )
+
+    def test_prefetch_avoids_fetch( self ):
+        coll = pyBGG.collection( "cesco", own=True, prefetch=True )
+        pyBGG.boardgame_cache = None # raise exception if hit
+        for bg in coll:
+            self.assertIsInstance( bg.names, list )
 
 if __name__ == '__main__':
     unittest.main()
