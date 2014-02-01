@@ -1,0 +1,2939 @@
+<geeklist id="72020" termsofuse="http://boardgamegeek.com/xmlapi/termsofuse">
+<postdate>Thu, 08 Sep 2011 21:23:00 +0000</postdate>
+<postdate_timestamp>1315516980</postdate_timestamp>
+<editdate>Tue, 23 Apr 2013 06:57:17 +0000</editdate>
+<editdate_timestamp>1366700237</editdate_timestamp>
+<thumbs>664</thumbs>
+<numitems>156</numitems>
+
+<username>Doomfarer</username> 
+<title>Android versions of actual boardgames</title>
+<description>[size=18][COLOR=#CC0000]WORK IN PROGRESS[/COLOR][/size]
+
+This is a GeekList of Android versions of [b]actual[/b] board games, that is board games that have an entry in BGG / are in the BGG database.
+
+If in doubt it probably belongs on the [geeklist=54397][/geeklist] list.
+
+Coming Android Board games releases should be added here: [geeklist=153568][/geeklist]
+
+=================================
+
+To find the apps listed below a smart place to start is [url=https://play.google.com]Google Play[/url]
+
+You&#039;ll sometimes see QR codes likes this one: 
+[IMG]http://cf.geekdo-images.com/images/pic924793.png[/IMG]
+
+You can use a barcode scanner to read this image and it will translate into a link and take you directly to the app in question. Try it out on the QR code listed here, should take you to the BGG main page.
+
+Most handsets include a barcode reader from start, otherwise get one [url=https://play.google.com/store/search?q=barcode+scanner&amp;c=apps]here[/url].
+
+[size=18]
+[COLOR=#CC0000]RULES FOR THIS LIST[/COLOR][/size]
+
+1) Only add released official versions of board games or games that are extremely similar to an actual board game.
+ 
+2) Do not list helpers and similar programs. Those along with other cool Android games should be added here: [geeklist=54397][/geeklist]
+
+3) Coming Android board games releases should be added here: [geeklist=153568][/geeklist]</description>
+
+
+	<item id="1819759" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="91313" 			
+			objectname="Ataxx"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 19:03:01 +0000" 
+			editdate="Thu, 08 Sep 2011 19:03:01 +0000"
+			thumbs="5"
+						imageid="903701">
+	<body>Pobs
+https://market.android.com/details?id=com.chipsteam.pobs
+
+One of my favorite video board games. Not the exact version, but a hex version with different boards, which I&#039;ve seen done before, and which is arguably better than the original square boards. This is a good version. I have trouble beating the medium intelligence depending on the board layout. It can even play more than 2 player, which I haven&#039;t seen before.
+
+[img]https://ssl.gstatic.com/android/market/com.chipsteam.pobs/ss-0-320-480-160-1-f8e3bd07cb1e49173a77d6000ab0e4be288e50c3[/img]
+
+Added by: BoB &#039;[intentionally left blank]&#039; 3K (BoB3K)</body>
+	
+		</item>
+	<item id="1819763" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2397" 			
+			objectname="Backgammon"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 19:00:59 +0000" 
+			editdate="Thu, 08 Sep 2011 19:00:59 +0000"
+			thumbs="9"
+						imageid="55221">
+	<body>There are probably multiple versions of backgammon. The one that I have, from AI factory, is adequate, if not exactly stellar. The AI has 3 levels - the lowest level is about as good as a three year old. Cat. The highest level is OK, if not brilliant (too conservative, I would suggest). 
+
+Graphics are not too bad. The UI regularly irritates me especially with continued repeating of the obvious, especially with things like an opponent on the bar not being able to enter popping up a box to say so. Even when you have a full table, so it is bound to be the case whatever is thrown.
+
+And they put the doubling cube in the wrong place.
+
+Free: https://market.android.com/details?id=uk.co.aifactory.backgammonfree&amp;feature=search_result
+
+Full version: https://market.android.com/details?id=uk.co.aifactory.backgammon&amp;feature=search_result
+
+Added by: Richard Morris (AnnuverScotinExile)</body>
+	
+		</item>
+	<item id="1819767" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="315" 			
+			objectname="Bagh Chal"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 19:09:06 +0000" 
+			editdate="Thu, 08 Sep 2011 19:09:06 +0000"
+			thumbs="2"
+						imageid="49485">
+	<body>Found under the name &quot;BagChal&quot; by TechnoGuff, this is a great implementation of this traditional game :)
+
+[img]http://cdn7.droidmill.com/media/market-media/com.sudarshanz_1.png[/img]
+
+Added by: Fernando Aguilar (coronelcangrejo)</body>
+	
+		</item>
+	<item id="1819768" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="16826" 			
+			objectname="Barbarossa Solitaire"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 19:08:29 +0000" 
+			editdate="Wed, 14 Sep 2011 07:46:36 +0000"
+			thumbs="5"
+						imageid="134253">
+	<body>A solitaire game simulating the Nazi-Soviet conflict on the Eastern Front from 1941 to 1945.
+
+The Player moves the German forces against a simulated Russian enemy. As time passes the Nazi forces gradually weaken, while the Soviet counter-attacks gather pace.
+
+Each year is split into 3 turns: Winter, Summer and Autumn. Game starts with Summer 1941 and ends at the end of Summer 1945.
+
+https://market.android.com/details?id=com.dk.barsol&amp;feature=search_result
+
+Added by: David Kershaw (kerpob2)</body>
+	
+		</item>
+	<item id="1819787" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="372" 			
+			objectname="Schotten-Totten"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 19:16:47 +0000" 
+			editdate="Fri, 09 Sep 2011 10:02:57 +0000"
+			thumbs="5"
+						imageid="117515">
+	<body>Very similar to Schotten-Totten.
+
+Main difference is that pairs count. No strategy cards.
+
+https://market.android.com/details?id=net.mpowers.brigade.android
+
+Added by: r powers (rpow3rs)</body>
+	
+		</item>
+	<item id="1819817" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2453" 			
+			objectname="Blokus"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 19:39:20 +0000" 
+			editdate="Thu, 08 Sep 2011 19:39:20 +0000"
+			thumbs="5"
+						imageid="153979">
+	<body>Blokish
+
+https://market.android.com/details?id=org.scoutant.blokish
+
+Added by: Chris Lowe (slow1234)</body>
+	
+		</item>
+	<item id="1819821" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="1293" 			
+			objectname="Boggle"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 19:43:25 +0000" 
+			editdate="Wed, 28 Nov 2012 07:38:04 +0000"
+			thumbs="8"
+						imageid="198033">
+	<body>OFFICIAL 
+
+https://play.google.com/store/apps/details?id=com.ea.boggle_na
+
+Added by: Chris Schumann (Whizkid)
+
+
+ALSO
+
+Squiggles by Shinagle Games. Free
+
+https://market.android.com/details?id=com.shinagle.squiggles&amp;feature=search_result
+
+Added by: Jason Monroe (belial1134)</body>
+	
+		</item>
+	<item id="1819824" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="11733" 			
+			objectname="Briscola"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 19:46:33 +0000" 
+			editdate="Thu, 08 Sep 2011 19:46:33 +0000"
+			thumbs="2"
+						imageid="71809">
+	<body>One of several versions on the market.
+
+https://market.android.com/details?id=it.fpavo.briscola&amp;feature=search_result
+
+Not free.
+
+Added by: Mike Russo (maddog00)</body>
+	
+		</item>
+	<item id="1819827" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="24264" 			
+			objectname="Button Soccer"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 19:52:27 +0000" 
+			editdate="Thu, 08 Sep 2011 19:52:27 +0000"
+			thumbs="9"
+						imageid="590738">
+	<body>Discovered a free version of Button Soccor called &quot;Pocket Soccer&quot; (by rastergrid) by way of this review:
+
+http://meandmydroid.blogspot.com/2011/03/pocket-soccer.html
+
+You can get it here: 
+
+[img]http://qrcode.kaywa.com/img.php?s=5&amp;d=market%3A%2F%2Fdetails%3Fid%3Dcom.rastergrid.game.pocketsoccer[/img]
+
+I haven&#039;t been able to play around with it much, but seems pretty fun so far. The learning curve is steeper than I thought it would be and I got trounced by the AI my first game. 
+
+Can be played against an AI, or two-player face-to-face.
+
+Seems very polished.
+
+Added by: Jeremiah (jBullfrog)</body>
+	
+		</item>
+	<item id="1819833" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="41" 			
+			objectname="Can&#039;t Stop"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 19:59:06 +0000" 
+			editdate="Thu, 08 Sep 2011 19:59:06 +0000"
+			thumbs="9"
+						imageid="211972">
+	<body>Roll Or Don&#039;t, a Can&#039;t Stop clone, but it&#039;s done VERY well with solid AI.
+
+Roll Or Don&#039;t ($0.99)
+
+https://market.android.com/details?id=AndroidRoll.Roll&amp;feature=search_result
+
+[img]http://chart.apis.google.com/chart?cht=qr&amp;chs=135x135&amp;chl=market%3a%2f%2fdetails%3fid%3dAndroidRoll.Roll%26referrer%3dutm_source%253DAndrolib%2526utm_medium%253DPage%2526utm_campaign%253DAndrolib%2520Page[/img]
+
+Roll Or Don&#039;t -- TWO PLAYERS (free)
+
+https://market.android.com/details?id=androidTwoPlayers.Roll&amp;feature=search_result
+
+[img]http://chart.apis.google.com/chart?cht=qr&amp;chs=135x135&amp;chl=market%3a%2f%2fdetails%3fid%3dandroidTwoPlayers.Roll%26referrer%3dutm_source%253DAndrolib%2526utm_medium%253DPage%2526utm_campaign%253DAndrolib%2520Page[/img]
+
+Added by: Alan Reeve (adreeve)</body>
+	
+		</item>
+	<item id="1819835" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="822" 			
+			objectname="Carcassonne"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:00:29 +0000" 
+			editdate="Thu, 08 Sep 2011 20:00:29 +0000"
+			thumbs="18"
+						imageid="166867">
+	<body>OFFICIAL
+
+https://market.android.com/details?id=com.exozet.game.carcassonne&amp;feature=search_result
+
+Added by: Chris Lowe (slow1234)</body>
+	
+		</item>
+	<item id="1819839" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2582" 			
+			objectname="Catch Phrase!"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:03:29 +0000" 
+			editdate="Thu, 08 Sep 2011 20:03:29 +0000"
+			thumbs="4"
+						imageid="173485">
+	<body>Phonefraze - A Catch Phrase clone.
+
+I haven&#039;t tried it, but it&#039;s out there. There is a free version as well as a paid version that gives access to free add-on packs as they are released.
+
+https://market.android.com/details?id=theandroidworks.apps.PhoneFrazeLite&amp;feature=search_result
+
+[img]http://chart.apis.google.com/chart?cht=qr&amp;chs=192x192&amp;chl=market://search?q=pname:theandroidworks.apps.PhoneFrazeLite[/img]</body>
+	
+		</item>
+	<item id="1819840" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="171" 			
+			objectname="Chess"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:05:01 +0000" 
+			editdate="Thu, 08 Sep 2011 20:05:01 +0000"
+			thumbs="3"
+						imageid="260745">
+	<body>Multiple versions available. 
+
+https://market.android.com/search?q=chess&amp;so=1&amp;c=apps
+
+Which one to get?</body>
+	
+		</item>
+	<item id="1819844" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="521" 			
+			objectname="Crokinole"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:08:17 +0000" 
+			editdate="Thu, 08 Sep 2011 20:08:17 +0000"
+			thumbs="3"
+						imageid="79413">
+	<body>5 Games in one 3D Pool, Snooker, Billiards, Carrom, Crokinole
+
+Free version: 
+https://market.android.com/details?id=com.kb.Carrom3D&amp;feature=related_apps
+
+Full version:
+https://market.android.com/details?id=com.kb.Carrom3DFull&amp;feature=search_result
+
+Added by: Ernie Lai (laiernie)</body>
+	
+		</item>
+	<item id="1819847" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="86775" 			
+			objectname="Deadliest Catch Sea Adventure Board Game"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:10:55 +0000" 
+			editdate="Thu, 08 Sep 2011 20:10:55 +0000"
+			thumbs="3"
+						imageid="924588">
+	<body>Deadliest Catch by Hands-On Mobile. $2.99
+
+https://market.android.com/details?id=com.handson.deadliestcatch&amp;feature=search_result
+
+Added by: Jason Monroe (belial1134)</body>
+	
+		</item>
+	<item id="1819849" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="20253" 			
+			objectname="Diaballik"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:13:18 +0000" 
+			editdate="Thu, 08 Sep 2011 20:13:18 +0000"
+			thumbs="4"
+						imageid="122943">
+	<body>Official?
+
+Diaballik!
+Fun little abstract. Move the ball to the other side of the field.
+Play against AI. 3 levels of play.
+
+https://market.android.com/details?id=diaballik.diaballik&amp;feature=search_result
+
+Added by: Dave - O (groening)
+</body>
+	
+		</item>
+	<item id="1819853" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="36218" 			
+			objectname="Dominion"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:15:14 +0000" 
+			editdate="Thu, 08 Sep 2011 20:15:14 +0000"
+			thumbs="34"
+						imageid="394356">
+	<body>Dominion game for Android! It&#039;s called AndroMinion. It doesn&#039;t have graphics, the text is really small and the interface is confusing at first.. however, once you&#039;ve played a game it&#039;s very simple and satisfying experience. The game has 2 AI opponents and at expansions at least through Seaside.
+
+https://market.android.com/details?id=com.mehtank.androminion&amp;feature=search_result
+
+Added by: Albert Hernandez (fractaloon)</body>
+	
+		</item>
+	<item id="1819855" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="4031" 			
+			objectname="Dou Shou Qi"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:18:14 +0000" 
+			editdate="Wed, 14 Sep 2011 07:48:10 +0000"
+			thumbs="4"
+						imageid="20314">
+	<body>Jungle Chess.
+
+[url=https://market.android.com/details?id=com.JungleChessLite]Jungle Chess Lite[/url]
+[url=https://market.android.com/details?id=com.JungleChess]Jungle Chess[/url]
+
+Added by: Elias Westerberg (force)</body>
+	
+		</item>
+	<item id="1819856" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="4386" 			
+			objectname="Fanorona"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:19:45 +0000" 
+			editdate="Wed, 14 Sep 2011 12:59:25 +0000"
+			thumbs="8"
+						imageid="219000">
+	<body>A few months ago, I released an Android version of Fanorona.
+
+[img]http://fanorona.thibault.org/android/help/board2.png[/img]
+
+99 cents in the Android Market (also in Archos&#039;s AppsLib). It includes undo, help, prompting for legal moves, and a leaderboard. From the online help:
+
+The rules
+
+Pieces may move only along the lines, one step at a time.
+
+Capture is by approach or withdrawal. In other words, to capture a piece, you either move into place to be adjacent to it (i.e., so that, if you moved one more step in the same direction, you would be on top of it), or else start out adjacent to it and move away from it (so that, if you had moved in the opposite direction, you would be on top of it). A piece may not capture both by approach and by withdrawal in the same move; the player must choose.
+
+When you capture, you&#039;re actually capturing a line of pieces, not just one: all the opponent pieces in the same direction, up until a blank space or one of your pieces.
+
+After each capture, if the same piece can make another capture, it must, provided it is changing direction, and provided it does not cross back on its path (within the same turn, that is).
+
+If you can make a capture, you must.
+
+The game is over when one player cannot move (usually, but not necessarily, because they have no pieces left).
+
+https://market.android.com/details?id=org.thibault.android.fanorona
+
+Added by: John Stracke (jstracke)</body>
+	
+		</item>
+	<item id="1819858" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="3181" 			
+			objectname="Farkle"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:21:14 +0000" 
+			editdate="Thu, 08 Sep 2011 20:21:14 +0000"
+			thumbs="4"
+						imageid="337762">
+	<body>Farkle Fun Free.
+
+https://market.android.com/details?id=nate.radebaugh.android.farklefunfree&amp;feature=search_result
+
+Added by: Mike Russo (maddog00)</body>
+	
+		</item>
+	<item id="1819861" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="14538" 			
+			objectname="Fei Xing Qi"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:23:21 +0000" 
+			editdate="Thu, 08 Sep 2011 20:23:21 +0000"
+			thumbs="2"
+						imageid="59097">
+	<body>Battle Ludo.
+
+Battle Ludo (Aeroplane Chess) is a Simple &amp; Fun classic board game!
+You would wonder why this simple game from childhood could still be this entertaining!
+Enjoyed by adults and children alike, It is very similar to the traditional game Ludo and Pachisi. Players take turns to throw the die. The player have all four pieces finishing their journey wins!
+
+https://market.android.com/details?id=com.sohomob.android.aeroplane_chess_battle_ludo_2
+
+Added by: Roman Ocheretko (extroll)</body>
+	
+		</item>
+	<item id="1819864" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="88563" 			
+			objectname="Foresight"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:25:05 +0000" 
+			editdate="Thu, 08 Sep 2011 20:25:05 +0000"
+			thumbs="3"
+						imageid="0">
+	<body>I have a couple cards games up in the Market, the first being Foresight, linked here. I&#039;m still assembling assets to fill up the entry here at BGG, but it&#039;s a trick-taking game using a special deck of cards with some information on the back. Market listing is here:
+
+https://market.android.com/details?id=com.houseofslack.foresight
+
+Also available on the Amazon market. I&#039;m happy to answer any questions.
+
+Added by: Joshua Buergel (jbuergel)</body>
+	
+		</item>
+	<item id="1819868" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="25574" 			
+			objectname="Gin Rummy"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:26:44 +0000" 
+			editdate="Thu, 08 Sep 2011 20:26:44 +0000"
+			thumbs="5"
+						imageid="192271">
+	<body>The ever-popular card game comes to Android! Play Gin Rummy against the computer. 5 different computer opponents to choose from, each with their own playing styles and individual strategies. Optimized for various screen sizes so it&#039;s fun and easy to play.
+
+https://market.android.com/details?id=com.tesseractmobile.ginrummy&amp;feature=search_result
+
+Added by: Roman Ocheretko (extroll)</body>
+	
+		</item>
+	<item id="1819872" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="188" 			
+			objectname="Go"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:29:57 +0000" 
+			editdate="Thu, 08 Sep 2011 20:29:57 +0000"
+			thumbs="16"
+						imageid="38998">
+	<body>I&#039;m not super good at Go, so my opinions should be taken with a salt lick.
+
+I remember downloading and using [url=https://market.android.com/details?id=org.ligi.gobandroid]gobandroid[/url], but I don&#039;t remember my reaction to it. Must not&#039;ve been positive enough, because I don&#039;t have it installed anymore. Looks like it gets good reviews, though!
+
+I really like [url=https://market.android.com/details?id=de.agrothe.go]GOdroid[/url]&#039;s interface. I think it has the best interface of all the apps you listed. The AI is tough (being an implementation of GNU Go), but does tend to slow down a bit when on high difficulties.
+
+[url=https://market.android.com/details?id=us.danlib.igo]WeGoIgo[/url] is an awesome studying resource. I mean, just look at that list of features. And they all work relatively well. I&#039;ve paid my way into the [url=http://goproblems.com/]goproblems.com[/url] database, however, so downloading a huge chunk of problems has allowed me lots of practice and fun.
+
+[url=https://market.android.com/details?id=uk.co.aifactory.gofree]Go[/url]/[url=https://market.android.com/details?id=uk.co.aifactory.gofree]Go Free[/url] is a typical AI Factory Limited app. Solid controls, a little too flashy, requires payment for basic things like access to 19x19 board, super cool &quot;potential points/board control&quot; indicator mid-game. I still prefer GOdroid&#039;s interface, but this is 4.5 after 963 votes for a reason. Maybe I&#039;m just an outlier. ;)
+
+[url=https://market.android.com/details?id=com.gokgs.client.android]KGS Client[/url] is exactly what it says: A solid, no flash, no bs, KGS client that&#039;s actively updated by the KGS Admins. Works well, though the board-interface is a little odd: the stone is suspended to the upper-right of your finger, and a button has to be pressed to be confirmed as a move. Not bad at all, but a little awkward at first. The price feels beyond high, but it comes with two months of KGS Plus, which I didn&#039;t make a whole lot of use of, but some might.
+
+[url=https://market.android.com/details?id=couk.doridori.goigoFull]Goigo[/url] is an IGS client, much like KGS. It has better visuals (menus, etc), but doesn&#039;t feel as polished, and the last time I used it (two or so months ago), it FC&#039;d or dropped games occasionally. Maybe once out of 6 games or so. 
+
+Just to forestall:
+[url=https://market.android.com/details?id=com.iqoid.androidnogo]AndroidNoGo[/url] is terrible. It&#039;s also an IGS client, but (again, two months ago), it FC&#039;d once every other game and every element of it felt unpolished and poorly designed.
+
+[url=https://market.android.com/details?id=com.newhuman.android.goproblems]Android Go Problems[/url] is also terrible. Buggy interface, odd problem choices, FCs. Don&#039;t do it.
+
+Added by: Noah Bogart (NoahTheDuke)</body>
+	
+		</item>
+	<item id="1819875" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="38950" 			
+			objectname="Halma"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:31:13 +0000" 
+			editdate="Thu, 08 Sep 2011 20:31:13 +0000"
+			thumbs="2"
+						imageid="155718">
+	<body>A good implementation of Halma by EllieSoft
+
+[img]http://a1.phobos.apple.com/us/r1000/015/Purple/1c/32/4c/mzl.zgyfivrl.320x480-75.jpg[/img]
+
+https://market.android.com/details?id=uk.co.EllieSoft.Halma&amp;feature=search_result
+
+Added by: Fernando Aguilar (coronelcangrejo)</body>
+	
+		</item>
+	<item id="1819876" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="5451" 			
+			objectname="Hanafuda"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:32:30 +0000" 
+			editdate="Thu, 08 Sep 2011 20:32:30 +0000"
+			thumbs="6"
+						imageid="126569">
+	<body>You must pay for this application and this game is only in japanese.
+
+Here you can read rules in english http://www.gamedesign.jp/flash/hanafuda/rule_e.html
+
+https://market.android.com/details?id=jp.boo.team_bka.hanafuda&amp;feature=top-paid
+
+Added by: Andrzej Kuplowski (lucyfungus)</body>
+	
+		</item>
+	<item id="1819878" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2759" 			
+			objectname="Havannah"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:34:14 +0000" 
+			editdate="Wed, 14 Sep 2011 13:00:12 +0000"
+			thumbs="4"
+						imageid="7120">
+	<body>I&#039;ve found this one in android Market with the name &quot;Abstract games&quot; by Paul Lewis, is a bundle of Havannah and Hex.
+
+[img]http://img.androidsoftware.us/apk/img2/201105200747131098.jpg[/img]
+
+https://market.android.com/details?id=com.castlefrog.games.asg&amp;feature=search_result
+
+Added by: Fernando Aguilar (coronelcangrejo)</body>
+	
+		</item>
+	<item id="1819882" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="4112" 			
+			objectname="Hex"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:35:41 +0000" 
+			editdate="Thu, 08 Sep 2011 20:35:41 +0000"
+			thumbs="4"
+						imageid="36544">
+	<body>Hex Board Game by TheCaddy. Free.
+
+https://market.android.com/details?id=fi.hex&amp;feature=search_result
+
+Added by: Jason Monroe (belial1134)</body>
+	
+		</item>
+	<item id="1819883" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="8203" 			
+			objectname="Hey, That&#039;s My Fish!"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:37:24 +0000" 
+			editdate="Thu, 08 Sep 2011 20:37:24 +0000"
+			thumbs="18"
+						imageid="1004115">
+	<body>OFFICIAL
+
+Official version from FFG @ $4.99.
+
+https://market.android.com/details?id=com.fantasyflightgames.htmf&amp;feature=search_result
+
+Added by: E D (unveilmyeyes)</body>
+	
+		</item>
+	<item id="1819890" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2932" 			
+			objectname="Hnefatafl"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:39:29 +0000" 
+			editdate="Thu, 08 Sep 2011 20:39:29 +0000"
+			thumbs="7"
+						imageid="13636">
+	<body>Hnefatafl - King&#039;s Table
+
+Free version:
+https://market.android.com/details?id=no.dkit.android.hnefatafl&amp;feature=search_result
+
+Full version:
+https://market.android.com/details?id=no.dkit.android.hnefataflpaid&amp;feature=search_result
+
+Added by: Nathan Morse (zefquaavius)</body>
+	
+		</item>
+	<item id="1819895" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="17114" 			
+			objectname="I&#039;ve Never...?"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:43:37 +0000" 
+			editdate="Thu, 08 Sep 2011 20:43:37 +0000"
+			thumbs="2"
+						imageid="106441">
+	<body>I Have never... Demo version. Free (limited to 15 rounds)
+
+Full version is $1.25
+
+Looks to be similar (at least in idea to I&#039;ve Never)
+
+Demo:
+https://market.android.com/details?id=com.ubergraphic.ihaveneverdemo&amp;feature=search_result
+
+Full version:
+https://market.android.com/details?id=com.ubergraphic.ihavenever&amp;feature=search_result
+
+Added by: Jason Monroe (belial1134)</body>
+	
+		</item>
+	<item id="1819898" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="6862" 			
+			objectname="Laska"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:47:50 +0000" 
+			editdate="Thu, 08 Sep 2011 20:47:50 +0000"
+			thumbs="5"
+						imageid="545100">
+	<body>Laska is a nice abstract strategy game.
+
+Light version:
+https://market.android.com/details?id=com.android.laska&amp;feature=search_result
+
+Full version:
+https://market.android.com/details?id=com.laska.full&amp;feature=search_result
+
+Added by: Nathan Morse (zefquaavius)</body>
+	
+		</item>
+	<item id="1819900" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="21488" 			
+			objectname="Petteia"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:51:03 +0000" 
+			editdate="Thu, 08 Sep 2011 20:51:03 +0000"
+			thumbs="5"
+						imageid="111569">
+	<body>Hi,
+
+I just finished a playable version of Latrunculi for the Android platform.
+I published it in the market today and hope some board games geeks will download it and leave me some feedback.
+
+Free.
+
+https://market.android.com/details?id=de.ragingdave.latrunculi&amp;feature=search_result
+
+Added by: David LB (ragingdave)</body>
+	
+		</item>
+	<item id="1819903" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="43413" 			
+			objectname="Liar Liar"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:53:55 +0000" 
+			editdate="Thu, 08 Sep 2011 20:53:55 +0000"
+			thumbs="2"
+						imageid="501160">
+	<body>Liar Liar (free) by andruids.com - limited version
+Liar Liar by andruids.com - full version ~$5.26
+
+App does seem to be this game and not just sharing the same title
+
+Free:
+https://market.android.com/details?id=com.olof.android.liarliar&amp;feature=search_result
+
+Full:
+https://market.android.com/details?id=com.andruids.liarliar&amp;feature=search_result
+
+Added by: Jason Monroe (belial1134)</body>
+	
+		</item>
+	<item id="1819904" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="8909" 			
+			objectname="Lu Zhan Jun Qi"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:55:09 +0000" 
+			editdate="Thu, 08 Sep 2011 20:55:09 +0000"
+			thumbs="5"
+						imageid="305084">
+	<body>Land Battle Chess
+
+https://market.android.com/details?id=com.LBC
+
+Added by: Nathan Morse (zefquaavius)</body>
+	
+		</item>
+	<item id="1819906" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2448" 			
+			objectname="Mancala"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 20:57:04 +0000" 
+			editdate="Thu, 08 Sep 2011 20:57:04 +0000"
+			thumbs="4"
+						imageid="15508">
+	<body>Many different Mancala versions:
+
+https://market.android.com/search?q=mancala&amp;so=1&amp;c=apps
+
+Added by: Fernando Aguilar (coronelcangrejo)</body>
+	
+		</item>
+	<item id="1819910" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="590" 			
+			objectname="Mille Bornes"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 21:00:18 +0000" 
+			editdate="Thu, 08 Sep 2011 21:00:18 +0000"
+			thumbs="11"
+						imageid="154433">
+	<body>Mille Bornes.
+
+https://market.android.com/details?id=com.rgsoftworks.miles&amp;feature=search_result
+
+[img]http://chart.apis.google.com/chart?cht=qr&amp;chs=135x135&amp;chl=market%3a%2f%2fdetails%3fid%3dcom.rgsoftworks.miles%26referrer%3dutm_source%253DAndrolib%2526utm_medium%253DPage%2526utm_campaign%253DAndrolib%2520Page[/img]
+
+Added by: Ernie Lai (laiernie)</body>
+	
+		</item>
+	<item id="1819912" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="18901" 			
+			objectname="Monopoly: Here and Now"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 21:03:22 +0000" 
+			editdate="Thu, 08 Sep 2011 21:03:22 +0000"
+			thumbs="3"
+						imageid="86124">
+	<body>Monopoly: Here and Now @ $6.99 USD.
+
+http://store.handmark.com/p/71269/monopoly-here-and-now-for-android/
+
+Added by: Alex Treacher(Prodromoi)</body>
+	
+		</item>
+	<item id="1819915" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="29146" 			
+			objectname="Okey"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 21:04:46 +0000" 
+			editdate="Thu, 08 Sep 2011 21:04:46 +0000"
+			thumbs="4"
+						imageid="204883">
+	<body>Okey.
+
+[img]http://cdn.androidblip.com/screens/1____148267.png[/img]
+
+https://market.android.com/details?id=tr.com.obss.mobile.android.okey&amp;feature=search_result
+
+Added by: Fernando Aguilar (coronelcangrejo)</body>
+	
+		</item>
+	<item id="1819918" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="1295" 			
+			objectname="Pente"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 21:06:10 +0000" 
+			editdate="Thu, 08 Sep 2011 21:06:10 +0000"
+			thumbs="6"
+						imageid="212178">
+	<body>Pente by Hewitt Software. Free.
+
+https://market.android.com/details?id=org.pente.android.ai&amp;feature=search_result
+
+Added by: Jason Monroe (belial1134)</body>
+	
+		</item>
+	<item id="1819920" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2389" 			
+			objectname="Othello"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 21:07:17 +0000" 
+			editdate="Fri, 09 Sep 2011 21:53:31 +0000"
+			thumbs="4"
+						imageid="243834">
+	<body>Many versions of Othello/Reversi.
+
+https://market.android.com/search?q=othello&amp;so=1&amp;c=apps
+
+Added by: Richard Morris (AnnuverScotinExile)</body>
+	
+		</item>
+	<item id="1819923" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="1419" 			
+			objectname="Pylos"
+			username="Doomfarer" 
+			postdate="Thu, 08 Sep 2011 21:08:42 +0000" 
+			editdate="Thu, 08 Sep 2011 21:08:42 +0000"
+			thumbs="4"
+						imageid="49947">
+	<body>Spyro 3D
+
+https://market.android.com/details?id=com.crudebyte.sphyroFull&amp;feature=search_result
+
+Added by: Jason Monroe (belial1134)</body>
+	
+		</item>
+	<item id="1820172" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="13" 			
+			objectname="The Settlers of Catan"
+			username="homiefud" 
+			postdate="Fri, 09 Sep 2011 02:10:14 +0000" 
+			editdate="Fri, 09 Sep 2011 02:10:14 +0000"
+			thumbs="17"
+						imageid="268839">
+	<body>Official
+
+https://market.android.com/details?id=com.exozet.android.catan&amp;feature=search_result
+
+</body>
+	
+		</item>
+	<item id="1820175" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="503" 			
+			objectname="Through the Desert"
+			username="homiefud" 
+			postdate="Fri, 09 Sep 2011 02:12:32 +0000" 
+			editdate="Fri, 09 Sep 2011 02:12:32 +0000"
+			thumbs="13"
+						imageid="730576">
+	<body>Official
+
+https://market.android.com/details?id=com.tribeflame.through_the_desert&amp;feature=search_result</body>
+	
+		</item>
+	<item id="1820322" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="1111" 			
+			objectname="Taboo"
+			username="shockerluke" 
+			postdate="Fri, 09 Sep 2011 06:20:25 +0000" 
+			editdate="Sat, 17 Sep 2011 01:48:59 +0000"
+			thumbs="8"
+						imageid="212946">
+	<body>There are a lot of apps on Android like Taboo.  Buzzwords is super polished, but if you want a locale other than English Taboost is a good option.
+
+[thing=107327]Buzzwords VideoGameGeek[/thing]
+
+Android Market: https://market.android.com/details?id=com.buzzwordslite
+
+[ImageID=1081965][ImageID=1081966]</body>
+	
+		</item>
+	<item id="1820325" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="681" 			
+			objectname="Quarto!"
+			username="bardosy" 
+			postdate="Fri, 09 Sep 2011 06:30:39 +0000" 
+			editdate="Fri, 09 Sep 2011 10:16:56 +0000"
+			thumbs="4"
+						imageid="669979">
+	<body>There are two Quarto games for Android:
+
+
+4 Smiles: https://market.android.com/details?id=it.mp.foursmiles
+[imageid=1086340]
+
+
+Amoeba: http://lacko.pcdome.hu/Android/Amoeba.apk
+[imageid=1086341]</body>
+	
+		</item>
+	<item id="1820326" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="8217" 			
+			objectname="San Juan"
+			username="bardosy" 
+			postdate="Fri, 09 Sep 2011 06:32:15 +0000" 
+			editdate="Fri, 09 Sep 2011 10:14:54 +0000"
+			thumbs="66"
+						imageid="174174">
+	<body>Condado: https://market.android.com/details?id=com.kevinquan.condado
+
+[imageid=1086338]</body>
+	
+		</item>
+	<item id="1820664" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="320" 			
+			objectname="Scrabble"
+			username="zachcarter" 
+			postdate="Fri, 09 Sep 2011 14:26:52 +0000" 
+			editdate="Fri, 09 Sep 2011 14:28:17 +0000"
+			thumbs="3"
+						imageid="404651">
+	<body>Official app from Hasbro/EA:  
+https://market.android.com/details?id=ca.jamdat.flight.scrabblefree&amp;feature=search_result
+
+Wordfeud clone (posted by clawster):
+Head to the market, and look for a fancy game called Wordfeud FREE.
+
+* Ad-supported (as of 1.0.8, donate $2.99 via PayPal to remove)
+* Online MP w/randoms or friends (asynchronous, play when you want)
+
+* Official - http://wordfeud.com/
+* AppBrain - http://www.appbrain.com/app/com.hbwares.wordfeud.free
+* SA Forums Discussion (dev participating) - http://forums.somethingawful.com/showthread.php?threadid=333...
+* UserVoice (request for features) - http://wordfeud.uservoice.com/forums/69475-feedback 
+
+Words With Friends clone (posted by clawster):
+Words With Friends has finally made it to Android!
+
+Pretty much the same as WordFeud, but with nicer graphics, added local-multiplayer and cross-platform play (you can play against people playing WWF on iPhone).
+
+Free (ad-supported) - https://market.android.com/details?id=com.zynga.words
+Paid (ad-free) - coming soon
+
+Wordsmith clone:
+Featuring 3-4 player games.
+https://market.android.com/details?id=com.secondbreakfast.games.wordsmith.free&amp;feature=search_result</body>
+	
+		</item>
+	<item id="1827766" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="16395" 			
+			objectname="Blokus Duo"
+			username="slow1234" 
+			postdate="Wed, 14 Sep 2011 22:07:13 +0000" 
+			editdate="Thu, 26 Jul 2012 23:43:31 +0000"
+			thumbs="4"
+						imageid="88511">
+	<body>Travel Blokus/Blokus Duo
+
+[-]https://market.android.com/details?id=com.niek.games.blokusduo&amp;feature=search_result[/-]
+
+UPDATE 2012-07-26 - Looks like it has been removed from the market.</body>
+	
+		</item>
+	<item id="1893056" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="9674" 			
+			objectname="Ingenious"
+			username="netizen" 
+			postdate="Tue, 01 Nov 2011 08:43:09 +0000" 
+			editdate="Tue, 01 Nov 2011 08:43:09 +0000"
+			thumbs="19"
+						imageid="72808">
+	<body>This one is currently $.99.  
+
+Works pretty well, there is even a solo version and a tournament version as well as multiplayer.   You have to pass the phone back and forth on multi player.
+
+[geekurl=https://market.android.com/details?id=com.massivespace.ingenious&amp;feature=search_result]Ingenious[/geekurl]</body>
+	
+		</item>
+	<item id="1897835" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="100423" 			
+			objectname="Elder Sign"
+			username="Burninghammer" 
+			postdate="Sat, 05 Nov 2011 13:55:30 +0000" 
+			editdate="Sat, 05 Nov 2011 13:55:30 +0000"
+			thumbs="47"
+						imageid="1024923">
+	<body>Elder sign:omens to be exact. Original download is 38.22 mb which is over the 30 mb cache partition. So basically i&#039;m hoping someone will explain to me how to download this</body>
+	
+		</item>
+	<item id="1924840" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="29741" 			
+			objectname="Banqi"
+			username="1mileis2" 
+			postdate="Tue, 29 Nov 2011 00:57:25 +0000" 
+			editdate="Wed, 30 Nov 2011 01:33:21 +0000"
+			thumbs="5"
+						imageid="236597">
+	<body>the app is called &quot;chinese dark chess&quot;
+
+https://market.android.com/details?id=com.xidea.ChineseDarkChess&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS54aWRlYS5DaGluZXNlRGFya0NoZXNzIl0.
+
+</body>
+	
+		</item>
+	<item id="1929038" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2921" 			
+			objectname="The Game of Life"
+			username="SVan" 
+			postdate="Thu, 01 Dec 2011 10:22:01 +0000" 
+			editdate="Thu, 01 Dec 2011 10:22:01 +0000"
+			thumbs="3"
+						imageid="288405">
+	<body>Probably not a game anyone here will get that excited for, but it should be added to this list.
+
+https://market.android.com/details?id=com.eamobile.life_na_wf&amp;feature=top-paid#?t=W251bGwsMSwyLDIwNiwiY29tLmVhbW9iaWxlLmxpZmVfbmFfd2YiXQ..
+
+Looks like it&#039;s has good ratings.</body>
+	
+		</item>
+	<item id="1942393" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="483" 			
+			objectname="Diplomacy"
+			username="zond" 
+			postdate="Mon, 12 Dec 2011 14:07:20 +0000" 
+			editdate="Mon, 12 Dec 2011 14:07:20 +0000"
+			thumbs="12"
+						imageid="288149">
+	<body>Found by the name &quot;Droidippy&quot; on Android Market or at http://droidippy.oort.se/web/static/Droidippy.apk
+
+[IMG]https://lh5.ggpht.com/mp_zSLZ53pZmxrC_MsMfQDkzXPP9aPRIYx-uVCq4WewDH7XmuuwDrvDHwPGbPjQPXJc[/IMG]</body>
+	
+		</item>
+	<item id="1950201" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="67453" 			
+			objectname="Caveman Curling"
+			username="cassini" 
+			postdate="Tue, 20 Dec 2011 09:04:56 +0000" 
+			editdate="Tue, 20 Dec 2011 09:06:33 +0000"
+			thumbs="10"
+						imageid="1090825">
+	<body>English version 
+
+one &amp; two players mode
+
+very funny game :)
+
+https://market.android.com/details?id=com.forgenext.kairn</body>
+	
+		</item>
+	<item id="1970609" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="463" 			
+			objectname="Magic: The Gathering"
+			username="maddog00" 
+			postdate="Thu, 05 Jan 2012 12:40:09 +0000" 
+			editdate="Thu, 05 Jan 2012 12:40:09 +0000"
+			thumbs="11"
+						imageid="163749">
+	<body>Wagic the homebrew is coming to the Android! (and iOS)
+
+[url]http://wololo.net/files/wagic/WTH0170_Android.zip[/url]
+
+More info at [url]http://www.wololo.net/forum/index.php[/url]</body>
+	
+		</item>
+	<item id="1972921" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="41021" 			
+			objectname="Tangram Master"
+			username="maddog00" 
+			postdate="Fri, 06 Jan 2012 18:26:53 +0000" 
+			editdate="Fri, 06 Jan 2012 18:26:53 +0000"
+			thumbs="6"
+						imageid="447160">
+	<body>[url]https://market.android.com/details?id=com.magmamobile.game.Tangram[/url]
+
+[IMG]https://lh3.ggpht.com/zdZcfZpkr53ew5g_Eptqsq4xBluSkjqVfstDt9rcBw4GwjP2_Nkhu4iizb5MEMdxtA=w705[/IMG]</body>
+	
+		</item>
+	<item id="1979585" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="30009" 			
+			objectname="Solo Dungeon Bash"
+			username="Puquak" 
+			postdate="Tue, 10 Jan 2012 22:04:05 +0000" 
+			editdate="Tue, 10 Jan 2012 22:04:05 +0000"
+			thumbs="10"
+						imageid="219581">
+	<body>Free - https://market.android.com/details?id=com.braincells.SoloDungeonBash</body>
+	
+		</item>
+	<item id="2016013" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2223" 			
+			objectname="UNO"
+			username="Cirunz" 
+			postdate="Mon, 06 Feb 2012 11:30:44 +0000" 
+			editdate="Mon, 06 Feb 2012 11:30:44 +0000"
+			thumbs="4"
+						imageid="73103">
+	<body>I hope I&#039;m not missing something, but I think this one is not already present:
+
+https://market.android.com/details?id=com.gameloft.android.GloftUNOG&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5nYW1lbG9mdC5hbmRyb2lkLkdsb2Z0VU5PRyJd
+
+QRCode:
+[img]http://qrcode.kaywa.com/img.php?s=5&amp;d=https%3A%2F%2Fmarket.android.com%2Fdetails%3Fid%3Dcom.gameloft.android.GloftUNOG%26feature%3Dsearch_result%23%3Ft%3DW251bGwsMSwxLDEsImNvbS5nYW1lbG9mdC5hbmRyb2lkLkdsb2Z0VU5PRyJd[/img]
+
+It&#039;s an official release, licensed to Gameloft. It&#039;s UNO: not your average milestone, but it&#039;s simple and well made, and it does multiplayer. Also: very low price :)</body>
+	
+		</item>
+	<item id="2029167" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="1406" 			
+			objectname="Monopoly"
+			username="Doomfarer" 
+			postdate="Wed, 15 Feb 2012 18:09:47 +0000" 
+			editdate="Wed, 15 Feb 2012 18:09:47 +0000"
+			thumbs="2"
+						imageid="265476">
+	<body>OFFICIAL
+
+Two variants even.
+
+NA:
+https://market.android.com/details?id=com.eamobile.monopoly_na_wf
+
+ROW:
+https://market.android.com/details?id=com.eamobile.monopoly_row_wf
+
+I don&#039;t know if there are any differences between the two apart from a small price difference (NA version is somewhat cheaper).</body>
+	
+		</item>
+	<item id="2032347" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="215" 			
+			objectname="Tichu"
+			username="nikgid" 
+			postdate="Fri, 17 Feb 2012 11:23:31 +0000" 
+			editdate="Fri, 17 Feb 2012 11:23:31 +0000"
+			thumbs="21"
+						imageid="174150">
+	<body>[b]Finally![/b]
+One of the best cardgames ever is available for Android: Tichu!
+
+When buying my Android phone I actually pondered getting an iPhone instead, because Tichu was only available for iProducts and its programmer said he would not consider to make a version for Android. - Now another programmer has taken on the challenge - [b]and done a very good job already. Practical playing interface and good AI.[/b]
+
+Here is the Link to Tichu on the Android Market:
+http://tinyurl.com/7lkgsgg
+
+Let&#039;s support the programmer (by buying the game) and then persuade him to also bring [thing=152]Mü[/thing] to Android... :whistle:</body>
+	
+		</item>
+	<item id="2046758" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="91034" 			
+			objectname="Khet 2.0"
+			username="anto" 
+			postdate="Tue, 28 Feb 2012 12:08:57 +0000" 
+			editdate="Tue, 28 Feb 2012 12:08:57 +0000"
+			thumbs="6"
+						imageid="994909">
+	<body>https://market.android.com/details?id=com.schogini.KHET</body>
+	
+		</item>
+	<item id="2066463" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="86156" 			
+			objectname="Reverse Charades"
+			username="rudyriot" 
+			postdate="Wed, 14 Mar 2012 08:14:00 +0000" 
+			editdate="Wed, 14 Mar 2012 08:14:00 +0000"
+			thumbs="6"
+						imageid="850037">
+	<body>Official App
+
+App is free and comes with a 50 card sample deck. Additional decks are purchased for 99 cents each.
+
+https://play.google.com/store/search?q=Reverse+Charades&amp;c=apps</body>
+	
+		</item>
+	<item id="2074298" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2136" 			
+			objectname="Pachisi"
+			username="belial1134" 
+			postdate="Mon, 19 Mar 2012 06:44:25 +0000" 
+			editdate="Mon, 19 Mar 2012 06:44:25 +0000"
+			thumbs="3"
+						imageid="264829">
+	<body>Mensch ärgere Dich nicht - basically Pachisi/Ludo
+
+https://play.google.com/store/apps/details?id=com.binteraktive.madnlight&amp;feature=search_result
+
+Many other clones out there as well</body>
+	
+		</item>
+	<item id="2088417" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2653" 			
+			objectname="Survive: Escape from Atlantis!"
+			username="eprasuhn" 
+			postdate="Thu, 29 Mar 2012 15:15:57 +0000" 
+			editdate="Wed, 17 Apr 2013 20:12:22 +0000"
+			thumbs="30"
+						imageid="792277">
+	<body>[u][b]Update: Due to launch at the end April(see below).
+[/b]
+[/u]This hasn&#039;t been released yet, but I thought it was worth mentioning. There&#039;s no information regarding a release date aside from:
+ &quot;COMING SOON!&quot; 
+
+Here&#039;s a link to stronghold games website link:
+http://strongholdgames.com/digital/
+
+
+I came across this information while reading this forum. http://boardgamegeek.com/thread/780065/survive-for-iosandroid
+So the credit goes to:[user=Ruskicowboy][/user]
+
+</body>
+	
+		</item>
+	<item id="2088517" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="1258" 			
+			objectname="Phase 10"
+			username="maddog00" 
+			postdate="Thu, 29 Mar 2012 17:44:07 +0000" 
+			editdate="Thu, 29 Mar 2012 17:44:07 +0000"
+			thumbs="3"
+						imageid="226562">
+	<body>FREE VERSION:[url]https://play.google.com/store/apps/details?id=com.magmic.phase10.lite&amp;feature=search_result[/url]
+
+99 CENT VERSION: [url]https://play.google.com/store/apps/details?id=com.magmic.phase10&amp;feature=search_result[/url]</body>
+	
+		</item>
+	<item id="2117747" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="69638" 			
+			objectname="Goblin Market"
+			username="Mandrel" 
+			postdate="Mon, 23 Apr 2012 10:09:55 +0000" 
+			editdate="Mon, 23 Apr 2012 10:09:55 +0000"
+			thumbs="16"
+						imageid="1294537">
+	<body>Cool little decktet auction game. Officially sanctioned app was created by [user=datac0re][/user] and works nicely.
+https://play.google.com/store/apps/details?id=com.newtzgames.goblinmarket</body>
+	
+		</item>
+	<item id="2120378" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2093" 			
+			objectname="Mahjong"
+			username="shacky22" 
+			postdate="Tue, 24 Apr 2012 23:19:55 +0000" 
+			editdate="Tue, 24 Apr 2012 23:19:55 +0000"
+			thumbs="6"
+						imageid="43709">
+	<body>If any of you have ever played on MahjongTime.com, they released an app on Android. :)
+
+https://play.google.com/store/apps/details?id=air.nws.mt.mobile#?t=W251bGwsMSwxLDIxMiwiYWlyLm53cy5tdC5tb2JpbGUiXQ..</body>
+	
+		</item>
+	<item id="2126848" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="11646" 			
+			objectname="Piquet"
+			username="Mandrel" 
+			postdate="Mon, 30 Apr 2012 12:47:24 +0000" 
+			editdate="Mon, 30 Apr 2012 12:47:24 +0000"
+			thumbs="6"
+						imageid="199513">
+	<body>Piquet is a two player no trump trick-taking card game, one of the oldest card games still played.
+Goodsoft have a free app where you can play against different levels of AI, or play via bluetooth.
+https://play.google.com/store/apps/details?id=com.game.good.piquet
+</body>
+	
+		</item>
+	<item id="2126853" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2405" 			
+			objectname="Bezique"
+			username="Mandrel" 
+			postdate="Mon, 30 Apr 2012 12:48:57 +0000" 
+			editdate="Mon, 30 Apr 2012 12:48:57 +0000"
+			thumbs="6"
+						imageid="1154191">
+	<body>Bezique is a two player meld and trick-taking game, an antecedent of pinochle.
+Goodsoft have a free app where you can play against different levels of AI, or play via bluetooth.
+https://play.google.com/store/apps/details?id=com.game.good.bezique
+
+</body>
+	
+		</item>
+	<item id="2126870" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="20240" 			
+			objectname="Écarté"
+			username="Mandrel" 
+			postdate="Mon, 30 Apr 2012 12:58:32 +0000" 
+			editdate="Mon, 30 Apr 2012 12:58:32 +0000"
+			thumbs="8"
+						imageid="104497">
+	<body>Écarté is a two player trick-taking game, similar to Euchre.
+Goodsoft have a free app where you can play against different levels of AI, or play via bluetooth.
+https://play.google.com/store/apps/details?id=com.game.good.ecarte
+</body>
+	
+		</item>
+	<item id="2126874" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="1116" 			
+			objectname="Oh Hell!"
+			username="Mandrel" 
+			postdate="Mon, 30 Apr 2012 13:09:27 +0000" 
+			editdate="Mon, 30 Apr 2012 13:09:27 +0000"
+			thumbs="8"
+						imageid="616572">
+	<body>Trick taking games where players must bid the amount of tricks they will take, with the proviso that not everyone can be satisfied.
+Free app by qsoft under Contract Whist(Oh Hell). Can play several variants, against 2-5 AI opponents.
+https://play.google.com/store/apps/details?id=com.qsoft.android.whist</body>
+	
+		</item>
+	<item id="2132428" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="632" 			
+			objectname="Cloud 9"
+			username="Nurdok" 
+			postdate="Fri, 04 May 2012 16:59:36 +0000" 
+			editdate="Fri, 04 May 2012 16:59:36 +0000"
+			thumbs="13"
+						imageid="1229626">
+	<body>I created a cloud 9 clone for the Android called Sky Hiking. It&#039;s my first app and it&#039;s currently in early beta, so I&#039;d appreciate it if you can give me feedback here, at github (there&#039;s a link in the app), PM, or any other way you want to contact me!
+
+[url]https://play.google.com/store/apps/details?id=com.rachum.amir.skyhiking.android[/url]
+
+[IMG]https://lh3.ggpht.com/lsD3TGgWuv4y4vnfczFbtgqLr7iy-KteEWa7BGSGDRfzRq1wTBgWr7oDx5OEuVQciqK0[/IMG]</body>
+	
+		</item>
+	<item id="2136048" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="15889" 			
+			objectname="Scopa"
+			username="Mandrel" 
+			postdate="Mon, 07 May 2012 16:02:06 +0000" 
+			editdate="Mon, 07 May 2012 16:02:06 +0000"
+			thumbs="10"
+						imageid="1213360">
+	<body>Classic italian fishing card game.
+Many versions available, including:
+free
+https://play.google.com/store/apps/details?id=it.danieleteti.scopa
+https://play.google.com/store/apps/details?id=com.application.game.scopa
+paid:
+https://play.google.com/store/apps/details?id=com.brainet.games.scopa
+https://play.google.com/store/apps/details?id=com.Fatal1ty.Scopa4Android</body>
+	
+		</item>
+	<item id="2136069" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="6819" 			
+			objectname="Skat"
+			username="Mandrel" 
+			postdate="Mon, 07 May 2012 16:14:21 +0000" 
+			editdate="Mon, 07 May 2012 16:14:21 +0000"
+			thumbs="7"
+						imageid="1299514">
+	<body>Excellent 3-player German trick-taking card game.
+Several apps around, including
+free
+https://play.google.com/store/apps/details?id=de.mobilebits.iSkat
+paid
+https://play.google.com/store/apps/details?id=com.sb.skatroid
+https://play.google.com/store/apps/details?id=air.de.rgerlach.skatpalast</body>
+	
+		</item>
+	<item id="2136081" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="592" 			
+			objectname="Spades"
+			username="Mandrel" 
+			postdate="Mon, 07 May 2012 16:29:14 +0000" 
+			editdate="Mon, 07 May 2012 16:29:14 +0000"
+			thumbs="3"
+						imageid="186311">
+	<body>Trick-taking card game
+Lots of apps, some are:
+Free
+https://play.google.com/store/apps/details?id=com.bytesequencing.spades_ads
+https://play.google.com/store/apps/details?id=uk.co.aifactory.spadesfree
+https://play.google.com/store/apps/details?id=com.karmangames.spades
+Paid
+https://play.google.com/store/apps/details?id=com.games.spadesfull
+https://play.google.com/store/apps/details?id=com.ispadez</body>
+	
+		</item>
+	<item id="2136096" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="6887" 			
+			objectname="Hearts"
+			username="Mandrel" 
+			postdate="Mon, 07 May 2012 16:43:01 +0000" 
+			editdate="Mon, 07 May 2012 16:43:01 +0000"
+			thumbs="5"
+						imageid="191579">
+	<body>Popular trick-taking card game.
+Lots out there, a selection-
+Free
+https://play.google.com/store/apps/details?id=com.bytesequencing.hearts_ads
+https://play.google.com/store/apps/details?id=uk.co.aifactory.heartsfree
+https://play.google.com/store/apps/details?id=com.concretesoftware.hearts_demobuynow
+Paid
+https://play.google.com/store/apps/details?id=com.mwls.jdhearts</body>
+	
+		</item>
+	<item id="2136132" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="19957" 			
+			objectname="Blitz"
+			username="Mandrel" 
+			postdate="Mon, 07 May 2012 17:13:14 +0000" 
+			editdate="Mon, 07 May 2012 17:13:14 +0000"
+			thumbs="4"
+						imageid="104484">
+	<body>Simple card game, also known as 31 or schwimmen.
+Free
+https://play.google.com/store/apps/details?id=com.guywmustang.thirtyone
+https://play.google.com/store/apps/details?id=org.games4all.android.games.schwimmen.prod
+
+Paid
+https://play.google.com/store/apps/details?id=com.swensota.card31</body>
+	
+		</item>
+	<item id="2136401" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="7854" 			
+			objectname="YINSH"
+			username="pbvas" 
+			postdate="Mon, 07 May 2012 19:59:31 +0000" 
+			editdate="Thu, 31 May 2012 14:45:53 +0000"
+			thumbs="11"
+						imageid="178413">
+	<body>&quot;Minimal Y&quot; is a two player implementation of Yinsh (no AI). Minimalist yet functional interface. 
+
+https://play.google.com/store/apps/details?id=com.starbirix.gipf.yinsh&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5zdGFyYmlyaXguZ2lwZi55aW5zaCJd
+
+Free, lightweight on resources and portable (runs on Android from 1.5).
+</body>
+	
+		</item>
+	<item id="2141983" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2398" 			
+			objectname="Cribbage"
+			username="Mandrel" 
+			postdate="Sat, 12 May 2012 14:55:56 +0000" 
+			editdate="Sat, 12 May 2012 14:55:56 +0000"
+			thumbs="3"
+						imageid="121094">
+	<body>Classic card game, plenty of apps available, such as
+(free)
+https://play.google.com/store/apps/details?id=com.fullersystems.cribbage
+https://play.google.com/store/apps/details?id=com.bytesequencing.cribbage_ads
+(paid)
+https://play.google.com/store/apps/details?id=com.concretesoftware.cribbage_mcg
+https://play.google.com/store/apps/details?id=com.bucktheodds.cribbageDroid
+https://play.google.com/store/apps/details?id=com.solitaireforever.cribbageforever</body>
+	
+		</item>
+	<item id="2141993" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="6901" 			
+			objectname="Euchre"
+			username="Mandrel" 
+			postdate="Sat, 12 May 2012 15:04:20 +0000" 
+			editdate="Sat, 12 May 2012 15:04:20 +0000"
+			thumbs="2"
+						imageid="77287">
+	<body>Popular trick-taking card game.
+Some free
+https://play.google.com/store/apps/details?id=com.karmangames.euchre
+https://play.google.com/store/apps/details?id=com.jeffreys.euchre
+https://play.google.com/store/apps/details?id=com.bytesequencing.android.euchre
+Some paid
+https://play.google.com/store/apps/details?id=com.av.euchre</body>
+	
+		</item>
+	<item id="2142001" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="17104" 			
+			objectname="Canasta"
+			username="Mandrel" 
+			postdate="Sat, 12 May 2012 15:12:50 +0000" 
+			editdate="Sat, 12 May 2012 15:12:50 +0000"
+			thumbs="2"
+						imageid="77289">
+	<body>Rummy family card game, especially popular mid-20th century.
+https://play.google.com/store/apps/details?id=com.riva.canasta</body>
+	
+		</item>
+	<item id="2142013" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="4583" 			
+			objectname="Pinochle"
+			username="Mandrel" 
+			postdate="Sat, 12 May 2012 15:30:14 +0000" 
+			editdate="Sat, 12 May 2012 15:30:14 +0000"
+			thumbs="3"
+						imageid="193067">
+	<body>Popular meld &amp; trick-taking card game.
+Free app with 3 AI opponents
+https://play.google.com/store/apps/details?id=com.bytesequencing.android.pinochle</body>
+	
+		</item>
+	<item id="2142037" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2181" 			
+			objectname="Bridge"
+			username="Mandrel" 
+			postdate="Sat, 12 May 2012 15:54:14 +0000" 
+			editdate="Sat, 12 May 2012 15:54:14 +0000"
+			thumbs="4"
+						imageid="193714">
+	<body>Very popular trick-taking auction card game.
+Some apps -
+Free
+https://play.google.com/store/apps/details?id=net.weweweb.android.free.bridge
+Paid
+https://play.google.com/store/apps/details?id=com.zingmagic.bridge3
+https://play.google.com/store/apps/details?id=com.greatgameproducts.abridgebaron
+https://play.google.com/store/apps/details?id=se.slambridge</body>
+	
+		</item>
+	<item id="2144253" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="18011" 			
+			objectname="Chaturanga"
+			username="Mandrel" 
+			postdate="Mon, 14 May 2012 12:08:31 +0000" 
+			editdate="Mon, 14 May 2012 12:08:31 +0000"
+			thumbs="6"
+						imageid="184346">
+	<body>Four-player chess-like game.
+Free app
+https://play.google.com/store/apps/details?id=com.parkovski</body>
+	
+		</item>
+	<item id="2147917" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="4505" 			
+			objectname="Tarot"
+			username="Mandrel" 
+			postdate="Wed, 16 May 2012 19:20:23 +0000" 
+			editdate="Wed, 16 May 2012 19:20:23 +0000"
+			thumbs="2"
+						imageid="475504">
+	<body>Old trick-taking game, played with a tarot deck.
+free
+https://play.google.com/store/apps/details?id=fr.chrysalide.tarot.lite
+paid
+https://play.google.com/store/apps/details?id=com.dreamon.tarot</body>
+	
+		</item>
+	<item id="2150480" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="17530" 			
+			objectname="Go Stop"
+			username="tumorous" 
+			postdate="Fri, 18 May 2012 15:37:34 +0000" 
+			editdate="Fri, 18 May 2012 15:37:58 +0000"
+			thumbs="6"
+						imageid="956328">
+	<body>[b]GoStop by StrawBerry Studio[/b]
+
+https://play.google.com/store/apps/details?id=com.gch.game.gostop
+
+Free with the occasional small ad.
+
+It also features a cartoon poo.</body>
+	
+		</item>
+	<item id="2151633" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2093" 			
+			objectname="Mahjong"
+			username="kabutor" 
+			postdate="Sat, 19 May 2012 09:39:07 +0000" 
+			editdate="Sat, 19 May 2012 09:39:07 +0000"
+			thumbs="11"
+						imageid="43709">
+	<body>This are real versions of Mahjong, 
+
+https://play.google.com/store/apps/details?id=com.epoint.android.games.mjfgbfree&amp;feature=search_result
+
+https://play.google.com/store/apps/details?id=com.mjguy.android.games.mjf16free&amp;feature=search_result
+
+They are free, they have a paid version, but after 50+ plays I don&#039;t have any drawback from the free version.</body>
+	
+		</item>
+	<item id="2153171" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="949" 			
+			objectname="Twixt"
+			username="Mandrel" 
+			postdate="Sun, 20 May 2012 14:39:06 +0000" 
+			editdate="Sun, 20 May 2012 14:39:06 +0000"
+			thumbs="12"
+						imageid="146608">
+	<body>Connection based abstract strategy game.
+Free open-source tablet implementation
+https://play.google.com/store/apps/details?id=com.ridgelineapps.twixt</body>
+	
+		</item>
+	<item id="2153238" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2452" 			
+			objectname="Jenga"
+			username="Mandrel" 
+			postdate="Sun, 20 May 2012 15:55:36 +0000" 
+			editdate="Sun, 20 May 2012 15:55:36 +0000"
+			thumbs="3"
+						imageid="275096">
+	<body>Official, paid app
+https://play.google.com/store/apps/details?id=com.naturalmotion.j3n64</body>
+	
+		</item>
+	<item id="2157279" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="68251" 			
+			objectname="Loot and Scoot"
+			username="Joshuaaaaaa" 
+			postdate="Wed, 23 May 2012 16:21:45 +0000" 
+			editdate="Wed, 23 May 2012 16:21:45 +0000"
+			thumbs="11"
+						imageid="724941">
+	<body>Pretty much a direct port of the boardgame.  $2.99.  Caveat:  I&#039;m the Business Manager for VPG.  That being said, I downloaded it last night and have played it about 4 times (still haven&#039;t won).  Its fun and quick.  But the dice hate me. :)</body>
+	
+		</item>
+	<item id="2166669" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="21241" 			
+			objectname="Neuroshima Hex!"
+			username="jBullfrog" 
+			postdate="Thu, 31 May 2012 17:28:27 +0000" 
+			editdate="Wed, 13 Jun 2012 15:04:43 +0000"
+			thumbs="55"
+						imageid="263013">
+	<body>[url=http://www.neuroshimahex.com/1065/neuroshima-hex-finally-coming-to-android/]Official Announcement![/url]
+
+Teaser video can be found [url=http://www.youtube.com/watch?v=q14ggDVchSs]here[/url].
+
+EDIT (for more info): To be released to google play sometime next week, and whether or not they build an online multiplayer system will depend on sales.
+
+[b]EDIT[/b]: It&#039;s released!!! [b][url=https://play.google.com/store/apps/details?id=com.bdc.nh]Neuroshima Hex[/url][/b] ($2.99 as of 6/13/2012).</body>
+	
+		</item>
+	<item id="2186192" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="68188" 			
+			objectname="Levée en Masse"
+			username="Joshuaaaaaa" 
+			postdate="Fri, 15 Jun 2012 13:28:18 +0000" 
+			editdate="Thu, 13 Sep 2012 21:51:43 +0000"
+			thumbs="8"
+						imageid="689220">
+	<body>Does anyone have a better link? https://play.google.com/store/apps/details?id=air.com.victorypointgames.levee&amp;feature=search_result#?t=W251bGwsMSwyLDEsImFpci5jb20udmljdG9yeXBvaW50Z2FtZXMubGV2ZWUiXQ.
+
+Product details are here:  http://victorypointgames.com/details.php?prodId=209</body>
+	
+		</item>
+	<item id="2189531" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2393" 			
+			objectname="Xiangqi"
+			username="SkookumPete" 
+			postdate="Sun, 17 Jun 2012 23:42:50 +0000" 
+			editdate="Sun, 17 Jun 2012 23:42:50 +0000"
+			thumbs="5"
+						imageid="1215646">
+	<body>There are several implementations. I&#039;ve tried HD Chinese Chess ([url]https://play.google.com/store/apps/details?id=air.com.longo.Xiangqi.android.free[/url]); it has a pleasing interface and what seems a decent AI, though I&#039;m not skilled enough to judge.</body>
+	
+		</item>
+	<item id="2205665" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="11640" 			
+			objectname="Klabberjass"
+			username="Mandrel" 
+			postdate="Tue, 03 Jul 2012 11:44:18 +0000" 
+			editdate="Tue, 03 Jul 2012 11:44:18 +0000"
+			thumbs="4"
+						imageid="47061">
+	<body>Interesting two player trick-taking card game.
+Free app by Goodsoft under Klaberjass, play AI or via bluetooth.
+https://play.google.com/store/apps/details?id=com.game.good.klaberjass</body>
+	
+		</item>
+	<item id="2205678" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="6644" 			
+			objectname="Spite &amp; Malice"
+			username="Mandrel" 
+			postdate="Tue, 03 Jul 2012 11:52:39 +0000" 
+			editdate="Tue, 03 Jul 2012 11:52:39 +0000"
+			thumbs="4"
+						imageid="457503">
+	<body>Competitive patience game for two players.
+A couple of free apps available,
+https://play.google.com/store/apps/details?id=com.game.good.spiteandmalice
+https://play.google.com/store/apps/details?id=org.onoz.card.spite</body>
+	
+		</item>
+	<item id="2207533" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="5" 			
+			objectname="Acquire"
+			username="CIlantr0" 
+			postdate="Thu, 05 Jul 2012 12:13:19 +0000" 
+			editdate="Thu, 05 Jul 2012 12:13:19 +0000"
+			thumbs="5"
+						imageid="342163">
+	<body>Called &quot;Shareholder,&quot; currently $1.99
+
+https://play.google.com/store/apps/details?id=com.twinfeats.shareholder.paid&amp;feature=also_installed#?t=W251bGwsMSwyLDEwNCwiY29tLnR3aW5mZWF0cy5zaGFyZWhvbGRlci5wYWlkIl0.</body>
+	
+		</item>
+	<item id="2211346" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="112118" 			
+			objectname="RED"
+			username="kristopherjwolff" 
+			postdate="Mon, 09 Jul 2012 01:16:30 +0000" 
+			editdate="Mon, 09 Jul 2012 01:17:29 +0000"
+			thumbs="16"
+						imageid="1361089">
+	<body>The official Android version of the nestorgames abstract RED, designed by Néstor Romeral Andrés.
+
+https://play.google.com/store/apps/details?id=red.android
+
+</body>
+	
+		</item>
+	<item id="2211671" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="93164" 			
+			objectname="Spline"
+			username="n_r_a" 
+			postdate="Mon, 09 Jul 2012 06:09:45 +0000" 
+			editdate="Mon, 09 Jul 2012 06:09:45 +0000"
+			thumbs="1"
+						imageid="1109978">
+	<body>This implementation includes 3 Shibumi games ([thing=93164][/thing], [thing=109044][/thing], and [thing=95778][/thing])
+
+https://play.google.com/store/apps/details?id=com.jocly.android.app5_vc_as&amp;feature=search_result
+
+[IMG]https://lh6.ggpht.com/MDGVbvBJHqkDcZKD8w6FyFHFzlguWktfnpXQQHEfiFhzubY1HPm0_og_0i_Y9Zj6AYw=h230[/IMG]</body>
+	
+		</item>
+	<item id="2215121" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="181" 			
+			objectname="Risk"
+			username="maddog00" 
+			postdate="Thu, 12 Jul 2012 09:47:17 +0000" 
+			editdate="Thu, 12 Jul 2012 09:47:17 +0000"
+			thumbs="7"
+						imageid="62237">
+	<body>[url]https://play.google.com/store/apps/details?id=com.game.drisk.free&amp;feature=more_from_developer[/url] Drisk free
+
+[url]https://play.google.com/store/apps/details?id=com.game.drisk&amp;hl=en[/url] Drisk for $1.99</body>
+	
+		</item>
+	<item id="2250416" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="4616" 			
+			objectname="Arimaa"
+			username="SmileyChris" 
+			postdate="Fri, 10 Aug 2012 03:08:36 +0000" 
+			editdate="Fri, 10 Aug 2012 03:22:41 +0000"
+			thumbs="17"
+						imageid="447982">
+	<body>Great game, an instant purchase for me as soon as I saw this was appified.
+
+[IMG]http://chart.googleapis.com/chart?cht=qr&amp;chs=100x100&amp;choe=UTF-8&amp;chld=H|0&amp;chl=http%3A//goo.gl/b035F[/IMG]
+https://play.google.com/store/apps/details?id=net.icosahedral.arimaa
+
+Has 11 difficulty levels of AI and pass-and-play.
+Shame that there&#039;s no online play, but still a worthy purchase.
+
+[IMG]https://lh5.ggpht.com/vARf7oGUuO418HXXARjpjM5lX8RCY6i2IJu0Ma2rwB_N_p1OHbcSp9QwIgTtFY1GYngq[/IMG]</body>
+	
+		</item>
+	<item id="2260463" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="1198" 			
+			objectname="SET"
+			username="oopsiak" 
+			postdate="Mon, 20 Aug 2012 00:45:41 +0000" 
+			editdate="Mon, 20 Aug 2012 00:45:41 +0000"
+			thumbs="5"
+						imageid="874143">
+	<body>https://play.google.com/store/apps/details?id=mpp.SetUsa&amp;feature=search_result
+
+SET®, the classic card game of visual perception, is now on your Android phone.
+
+SET®, This is the official version, approved by SET Enterprises and licensed by Mustang Mobile.</body>
+	
+		</item>
+	<item id="2269042" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="7048" 			
+			objectname="Big Top"
+			username="jbuergel" 
+			postdate="Sun, 26 Aug 2012 06:01:31 +0000" 
+			editdate="Sun, 26 Aug 2012 06:01:31 +0000"
+			thumbs="2"
+						imageid="264695">
+	<body>Available on Play Store:
+
+https://play.google.com/store/apps/details?id=com.houseofslack.bigtop
+
+Currently $.99, as a promotional price.</body>
+	
+		</item>
+	<item id="2274672" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="3406" 			
+			objectname="Lines of Action"
+			username="Mandrel" 
+			postdate="Wed, 29 Aug 2012 18:42:09 +0000" 
+			editdate="Wed, 29 Aug 2012 18:42:09 +0000"
+			thumbs="8"
+						imageid="821638">
+	<body>Simple but deep abstract strategy game by Claude Soucie.
+App by Teddydroid, various AI difficulty levels and local 2-player.
+Pro version
+https://play.google.com/store/apps/details?id=teddydroid.app.loa.pro
+Free version
+https://play.google.com/store/apps/details?id=teddydroid.app.loa.free</body>
+	
+		</item>
+	<item id="2278967" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="38975" 			
+			objectname="Mutton"
+			username="maxdk9" 
+			postdate="Sat, 01 Sep 2012 03:25:33 +0000" 
+			editdate="Sat, 01 Sep 2012 03:25:33 +0000"
+			thumbs="12"
+						imageid="428004">
+	<body>Mutton, deductive board game.
+
+[url]https://play.google.com/store/apps/details?id=mazzy.android.mutton[/url]
+
+Free application allow to play against AI as Farmer or as Wolf.
+
+[ImageID=1408323] </body>
+	
+		</item>
+	<item id="2285704" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="88147" 			
+			objectname="Adaman"
+			username="datac0re" 
+			postdate="Wed, 05 Sep 2012 02:59:40 +0000" 
+			editdate="Wed, 05 Sep 2012 22:29:26 +0000"
+			thumbs="17"
+						imageid="891838">
+	<body>I just released this today on Google Play:
+
+https://play.google.com/store/apps/details?id=com.newtzgames.adaman
+
+This version was created with P.D. Magnus&#039; permission (I also developed the Android version of Goblin Market, which is also on this list).
+
+It&#039;s $.99; alternatively you can play the desktop version for free if you want to try it out before you decide whether or not to fork over the cash:
+
+http://www.newtzgames.com/adaman-android/
+
+At the link above you&#039;ll find a Windows executable as well as a jar file for use on Mac and Linux.</body>
+	
+		</item>
+	<item id="2298770" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2163" 			
+			objectname="Space Hulk"
+			username="lacreighton" 
+			postdate="Thu, 13 Sep 2012 15:53:21 +0000" 
+			editdate="Thu, 13 Sep 2012 16:06:25 +0000"
+			thumbs="14"
+						imageid="1411446">
+	<body>https://play.google.com/store/apps/details?id=com.tresebrothers.games.templars&amp;hl=en
+https://play.google.com/store/apps/details?id=com.tresebrothers.games.templarselite&amp;hl=en
+
+There is a free version, and an elite for-pay version, which costs peanuts.  I don&#039;t know what you miss if you do not pay,  some missions, I think since I wanted to support them and just bought the elite version from the start.  Both versions are ad-free and there are no in-app purchases.  The apps require no special permissions to run on your phone.
+
+It&#039;s already a lot of fun, and updates happen about every week.  About half of the planned missions are written so that makes something like 50 more to go. :D  And the developers are the most responsive game developers I have ever met, who post regularly to their own forum, answer user questions, and rapidly respond to user feedback.  All in their spare time.  Plus they have 2 other games under active development as well.  The question is, when do they sleep?</body>
+	
+		</item>
+	<item id="2301704" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="925" 			
+			objectname="Werewolf"
+			username="Phelanpt" 
+			postdate="Sat, 15 Sep 2012 13:49:15 +0000" 
+			editdate="Sat, 15 Sep 2012 13:49:15 +0000"
+			thumbs="3"
+						imageid="95263">
+	<body>[url=https://play.google.com/store/apps/details?id=com.silvaspira.werewolf]Werewolf[/url] looks pretty good from my initial exploring. Haven&#039;t tried it with live players in a game, though.
+
+Only problem is that it only has two specials, Detective and Doctor.</body>
+	
+		</item>
+	<item id="2336565" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="65990" 			
+			objectname="Don Quixote"
+			username="kristopherjwolff" 
+			postdate="Mon, 08 Oct 2012 16:34:37 +0000" 
+			editdate="Mon, 08 Oct 2012 16:34:37 +0000"
+			thumbs="23"
+						imageid="663456">
+	<body>The official Android version of Don Quixote.  Now available!
+
+https://play.google.com/store/apps/details?id=donquixote.android
+
+[ImageID=1441100 medium inline] [ImageID=1441101 medium inline]</body>
+	
+		</item>
+	<item id="2348168" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="36553" 			
+			objectname="Time&#039;s Up! Title Recall!"
+			username="drew23" 
+			postdate="Wed, 17 Oct 2012 03:46:37 +0000" 
+			editdate="Wed, 17 Oct 2012 03:46:37 +0000"
+			thumbs="6"
+						imageid="352375">
+	<body>Here is an app for your android phone that is similar to Times Up! Title Recall.  It is called Name Game.  You can download it and play it for free.
+Times Up! Title Recall is one of my favorite games with a group of friends so to have it on my phone is ideal
+
+https://play.google.com/store/apps/details?id=com.tappsoftware.namegame</body>
+	
+		</item>
+	<item id="2384514" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="11130" 			
+			objectname="German Eagle vs. Russian Bear"
+			username="kerpob2" 
+			postdate="Sat, 10 Nov 2012 20:15:55 +0000" 
+			editdate="Sat, 10 Nov 2012 20:15:55 +0000"
+			thumbs="10"
+						imageid="1318077">
+	<body>I got permission from Lou Coatney to make an Android version of this game. I think I got it pretty close, although my programming skills and the format resulted in some compromises.
+ Free on play.</body>
+	
+		</item>
+	<item id="2391906" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="27710" 			
+			objectname="Catan Dice Game"
+			username="jonathan bruton" 
+			postdate="Sat, 17 Nov 2012 09:46:27 +0000" 
+			editdate="Sat, 17 Nov 2012 09:46:27 +0000"
+			thumbs="17"
+						imageid="976200">
+	<body>Single player only, no high score. Shame as it is nicely implemented - looks great on my Nexus 7. Still if you have multiple devices it works well.
+
+One rule change, knights give you an extra resource rather than change a dice result.
+
+https://play.google.com/store/apps/details?id=com.ridgelineapps.resdicegame&amp;feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5yaWRnZWxpbmVhcHBzLnJlc2RpY2VnYW1lIl0.</body>
+	
+		</item>
+	<item id="2415830" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2065" 			
+			objectname="Shogi"
+			username="Mandrel" 
+			postdate="Wed, 05 Dec 2012 00:26:16 +0000" 
+			editdate="Wed, 05 Dec 2012 00:26:16 +0000"
+			thumbs="6"
+						imageid="610514">
+	<body>2 player abstract strategy, in the same family as chess.
+Several apps, a selection:
+Free
+https://play.google.com/store/apps/details?id=com.ysaito.shogi 
+(also requires https://play.google.com/store/apps/details?id=com.ysaito.shogidata)
+https://play.google.com/store/apps/details?id=com.stelluxstudios.Shogi
+https://play.google.com/store/apps/details?id=jp.co.ultimaarchitect.android.hasamishogi.free (variant, hasami shogi)
+
+Paid
+https://play.google.com/store/apps/details?id=jp.co.unbalance.AnKShogi 
+(has free lite version https://play.google.com/store/apps/details?id=jp.co.unbalance.AnKShogiLite)</body>
+	
+		</item>
+	<item id="2418137" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="117869" 			
+			objectname="Cam"
+			username="maxdk9" 
+			postdate="Thu, 06 Dec 2012 12:36:11 +0000" 
+			editdate="Thu, 06 Dec 2012 12:36:11 +0000"
+			thumbs="6"
+						imageid="7484">
+	<body>[url]https://play.google.com/store/apps/details?id=mazzy.and.kam[/url]
+
+[URL=http://imageshack.us/photo/my-images/407/camh.png/][IMG]http://img407.imageshack.us/img407/876/camh.png[/IMG][/URL]</body>
+	
+		</item>
+	<item id="2427618" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="811" 			
+			objectname="Rummikub"
+			username="maddog00" 
+			postdate="Fri, 14 Dec 2012 10:18:13 +0000" 
+			editdate="Fri, 14 Dec 2012 10:18:13 +0000"
+			thumbs="7"
+						imageid="410151">
+	<body>[url]https://play.google.com/store/apps/details?id=com.kimaia.rummikub[/url]
+
+$2.99</body>
+	
+		</item>
+	<item id="2479838" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="40692" 			
+			objectname="Small World"
+			username="clawster" 
+			postdate="Sat, 19 Jan 2013 00:14:37 +0000" 
+			editdate="Sun, 21 Apr 2013 12:47:39 +0000"
+			thumbs="22"
+						imageid="428828">
+	<body>Small World 2 for Android has been funded on Kickstarter!
+Expected delivery Dec 2013
+http://www.kickstarter.com/projects/daysofwonder/small-world-2-the-return</body>
+	
+		</item>
+	<item id="2483128" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="19803" 			
+			objectname="Martian Chess"
+			username="random56" 
+			postdate="Mon, 21 Jan 2013 16:39:00 +0000" 
+			editdate="Mon, 21 Jan 2013 16:39:00 +0000"
+			thumbs="12"
+						imageid="191417">
+	<body>I have been a Huge fan of Looney Pyramids, and I am glad that people who are smarter than me are porting these games to Android os. It play great and the AI is good, so far it is a 50/50 for wins. 
+
+https://play.google.com/store/apps/details?id=com.festalize.martianchess&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5mZXN0YWxpemUubWFydGlhbmNoZXNzIl0.</body>
+	
+		</item>
+	<item id="2508514" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="71061" 			
+			objectname="DungeonQuest (third edition)"
+			username="anto" 
+			postdate="Tue, 05 Feb 2013 14:07:59 +0000" 
+			editdate="Tue, 05 Feb 2013 14:08:52 +0000"
+			thumbs="28"
+						imageid="750582">
+	<body>A japanese software house made an Android version (with artwork licensed from the FFG version) here
+
+https://play.google.com/store/apps/details?id=com.ggee.vividruntime.gg_1632
+
+Note that the game as we know it (well, 3rd edition) is the modality &quot;original game&quot; which unlocks after you complete the tutorial. That part is exactly like Dungeonquest 3rd Edition, except for combat which is simplified (which I think is fine).</body>
+	
+		</item>
+	<item id="2510766" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="30" 			
+			objectname="Dark Tower"
+			username="SalladDazed" 
+			postdate="Wed, 06 Feb 2013 17:11:05 +0000" 
+			editdate="Wed, 06 Feb 2013 17:11:05 +0000"
+			thumbs="14"
+						imageid="204975">
+	<body>If you don&#039;t feel like shelling out $1,200 for a shrinkwrapped copy or $250+ for an incomplete, beat up one with Battleship pegs that don&#039;t fit, a tower that doesn&#039;t turn or function properly, missing keys and a dragon with a broken off tongue, then how about this fairly well-executed and quite faithful copy for the low, low price of free:
+
+[url]https://play.google.com/store/apps/details?id=com.mow.droidtower[/url]
+[url]http://www.amazon.com/HAPPY-DROIDS-LLC-Droid-Towers/dp/B008LAFF1A[/url]</body>
+	
+		</item>
+	<item id="2537138" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="57037" 			
+			objectname="Kingpin"
+			username="anto" 
+			postdate="Mon, 25 Feb 2013 12:47:26 +0000" 
+			editdate="Mon, 25 Feb 2013 12:47:26 +0000"
+			thumbs="6"
+						imageid="563288">
+	<body>
+https://play.google.com/store/apps/details?id=pl.mobilewings.kingpin</body>
+	
+		</item>
+	<item id="2541580" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="41627" 			
+			objectname="Zulus on the Ramparts!"
+			username="Joshuaaaaaa" 
+			postdate="Wed, 27 Feb 2013 19:27:17 +0000" 
+			editdate="Wed, 27 Feb 2013 19:27:17 +0000"
+			thumbs="17"
+						imageid="1476731">
+	<body>Just released today - [url=https://play.google.com/store/apps/details?id=air.com.victorypointgames.zulus#?t=W251bGwsMSwxLDIxMiwiYWlyLmNvbS52aWN0b3J5cG9pbnRnYW1lcy56dWx1cyJd]Link[/url]
+
+This is VPG&#039;s all-time best selling game, and was recently released in the 2nd edition.  I think the app version covers all of the 2nd edition changes, however I never played the 1st edition (and sadly, the physical copy of my 2nd edition sits punched and unplayed).
+
+The iOS version was released last week, initial reports are very few bugs if any, and that its tough to beat, even on easy, until you play it a bunch of times.  $5.99 for the app.</body>
+	
+		</item>
+	<item id="2557545" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2952" 			
+			objectname="Trivial Pursuit"
+			username="qrux" 
+			postdate="Sun, 10 Mar 2013 14:04:03 +0000" 
+			editdate="Sun, 10 Mar 2013 14:04:03 +0000"
+			thumbs="5"
+						imageid="387612">
+	<body>The Droid version is called Mind Pursuit. It plays single player and multiplayer. The game was originally designed for the Latin American market and was in Spanish only. If you want the English language version (link below) make certain you get the &#039;international&#039; version. 
+
+https://play.google.com/store/apps/details?id=com.widowgames.mindpursuit&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS53aWRvd2dhbWVzLm1pbmRwdXJzdWl0Il0.</body>
+	
+		</item>
+	<item id="2560094" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="1269" 			
+			objectname="Skip-Bo"
+			username="Steve Dubya" 
+			postdate="Tue, 12 Mar 2013 14:25:12 +0000" 
+			editdate="Tue, 12 Mar 2013 14:25:12 +0000"
+			thumbs="2"
+						imageid="45140">
+	<body>Official Skip-Bo by OneStepMobile, $1.99
+
+https://play.google.com/store/apps/details?id=com.onestepmobile.skipbo#?t=W251bGwsMSwxLDIxMiwiY29tLm9uZXN0ZXBtb2JpbGUuc2tpcGJvIl0.</body>
+	
+		</item>
+	<item id="2561088" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="526" 			
+			objectname="Abalone"
+			username="zefquaavius" 
+			postdate="Wed, 13 Mar 2013 08:05:48 +0000" 
+			editdate="Wed, 13 Mar 2013 08:06:17 +0000"
+			thumbs="5"
+						imageid="180643">
+	<body>From [blogpost=17814][/blogpost]
+[q=&quot;Neumannium&quot;][b][i]Abalone[/i] Comes to iOS and Android[/b]
+The classic abstract, [thing=526]Abalone[/thing], from designers [person=101]Michel Lalet[/person] and [person=102]Laurent Levi[/person] will be released for iOS and Android on March 21. The digital version boasts single-player vs. AI, pass-and-play multiplayer, and a 60 level challenge mode. It also includes over 30 official variations with names like Swiss Daisy and Fujiyama. You can also create your own boards with the included level editor. The game will be priced at $2.99USD.[/q]</body>
+	
+		</item>
+	<item id="2590242" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="42" 			
+			objectname="Tigris &amp; Euphrates"
+			username="codito" 
+			postdate="Thu, 04 Apr 2013 00:32:06 +0000" 
+			editdate="Thu, 04 Apr 2013 00:32:06 +0000"
+			thumbs="61"
+						imageid="168169">
+	<body>Just released on Google Play!
+
+(Android board gamers rejoice! :))
+
+[url=https://play.google.com/store/apps/details?id=ca.codito.euphrates]Buy it now![/url]
+
+Reiner Knizia&#039;s Tigris &amp; Euphrates features the same rules, graphics and gameplay as the classic board game. The game is set in the ancient fertile crescent. Within the game, players build civilizations through the placement of tiles such as markets, temples, farms or settlements. Tigris &amp; Euphrates is one of the highest ranking board games on the iOS App Store and has won multiple awards and recognition including the 2011 iOS Board Game Awards.
+
+[u]Features[/u]
+Visually stunning graphics utilizing traditional board game design
+Immersive theme music
+Full tutorial and in-game hints
+Support for three modes of play:
+- Solo play with varying degrees of AI difficulty
+- &quot;Pass and play&quot; with 2 to 4 local human players with or without AI
+- &quot;Hotseat&quot; (around the table) play for tablets
+
+Coming soon: turn-based online multiplayer!
+</body>
+	
+		</item>
+	<item id="2592406" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="699" 			
+			objectname="HeroQuest"
+			username="erf_beto" 
+			postdate="Fri, 05 Apr 2013 20:03:19 +0000" 
+			editdate="Fri, 05 Apr 2013 20:03:19 +0000"
+			thumbs="19"
+						imageid="338410">
+	<body>Hope it&#039;s ok to post this, since it&#039;s not official...
+
+Anyway I think we&#039;ve all bumped into HeroQuest clones and wannabes sometime/somewhere, so I thought we could share some links. 
+
+Today I found two:
+
+[b]Arcane Quest [/b]
+[url=https://play.google.com/store/apps/details?id=com.nex.xquestlite]demo [/url] // [url=https://play.google.com/store/apps/details?id=com.nex.xquestultimate&amp;feature=also_installed]full [/url]
+This one is quite interesting, and very faithful to the original, even if some liberties have been taken. It even links itself to a couple of HeroQuest fan website. Didn&#039;t play much yet, but it seems to be based on custom quests and features a couple of custom items and spells as well.
+
+
+[b]Mighty Dungeons [/b]
+[url=https://play.google.com/store/apps/details?id=games.laylio.mightydungeons.demo]demo[/url] // [url=https://play.google.com/store/apps/details?id=games.laylio.mightydungeons&amp;feature=more_from_developer]full[/url]
+More of a re-imagining of the game. It draws inspiration from it, but makes it more like the single player mobile game it is. Nice graphics. 
+
+
+There is also another one, which I don&#039;t remember, but I have it in my tablet back home. It features graphics from RPGMaker, but otherwise it is almost a digital verbatim copy of the boardgame. 
+
+</body>
+	
+		</item>
+	<item id="2608176" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="1644" 			
+			objectname="Tipp-Kick"
+			username="jonathan bruton" 
+			postdate="Tue, 16 Apr 2013 17:59:35 +0000" 
+			editdate="Tue, 16 Apr 2013 17:59:35 +0000"
+			thumbs="6"
+						imageid="63199">
+	<body>Free and paid versions. Not a bad version.
+
+https://play.google.com/store/apps/details?id=com.StarGush_Entertainment.TIPP_KICK_Championship&amp;hl=en
+
+https://play.google.com/store/apps/details?id=com.StarGush_Entertainment.TIPP_KICK_Championship_lite&amp;feature=more_from_developer#?t=W251bGwsMSwxLDEwMiwiY29tLlN0YXJHdXNoX0VudGVydGFpbm1lbnQuVElQUF9LSUNLX0NoYW1waW9uc2hpcF9saXRlIl0.</body>
+	
+		</item>
+	<item id="2617890" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="714" 			
+			objectname="Talisman"
+			username="Tyfo" 
+			postdate="Thu, 25 Apr 2013 08:38:42 +0000" 
+			editdate="Thu, 25 Apr 2013 08:40:08 +0000"
+			thumbs="15"
+						imageid="818904">
+	<body>Talisman is out as of yesterday!
+
+https://play.google.com/store/apps/details?id=com.nomadgames.talismanprologue&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5ub21hZGdhbWVzLnRhbGlzbWFucHJvbG9ndWUiXQ..
+
+⊳ FEATURES ⊲
+• Based on the Talisman board game	| true to the original
+• Classic board gaming on the move	| fun brief sessions anytime, anywhere
+• Single player play*	 | explore the land of Talisman
+• 10 classic board game characters | experience Talisman coming to life
+• 50 quests to play through	 | hours of gameplay to enjoy
+• Original soundtrack	 | enjoy the sounds of Talisman
+*Multiplayer game is scheduled for release summer 2013</body>
+	
+		</item>
+	<item id="2619379" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2083" 			
+			objectname="Checkers"
+			username="Patrick Carroll" 
+			postdate="Fri, 26 Apr 2013 13:42:23 +0000" 
+			editdate="Fri, 26 Apr 2013 13:42:23 +0000"
+			thumbs="3"
+						imageid="113720">
+	<body>AI Factory offers a pretty good [url=https://play.google.com/store/apps/details?id=uk.co.aifactory.checkersfree&amp;hl=en]Checkers app[/url].
+
+Checkers is a deep, challenging game. It&#039;s too often dismissed as a boring game for kids or old folks, but there&#039;s a lot more to it.
+
+You&#039;ll only discover that, however, if you play by the standard rules, which include [b]forced jumps[/b].
+
+Sadly, the app gives you a choice between playing with or without forced jumps. It&#039;s necessary, I suppose, so the game will be accepted by all the consumers who don&#039;t know any better. But do yourself a favor and make sure [b]forced jumps[/b] are always on.
+
+I haven&#039;t played at a level higher than 7 yet (I think there about 10 levels). At that level, it plays a strong enough game for me--but I&#039;m still a novice. It doesn&#039;t seem to know how to win with two kings against one, though, and it will often call it a draw when there are three kings against two and moves are repeated too often.
+
+Despite those weaknesses, it&#039;s a nice app, and there&#039;s a free version available.</body>
+	
+		</item>
+	<item id="2651306" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="9220" 			
+			objectname="Saboteur"
+			username="Tyfo" 
+			postdate="Thu, 16 May 2013 14:12:32 +0000" 
+			editdate="Thu, 16 May 2013 14:12:32 +0000"
+			thumbs="11"
+						imageid="172286">
+	<body>https://play.google.com/store/apps/details?id=ru.borealisr.saboteur
+
+In beta. As per the reviews, it seems to crash a lot, so enter at your own risk.</body>
+	
+		</item>
+	<item id="2678152" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="9209" 			
+			objectname="Ticket to Ride"
+			username="karrde" 
+			postdate="Wed, 05 Jun 2013 14:42:39 +0000" 
+			editdate="Wed, 05 Jun 2013 15:05:51 +0000"
+			thumbs="35"
+						imageid="38668">
+	<body>Added to the play store on 2013-06-05
+
+https://play.google.com/store/apps/details?id=com.daysofwonder.tt.android
+
+Current price: $6.99
+Requires: Android 4.0.3 and up</body>
+	
+		</item>
+	<item id="2687812" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="20545" 			
+			objectname="Rory&#039;s Story Cubes"
+			username="fractaloon" 
+			postdate="Wed, 12 Jun 2013 16:40:03 +0000" 
+			editdate="Wed, 12 Jun 2013 16:40:03 +0000"
+			thumbs="16"
+						imageid="646111">
+	<body>$2.25 and includes [thing=89415][/thing]. [thing=115233][/thing] available as an in-app purchase. The new expansions &quot;coming soon&quot;.
+
+https://play.google.com/store/apps/details?id=com.thecreativityhub.RSC</body>
+	
+		</item>
+	<item id="2701448" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="463" 			
+			objectname="Magic: The Gathering"
+			username="Tyfo" 
+			postdate="Tue, 25 Jun 2013 10:54:51 +0000" 
+			editdate="Tue, 25 Jun 2013 13:55:53 +0000"
+			thumbs="20"
+						imageid="163749">
+	<body>Magic 2014 is out now.
+
+https://play.google.com/store/apps/details?id=com.stainlessgames.D14&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5zdGFpbmxlc3NnYW1lcy5EMTQiXQ
+
+Apparently the download is free, but to get the full edition you&#039;ll have to buy it as an IAP ($9.99).
+
+(Free) [b]Game includes:[/b]
+• 3 decks, each with 5 unlockable cards
+• Single-player campaign across the plane of Shandalar
+• One Planeswalker duel
+• Sealed Play mode; explore a deckbuilding experience
+
+[b]Additional content is also available for purchase. Premium content package will get you:[/b]
+• 7 additional decks to unlock
+• 250+ additional cards unlockable through play
+• 4 deadly opponents, including the Planeswalker Chandra Nalaar
+• 18 additional Campaign levels across the planes of Ravnica, Alara, Innistrad and Zendikar, plus 11 revenge matches
+• 10 puzzling challenges
+• Ad Hoc one-on-one Multiplayer play
+• Two-Headed Giant and Custom Game modes
+• Access to deck key and foil conversion in-app purchases
+• Additional downloadable content as it becomes available</body>
+	
+		</item>
+	<item id="2721643" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="2655" 			
+			objectname="Hive"
+			username="Tyfo" 
+			postdate="Mon, 08 Jul 2013 21:40:33 +0000" 
+			editdate="Tue, 09 Jul 2013 16:57:18 +0000"
+			thumbs="22"
+						imageid="791151">
+	<body>[-]https://play.google.com/store/apps/details?id=com.hive
+
+Hive is out! Free to play!
+
+There seems to be two different IAPs. One for $1 called premium, and a Carbon version for $2. [/-]
+
+It seems it has been pulled from the store for the time being.</body>
+	
+		</item>
+	<item id="2723903" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="123185" 			
+			objectname="Axis &amp; Allies 1941"
+			username="rxp4me" 
+			postdate="Wed, 10 Jul 2013 20:37:11 +0000" 
+			editdate="Wed, 10 Jul 2013 20:37:11 +0000"
+			thumbs="11"
+						imageid="1282890">
+	<body>Not official, but well done!
+
+https://play.google.com/store/apps/details?id=com.electrowolff.war</body>
+	
+		</item>
+	<item id="2764580" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="22392" 			
+			objectname="T.E.G. - Plan Táctico y Estratégico de la Guerra"
+			username="qrux" 
+			postdate="Sat, 10 Aug 2013 17:18:57 +0000" 
+			editdate="Sat, 10 Aug 2013 17:18:57 +0000"
+			thumbs="6"
+						imageid="492545">
+	<body>This is the Argentine version of Risk originally appearing in 1976. It is more challenging than the standard game in several ways. (There is a limit to the number of units to be moved following an attack and there are multiple connections to Australia.) It is produced by Widow Games who did Mind Trap (Trivial Pursuit). There is some Spanish but the meaning is obvious (&quot;End Turn, Attack,etc.)
+
+The map is based on an actual 15th century map and so some of the continents are skewed. Very enjoyable. 
+
+ https://play.google.com/store/apps/details?id=com.widowgames.teg</body>
+	
+		</item>
+	<item id="2788190" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="10997" 			
+			objectname="Boomtown"
+			username="clorox" 
+			postdate="Mon, 26 Aug 2013 07:49:00 +0000" 
+			editdate="Mon, 26 Aug 2013 11:53:02 +0000"
+			thumbs="13"
+						imageid="49310">
+	<body>Boomtown with nice pirate theme.
+
+Google play: https://play.google.com/store/apps/details?id=com.synergyit.EgmontPirates&amp;hl=en
+
+
+[IMG]https://lh4.ggpht.com/tstKfvj5wLB0EDWp-89qm-yDisyXjLIZ8b55x23QNdfATtGTU3cSV7_4EzBBwHT1G8aM=h900-rw[/IMG]
+
+[IMG]https://lh4.ggpht.com/wWkVJSBGv9srrh47ICVGt_yZyeKEnD6dJqET9m9vrQAQquIacvqkwf9M7hF9Evs4MQ=h900-rw[/IMG]
+
+[IMG]https://lh3.ggpht.com/H5LsPqrU59lMW7wvR0kZakreABCacQHQMNQehG_HWDC3pw3cAkHpkcYmgMGPrTHyAJU=h900-rw[/IMG]</body>
+	
+		</item>
+	<item id="2818297" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="40943" 			
+			objectname="bOOLeO"
+			username="rekinom" 
+			postdate="Fri, 13 Sep 2013 19:10:18 +0000" 
+			editdate="Fri, 13 Sep 2013 19:10:18 +0000"
+			thumbs="12"
+						imageid="445914">
+	<body>Free unofficial clone, which includes NAND, NOR, and XNOR cards from the expansion.
+
+https://play.google.com/store/apps/details?id=at.impossibru.boolitaire&amp;hl=en</body>
+	
+		</item>
+	<item id="2831623" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="624" 			
+			objectname="Quoridor"
+			username="clorox" 
+			postdate="Mon, 23 Sep 2013 08:52:35 +0000" 
+			editdate="Mon, 27 Jan 2014 21:33:22 +0000"
+			thumbs="13"
+						imageid="110043">
+	<body>Free in Google Play: https://play.google.com/store/apps/details?id=air.QuoridorBoardGame&amp;hl=en
+
+&quot;Currently the AI of Quoridor is an easy mode. A more intelligent AI will be released in the future.&quot;
+
+UI is poor designed - hard to move and put fences.
+
+[IMG]https://lh3.ggpht.com/HUSBcqsQydXfXOB5QznZ_lUzACQhFR5vPCt3FwqJC2xbUXaEVhHKFIfzk1TBl8TID7g=h450-rw[/IMG]
+
+[IMG]https://lh3.ggpht.com/kRRj9tce3_0H4IJPI24mjPWHZNyDwjcadI7Hez5WNShqDMb-51v-bJ8ybprN2pKDbic=h450-rw[/IMG]</body>
+	
+		</item>
+	<item id="2837751" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="25669" 			
+			objectname="Qwirkle"
+			username="raaz42" 
+			postdate="Fri, 27 Sep 2013 08:19:37 +0000" 
+			editdate="Fri, 27 Sep 2013 08:21:07 +0000"
+			thumbs="6"
+						imageid="309353">
+	<body>Mindfeud- a Quirkle clone with some 2x and 3x fields and a restricted board. Multiplayer against friends (and enemies i guess) and 2 player pass and play.
+
+https://play.google.com/store/apps/details?id=no.monkeybin.mindfeud</body>
+	
+		</item>
+	<item id="2843264" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="72287" 			
+			objectname="Mr. Jack Pocket"
+			username="MaacLeod" 
+			postdate="Mon, 30 Sep 2013 17:18:47 +0000" 
+			editdate="Mon, 30 Sep 2013 17:18:47 +0000"
+			thumbs="13"
+						imageid="1519530">
+	<body>https://play.google.com/store/apps/details?id=com.meepletouch.mrjackpocket
+
+Mr Jack Pocket, adapted by Meeple Touch to Android.
+
+Can only be played solo, unfortunately.
+Available for 3.90 EUR.</body>
+	
+		</item>
+	<item id="2848821" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="1827" 			
+			objectname="Chainsaw Warrior"
+			username="maddog00" 
+			postdate="Thu, 03 Oct 2013 09:36:23 +0000" 
+			editdate="Thu, 03 Oct 2013 09:36:23 +0000"
+			thumbs="9"
+						imageid="430399">
+	<body>[url]https://play.google.com/store/apps/details?id=com.aurochdigital.chainsawwarrior&amp;hl=en_GB[/url]
+
+Just came out. Currently $4.99</body>
+	
+		</item>
+	<item id="2885266" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="107529" 			
+			objectname="Kingdom Builder"
+			username="Almecho" 
+			postdate="Wed, 23 Oct 2013 08:37:56 +0000" 
+			editdate="Wed, 23 Oct 2013 08:37:56 +0000"
+			thumbs="21"
+						imageid="1152359">
+	<body>Link to the Play Store:
+https://play.google.com/store/apps/details?id=de.brettspielwelt.kingdombuilder
+
+4.49€</body>
+	
+		</item>
+	<item id="2885267" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="6249" 			
+			objectname="Alhambra"
+			username="Almecho" 
+			postdate="Wed, 23 Oct 2013 08:38:32 +0000" 
+			editdate="Wed, 23 Oct 2013 08:38:32 +0000"
+			thumbs="10"
+						imageid="1502118">
+	<body>Link to Play Store:
+https://play.google.com/store/apps/details?id=de.brettspielwelt.alhambra
+
+4.49€</body>
+	
+		</item>
+	<item id="2898069" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="925" 			
+			objectname="Werewolf"
+			username="PeteVasi" 
+			postdate="Wed, 30 Oct 2013 17:21:43 +0000" 
+			editdate="Wed, 30 Oct 2013 17:21:43 +0000"
+			thumbs="10"
+						imageid="1509912">
+	<body>Not a native app, but a recently open-sourced web app designed for mobile devices.
+
+[size=14]Play: [b] http://petevasi.github.io/werewolf/ [/b][/size]
+Contribute: [b] https://github.com/PeteVasi/werewolf [/b]
+
+[ImageID=1811199medium]
+
+This is a pass-device-around multiplayer version of Werewolf with roles including Werewolf, Villager, Seer, Hunter, and Sorcerer.  Attributes include Insane, Naive, Paranoid, and Tinker to modify those existing roles.
+
+The thread of discussion with screenshots/bugs/features/comments is here: [thread=775040][/thread]</body>
+	
+		</item>
+	<item id="2947756" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="72667" 			
+			objectname="Mijnlieff"
+			username="garbagefan" 
+			postdate="Sat, 30 Nov 2013 20:59:57 +0000" 
+			editdate="Sat, 30 Nov 2013 20:59:57 +0000"
+			thumbs="18"
+						imageid="836238">
+	<body>UK Games Expo best abstract game winner.  
+
+Imagine noughts and crosses (tic-tac-toe) but with the need to think several moves ahead and with each piece having a particular power and control over your opponent. This is Mijnlieff (Pronounced &quot;Mine-leaf&quot;). Try to create the most lines of 3 counters in your colour.
+
+Free to download, pay to remove adverts/unlock extra options/etc
+
+https://play.google.com/store/apps/details?id=com.astraware.mijnlieff
+
+</body>
+	
+		</item>
+	<item id="2972049" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="131260" 			
+			objectname="Qwixx"
+			username="SB_Spiele" 
+			postdate="Sat, 14 Dec 2013 14:06:16 +0000" 
+			editdate="Sat, 14 Dec 2013 14:06:16 +0000"
+			thumbs="7"
+						imageid="1508557">
+	<body>Solo version of the dice game Qwixx.
+https://play.google.com/store/apps/details?id=de.staupe.quixx_solo&amp;hl=de
+
+1.02$</body>
+	
+		</item>
+	<item id="2972119" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="40692" 			
+			objectname="Small World"
+			username="bulldog93" 
+			postdate="Sat, 14 Dec 2013 16:13:16 +0000" 
+			editdate="Sat, 14 Dec 2013 16:13:16 +0000"
+			thumbs="4"
+						imageid="428828">
+	<body>Based on the phenomenally successful Small World fantasy board game with over 500,000 copies sold! Take control of insanely fun fantasy race &amp; special power combos, such as Berserk Halflings, Triton Merchants, Alchemist Ratmen and Dragon-master Amazons, to grab all the land you can in a world that is just too small to share with your opponents!
+
+- 2, 3, 4 and 5 player maps to conquer
+- Play Online games in real-time or turn-by-turn, with friends &amp; strangers from the world over; and Local games over Wifi
+- Play Solo against up to 4 built-in AI; Pass’n Play with up to 5 live opponents on a single device
+- 20 new races &amp; special powers to master through in-app purchases of Cursed!, Grand Dames and brand new to digital Be Not Afraid…
+- Online, Solo &amp; Face to Face scores with daily, weekly and forever rankings
+- Comprehensive Small World Encyclopedia detailing all rules, races, special powers, icons &amp; more!
+- Extensive Days of Wonder Online Buddies integration
+- Brand new musical score, sound effects, graphics and animations
+- Video Tutorial by Master Glandulf himself
+
+
+https://play.google.com/store/apps/details?id=com.daysofwonder.smallworld2</body>
+	
+		</item>
+	<item id="2973044" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="19841" 			
+			objectname="Pentago"
+			username="Astrakan" 
+			postdate="Sun, 15 Dec 2013 11:52:52 +0000" 
+			editdate="Tue, 17 Dec 2013 20:59:46 +0000"
+			thumbs="5"
+						imageid="917351">
+	<body>Neither of these is an official version, but they&#039;re identical in gameplay to the boardgame.
+
+https://play.google.com/store/apps/details?id=com.hallapps.pentago.free
+
+https://play.google.com/store/apps/details?id=homegrown.free.tictac5
+</body>
+	
+		</item>
+	<item id="2977942" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="28396" 			
+			objectname="It&#039;s Alive!"
+			username="Shade_Jon" 
+			postdate="Thu, 19 Dec 2013 13:05:32 +0000" 
+			editdate="Thu, 19 Dec 2013 13:05:32 +0000"
+			thumbs="19"
+						imageid="349218">
+	<body>App on Amazon:
+http://www.amazon.com/gp/product/B00D4WUTGQ</body>
+	
+		</item>
+	<item id="2984287" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="40398" 			
+			objectname="Monopoly Deal Card Game"
+			username="knuckles29" 
+			postdate="Tue, 24 Dec 2013 16:39:36 +0000" 
+			editdate="Tue, 24 Dec 2013 16:39:36 +0000"
+			thumbs="3"
+						imageid="716758">
+	<body>Check out &quot;Minipoly Deal&quot; https://play.google.com/store/apps/details?id=air.MonopolyDeal
+
+1 vs Cpu, no settings and you have to know the game already and card text.
+
+It is ok... but it is free</body>
+	
+		</item>
+	<item id="2998457" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="1917" 			
+			objectname="Stratego"
+			username="anto" 
+			postdate="Thu, 02 Jan 2014 10:53:38 +0000" 
+			editdate="Thu, 02 Jan 2014 10:53:38 +0000"
+			thumbs="9"
+						imageid="25644">
+	<body>
+the official Stratego app is now on Google Play
+
+https://play.google.com/store/apps/details?id=air.com.keesing.games.stratego
+
+solo and online multiplayer included.</body>
+	
+		</item>
+	<item id="3022190" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="135220" 			
+			objectname="Elemental Clash: The Master Set"
+			username="galathonredd" 
+			postdate="Mon, 13 Jan 2014 18:13:05 +0000" 
+			editdate="Mon, 13 Jan 2014 18:13:05 +0000"
+			thumbs="15"
+						imageid="1531885">
+	<body>[url]https://play.google.com/store/apps/details?id=com.orgcomgames.elementalclash[/url]
+
+I was totally surprised to see this pop up. Lengthy post-install download involved, so jump on that WiFi before the first run!
+
+Looks good, though. Free to install and play, micro-transactions to unlock online multiplayer and expansion sets.</body>
+	
+		</item>
+	<item id="3024467" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="113324" 			
+			objectname="Dungeon Delver"
+			username="maxdk9" 
+			postdate="Tue, 14 Jan 2014 16:59:16 +0000" 
+			editdate="Tue, 14 Jan 2014 16:59:16 +0000"
+			thumbs="9"
+						imageid="1172116">
+	<body>Good single player game with great art.
+
+[URL=https://imageshack.com/i/0m3k8pp][IMG]http://imagizer.imageshack.us/v2/800x600q90/22/3k8p.png[/IMG][/URL]
+
+[url]https://play.google.com/store/apps/details?id=mazzy.and.dungeondelver[/url]</body>
+	
+		</item>
+	<item id="3048530" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="1219" 			
+			objectname="The aMAZEing Labyrinth"
+			username="sunnlife" 
+			postdate="Sun, 26 Jan 2014 05:26:29 +0000" 
+			editdate="Sun, 26 Jan 2014 07:12:54 +0000"
+			thumbs="16"
+						imageid="70446">
+	<body>Since 22[-]th[/-]nd january, Official release by Ravensburger !
+
+[url]https://play.google.com/store/apps/details?id=com.ravensburgerdigital.labyrinth[/url]
+
+From Website:
+The aMAZEing Labyrinth key features:
+•    Three single player game modes: 
+o    Classic: Play the original game variant against different levels of AI opponents. 
+o    Puzzle: Reach the treasure in as few moves as possible to win all the diamonds and level up!
+o    Time Duel: Move the puzzle pieces up and down to lead your character across the board to the treasure. Each time you get a treasure you get extra time to play. Beat your high score, and find out how far you can get before time runs out!
+•    Local multiplayer mode and online multiplayer mode via Google Play Games. Play in Duel mode with friends and family or play the original variant in Classic mode.
+•    Instructions for both beginners and experts
+•    Nothing to assemble means nothing to put away! 
+•    Lots of fun with family and friends! 
+
+Price:2,99 euros
+
+Enjoy Gamers !!!</body>
+	
+		</item>
+	<item id="3060165" 
+			objecttype="thing"
+			subtype="boardgame" 
+			objectid="21763" 			
+			objectname="Mr. Jack"
+			username="sunnlife" 
+			postdate="Fri, 31 Jan 2014 18:14:43 +0000" 
+			editdate="Fri, 31 Jan 2014 18:14:43 +0000"
+			thumbs="7"
+						imageid="156046">
+	<body>After the pocket version, we have now the great, the magnificent Mr JACK !!!!! :D :D :D :D
+
+[url]https://play.google.com/store/apps/details?id=com.jesse.mrjack[/url]
+
+It costs only 3,99 euros
+
+(sorry i don&#039;t have the price in dollars)
+
+from editor:
+1. Local 2 players mode support in first version
+2. No AI for challenging computer
+3. On-Line Mode will coming in next version
+4. English support in first version
+
+Enjoy !!!!!!!!!!</body>
+	
+		</item>
+</geeklist>

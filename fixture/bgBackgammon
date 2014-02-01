@@ -1,0 +1,373 @@
+<boardgames termsofuse="http://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2397">
+			<yearpublished>-3000</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<age>8</age>
+
+							<name  sortindex="1">Acey-Deucy  (variation)</name>
+							<name  sortindex="1">Austin Powers&#039;s Backgammon</name>
+							<name  sortindex="1">Back-Gammon</name>
+							<name primary="true" sortindex="1">Backgammon</name>
+							<name  sortindex="1">Backgammon and Acey-Deucey</name>
+							<name  sortindex="1">Backgammon and Acey-Deucy</name>
+							<name  sortindex="1">Backgammon B.C.</name>
+							<name  sortindex="1">Backgammon Bräda</name>
+							<name  sortindex="1">Backgammon Exclusive</name>
+							<name  sortindex="1">Backgammon for Juniors</name>
+							<name  sortindex="1">Backgammon on a Keychain</name>
+							<name  sortindex="1">Backgammon School</name>
+							<name  sortindex="1">Backgammon Teacher</name>
+							<name  sortindex="1">Backgammon Tutor</name>
+							<name  sortindex="1">Bräde Backgammon</name>
+							<name  sortindex="1">Brädspel</name>
+							<name  sortindex="1">Deluxe Backgammon</name>
+							<name  sortindex="1">Folding Backgammon</name>
+							<name  sortindex="1">Gamão</name>
+							<name  sortindex="1">Jeu de Jacquet et Backgammon</name>
+							<name  sortindex="1">Kotra</name>
+							<name  sortindex="5">The Lord of the Rings Backgammon</name>
+							<name  sortindex="1">Magnetic Backgammon</name>
+							<name  sortindex="1">Magnetic Travel Backgammon</name>
+							<name  sortindex="1">Nardshir</name>
+							<name  sortindex="1">Novelty Corp</name>
+							<name  sortindex="1">Ostábla</name>
+							<name  sortindex="1">Pack-gammon</name>
+							<name  sortindex="1">Pocket Backgammon</name>
+							<name  sortindex="1">Pocket Magnetic Backgammon</name>
+							<name  sortindex="1">Puff</name>
+							<name  sortindex="1">Puzzle Backgammon</name>
+							<name  sortindex="1">Revertier</name>
+							<name  sortindex="1">Sheshbesh</name>
+							<name  sortindex="1">Table</name>
+							<name  sortindex="1">Taplas</name>
+							<name  sortindex="1">Tavla</name>
+							<name  sortindex="1">Tavli</name>
+							<name  sortindex="1">Tavola Reale</name>
+							<name  sortindex="1">Toc</name>
+							<name  sortindex="1">Toccategli</name>
+							<name  sortindex="1">Tockadill</name>
+							<name  sortindex="1">Tournament Backgammon</name>
+							<name  sortindex="1">Travel Backgammon</name>
+							<name  sortindex="1">Tric Trac</name>
+							<name  sortindex="1">TrykTrak</name>
+							<name  sortindex="4">De Winnende Combinatie</name>
+							<name  sortindex="1">Wurfzabel</name>
+							<name  sortindex="1">Τάβλι</name>
+							<name  sortindex="1">Нарды</name>
+							<name  sortindex="1">שש-בש</name>
+							<name  sortindex="1">バックギャモン</name>
+							<name  sortindex="1">双陆棋</name>
+							<name  sortindex="1">雙陸棋</name>
+									
+			<description>Backgammon is a classic abstract strategy game dating back thousands of years. Each player has a set of 15 &amp;quot;men&amp;quot; that must be moved from their starting positions, around, and then off the board. Dice are thrown each turn, and each player must decide which of his men to move based on the outcome of the roll. Players can capture each other's men, forcing the captured men to restart their journey around the board. The winner is the first player to get all 15 men off the board. A more recent addition to the game is the &amp;quot;doubling cube&amp;quot;, which allows players to up the stakes of the game, as it is often played for money. Although the game relies on dice to determine movement, there is a large degree of strategy in deciding how to make the most effective moves given each dice roll as well as measuring the risk in terms of possible rolls the opponent may get.&lt;br/&gt;&lt;br/&gt;Backgammon may be the first game to be mentioned in written history, going back 5,000 years to the Sumerians of ancient Mesopotamia. During the 1920's, archaeologists unearthed five boards from a cemetery in the ancient town of Ur. At another location, pieces and dice were also found along with the board. Boards from ancient Egypt have also been recovered from the tomb of Tutanchamun, including a mechanical dice box, no doubt intended to stop cheaters.&lt;br/&gt;&lt;br/&gt;The names of the game were many. In Persia, Takhteh Nard&amp;gt; which means &amp;quot;Battle on Wood&amp;quot;. In Egypt, Tau, which may be the ancestor of Senat. In Rome, Ludus Duodecim Scriptorum (&amp;quot;game of twelve marks&amp;quot;), later, Tabula (&amp;quot;table&amp;quot;), and by the sixth century, Alea (&amp;quot;dice&amp;quot;). In ancient China, T-shu-p-u and later in Japan, Sugoroko. The English name may derive from &amp;quot;Bac gamen&amp;quot; meaning &amp;quot;Back Game&amp;quot;, referring to re-entry of taken stones back to the board.&lt;br/&gt;&lt;br/&gt;It was often enjoyed by the upper classes and is sometimes called &amp;quot;The Aristocratic Game.&amp;quot; The Roman Emperor Claudius was known to be such a fan that he had a set built into his coach so he could play as he traveled (the world's first travel edition?).&lt;br/&gt;&lt;br/&gt;The rules in English were standardized in 1743 by Edmond Hoyle. These remained popular until the American innovations of the 1930's.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>http://cf.geekdo-images.com/images/pic55221_t.jpg</thumbnail>
+				<image>http://cf.geekdo-images.com/images/pic55221.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgameartist objectid="3">(Uncredited)</boardgameartist>
+															<boardgamepublisher objectid="92">3M</boardgamepublisher>
+															<boardgameversion objectid="46475">3M bookcase edition</boardgameversion>
+															<boardgamefamily objectid="4891">3M Bookshelf Series</boardgamefamily>
+															<videogamebg objectid="104852">ABPA Backgammon</videogamebg>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="404">Alga (Brio)</boardgamepublisher>
+															<boardgamepublisher objectid="362">Ariel</boardgamepublisher>
+															<boardgameversion objectid="189747">Ariel British Blue Edition</boardgameversion>
+															<boardgameversion objectid="162726">Arrow Games British Edition</boardgameversion>
+															<boardgamepublisher objectid="662">Arrow Games Ltd</boardgamepublisher>
+															<boardgamepublisher objectid="74">ASS Altenburger Spielkarten</boardgamepublisher>
+															<boardgameversion objectid="130480">ASS German Edition</boardgameversion>
+															<boardgamefamily objectid="14010">Austin Powers</boardgamefamily>
+															<boardgamepodcastepisode objectid="62117">Backgammon</boardgamepodcastepisode>
+															<videogamebg objectid="79881">Backgammon</videogamebg>
+															<videogamebg objectid="92076">Backgammon (ZX Spectrum)</videogamebg>
+																						<videogamebg objectid="112793">Backgammon HD</videogamebg>
+																													<boardgameexpansion objectid="137175">Backgammon: Zombie Rush</boardgameexpansion>
+															<boardgameversion objectid="108508">Basic Fun Edition</boardgameversion>
+															<boardgamepublisher objectid="3626">Basic Fun, Inc.</boardgamepublisher>
+															<boardgamepublisher objectid="16355">Bello Games New York, Inc.</boardgamepublisher>
+															<boardgameversion objectid="171529">Berliner Brown Edition</boardgameversion>
+															<boardgamepublisher objectid="30">Berliner Spielkarten</boardgamepublisher>
+															<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<videogamebg objectid="107105">Blackjack/Backgammon</videogamebg>
+															<videogamebg objectid="98343">Blackjack/Poker/Acey-Deucey</videogamebg>
+															<boardgamepublisher objectid="73">Blatz</boardgamepublisher>
+															<boardgameversion objectid="171530">Blatz Light Blue Edition</boardgameversion>
+															<boardgameversion objectid="166425">Blatz Magnetic Travel Edition</boardgameversion>
+															<videogamebg objectid="111104">Board Game Classics</videogamebg>
+															<boardgamecompilation objectid="2883">The Book of Classic Board Games</boardgamecompilation>
+															<boardgamepublisher objectid="225">Cardinal</boardgamepublisher>
+															<boardgameversion objectid="133654">Cardinal Edition</boardgameversion>
+															<boardgameversion objectid="134779">Cardinal Edition</boardgameversion>
+															<boardgameversion objectid="141598">Cardinal Obolensky Edition</boardgameversion>
+															<boardgamepublisher objectid="1935">Carlit</boardgamepublisher>
+															<boardgamepublisher objectid="1307">Cathay</boardgamepublisher>
+															<boardgameversion objectid="185464">Cathay Red Edition</boardgameversion>
+															<boardgamepublisher objectid="5314">Cayro Juegos</boardgamepublisher>
+															<boardgamepublisher objectid="507">Chad Valley</boardgamepublisher>
+															<boardgameversion objectid="142492">Chadwick Edition</boardgameversion>
+															<boardgamepublisher objectid="4045">Chadwick Miller Inc.</boardgamepublisher>
+															<boardgamepublisher objectid="4718">Challenge Master Game Co Ltd</boardgamepublisher>
+															<boardgameversion objectid="142493">Challenge Master Game Co Master Edition</boardgameversion>
+															<boardgamepublisher objectid="2401">CHH Games</boardgamepublisher>
+															<boardgameversion objectid="202399">Colgate Promotional Edition</boardgameversion>
+															<videogamebg objectid="121594">Colossus Backgammon</videogamebg>
+															<boardgamepublisher objectid="17388">Creative Crafthouse</boardgamepublisher>
+															<boardgamepublisher objectid="193">Crisloid</boardgamepublisher>
+															<boardgamepublisher objectid="2701">Croner</boardgamepublisher>
+															<boardgameversion objectid="148286">Croner Australian Edition</boardgameversion>
+															<boardgamepublisher objectid="485">Dal Negro</boardgamepublisher>
+																						<boardgamepublisher objectid="11947">Deuce</boardgamepublisher>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamepublisher objectid="11320">Dilemma Games</boardgamepublisher>
+																						<boardgamepublisher objectid="1299">Diset S. A.</boardgamepublisher>
+															<boardgamepublisher objectid="11948">Dos Reis</boardgamepublisher>
+																						<boardgameartist objectid="26868">Willem Cornelisz Duyster</boardgameartist>
+															<boardgameversion objectid="135919">Dynamic Edition 1973</boardgameversion>
+															<boardgamepublisher objectid="377">Dynamic Games / Dynamic Design Industries</boardgamepublisher>
+															<boardgamepublisher objectid="64">E.S. Lowe</boardgamepublisher>
+															<boardgameversion objectid="102450">E.S. Lowe Tournament Edition 1978</boardgameversion>
+															<boardgamepublisher objectid="253">Editrice Giochi</boardgamepublisher>
+															<boardgameversion objectid="148317">Editrice Giochi Travel edition</boardgameversion>
+																						<boardgamepublisher objectid="1731">Estrela</boardgamepublisher>
+															<boardgamepublisher objectid="11">F.X. Schmid</boardgamepublisher>
+															<boardgamepublisher objectid="11188">Fame Products</boardgamepublisher>
+															<videogamebg objectid="143340">Fastgammon</videogamebg>
+																						<boardgameversion objectid="51423">Fifth Avenue Crystal 3-in-1 Edition</boardgameversion>
+															<boardgamepublisher objectid="13397">Fifth Avenue Crystal Ltd.</boardgamepublisher>
+																						<boardgameversion objectid="141613">First Edition</boardgameversion>
+															<boardgameversion objectid="150466">First Edition</boardgameversion>
+															<boardgameversion objectid="126595">Friendly Games First Edition</boardgameversion>
+															<boardgamepublisher objectid="2033">Friendly Games, Inc.</boardgamepublisher>
+															<boardgamepublisher objectid="200">Fundex</boardgamepublisher>
+															<boardgameversion objectid="130537">FX Schmid Edition 1974</boardgameversion>
+															<boardgamepublisher objectid="16844">Galleryplay</boardgamepublisher>
+																						<boardgamefamily objectid="4023">Gammon</boardgamefamily>
+															<boardgameversion objectid="188731">Gammon Bookshelf edition 1975</boardgameversion>
+															<videogamebg objectid="146621">Gammon Challenger</videogamebg>
+															<videogamebg objectid="96750">Gammon Gambler</videogamebg>
+															<boardgamepublisher objectid="958">Gammon Games</boardgamepublisher>
+																						<boardgamepublisher objectid="130">Gamut of Games</boardgamepublisher>
+															<boardgameversion objectid="180819">German Black leatherette edition</boardgameversion>
+																						<boardgamepublisher objectid="11949">Ghisò</boardgamepublisher>
+															<boardgamecompilation objectid="149072">Giant 30 Game Cube</boardgamecompilation>
+															<boardgamepublisher objectid="103">Gibsons Games</boardgamepublisher>
+															<boardgameversion objectid="127955">Gibsons Modern Edition</boardgameversion>
+															<boardgamepublisher objectid="11950">Gigliodoro</boardgamepublisher>
+															<boardgameversion objectid="128519">Glevum Edition</boardgameversion>
+															<boardgamepublisher objectid="6020">Glevum Games</boardgamepublisher>
+															<videogamebg objectid="93084">GNU Backgammon</videogamebg>
+																						<boardgamepublisher objectid="21209">Gold Medal</boardgamepublisher>
+															<boardgameversion objectid="141764">Gold Medal Promotional Edition</boardgameversion>
+															<boardgamepublisher objectid="247">Golden</boardgamepublisher>
+															<boardgameversion objectid="90286">Golden Edition</boardgameversion>
+															<boardgamefamily objectid="10267">GoPlay</boardgamefamily>
+															<boardgamepublisher objectid="384">HABA - Habermaaß GmbH</boardgamepublisher>
+															<boardgameversion objectid="182757">HABA pocket size edition</boardgameversion>
+															<boardgameversion objectid="168017">HABA Wooden Edition 1987</boardgameversion>
+															<boardgamepublisher objectid="9938">Halsall</boardgamepublisher>
+															<boardgameversion objectid="151979">Hansen Bookshelf Edition</boardgameversion>
+															<videogamebg objectid="92872">Hardwood Backgammon</videogamebg>
+															<boardgamepublisher objectid="11951">Hector Saxe</boardgamepublisher>
+															<boardgamepublisher objectid="6262">HEMA</boardgamepublisher>
+															<boardgamepublisher objectid="1375">Heyne</boardgamepublisher>
+															<boardgamefamily objectid="7486">Heyne ,,Taschen-Spiele&#039;&#039;</boardgamefamily>
+															<boardgamepublisher objectid="1758">House Martin</boardgamepublisher>
+															<boardgameversion objectid="136057">House Martin British Edition</boardgameversion>
+															<boardgameversion objectid="147716">House Martin First Edition</boardgameversion>
+															<boardgameversion objectid="141615">House Martin Purple Edition</boardgameversion>
+															<boardgameversion objectid="147718">House Martin Red Dice Edition</boardgameversion>
+															<boardgameversion objectid="189759">House Martin Zig-Zag Edition</boardgameversion>
+															<boardgamepublisher objectid="1195">House of Marbles</boardgamepublisher>
+																						<videogamebg objectid="141658">Infrared Backgammon</videogamebg>
+															<boardgamepublisher objectid="8402">Inovac Rima SA</boardgamepublisher>
+															<videogamebg objectid="106411">Internet Backgammon</videogamebg>
+															<boardgamepublisher objectid="3789">J &amp; L Randall, Ltd.</boardgamepublisher>
+															<boardgamepublisher objectid="5722">John Jaques of London</boardgamepublisher>
+															<boardgameversion objectid="142494">John Jaques Travel Edition</boardgameversion>
+															<boardgamepublisher objectid="291">John N. Hansen Co., Inc.</boardgamepublisher>
+															<boardgameversion objectid="136839">John Sands Australian Edition</boardgameversion>
+															<boardgamepublisher objectid="661">John Sands Pty Ltd</boardgamepublisher>
+															<boardgamepublisher objectid="8085">Juegos Ya S.L.</boardgamepublisher>
+															<boardgamepublisher objectid="335">Jumbo</boardgamepublisher>
+															<boardgameversion objectid="153676">Jumbo Edition 1981</boardgameversion>
+															<boardgamepublisher objectid="13486">Kingstone International</boardgamepublisher>
+															<boardgamepublisher objectid="127">Klee</boardgamepublisher>
+															<boardgameversion objectid="125331">Klee Edition</boardgameversion>
+															<boardgamepublisher objectid="6266">L. P. Septímio</boardgamepublisher>
+															<boardgamepublisher objectid="327">Lagoon Games</boardgamepublisher>
+																						<boardgameversion objectid="141599">Lowe Edition</boardgameversion>
+															<boardgamepublisher objectid="15351">Ludens Planet</boardgamepublisher>
+															<boardgamepodcastepisode objectid="110249">Ludology Episode 72 - Under The Influence Part 1</boardgamepodcastepisode>
+															<boardgamepublisher objectid="24407">Luduscience</boardgamepublisher>
+															<boardgameversion objectid="227304">Luduscience edition</boardgameversion>
+															<boardgamepublisher objectid="16880">M Petrushkin</boardgamepublisher>
+															<boardgameversion objectid="141611">M Petrushkin Club Set Edition</boardgameversion>
+															<boardgameversion objectid="141607">M Petrushkin Competition Set Edition</boardgameversion>
+															<boardgamepublisher objectid="1670">Magnetic Poetry Inc</boardgamepublisher>
+															<boardgamepublisher objectid="2627">Majora</boardgamepublisher>
+															<boardgameversion objectid="63805">Majora edition</boardgameversion>
+															<boardgamepublisher objectid="19205">Marigó</boardgamepublisher>
+															<boardgamepublisher objectid="24140">Marlboro</boardgamepublisher>
+															<boardgameversion objectid="192361">Marlboro Promotional Edition</boardgameversion>
+															<boardgamepublisher objectid="2547">Masters Games</boardgamepublisher>
+															<boardgamepublisher objectid="3229">Matsui Gaming Machine</boardgamepublisher>
+															<boardgamepublisher objectid="23954">Maxco</boardgamepublisher>
+															<boardgameversion objectid="188467">Maxco Pocket edition</boardgameversion>
+															<boardgamepublisher objectid="4554">MB Spellen</boardgamepublisher>
+															<boardgamepublisher objectid="6290">MB Spiele</boardgamepublisher>
+															<boardgameversion objectid="185453">MB Spiele German Magnetische Spielsteine Edition</boardgameversion>
+															<boardgameversion objectid="141606">Merit Edition</boardgameversion>
+															<boardgamepublisher objectid="20">Milton Bradley</boardgamepublisher>
+															<boardgameversion objectid="228568">Milton Bradley Canadian Bilingual edition 1979</boardgameversion>
+															<boardgameversion objectid="118130">Milton Bradley Dutch Edition</boardgameversion>
+															<boardgameversion objectid="90287">Milton Bradley Edition 1973</boardgameversion>
+															<boardgameversion objectid="118128">Milton Bradley UK edition</boardgameversion>
+															<boardgamecompilation objectid="96628">Miscellaneous Game Compilation</boardgamecompilation>
+															<boardgamepublisher objectid="6261">Mitra</boardgamepublisher>
+															<boardgamepublisher objectid="9336">National Novelty Corp.</boardgamepublisher>
+															<boardgamepublisher objectid="11952">Neroulia</boardgamepublisher>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameversion objectid="50949">NESTORGAMES edition</boardgameversion>
+															<boardgamepublisher objectid="304">Noris Spiele</boardgamepublisher>
+																																																																							<boardgamepublisher objectid="11187">Oriental Trading Company</boardgamepublisher>
+															<boardgamepublisher objectid="2432">Origem</boardgamepublisher>
+															<boardgamepublisher objectid="486">Paul Lamond Games Ltd</boardgamepublisher>
+															<boardgameversion objectid="142685">Paul Lamond Magnetic Travel Edition</boardgameversion>
+															<boardgameversion objectid="125125">Paul Lamond Traditional Wood Edition</boardgameversion>
+																						<boardgamepublisher objectid="2188">Pavilion</boardgamepublisher>
+															<boardgameversion objectid="215908">Pavilion edition 1999</boardgameversion>
+															<boardgamepublisher objectid="500">Pelikan</boardgamepublisher>
+															<boardgameversion objectid="160268">PERI Compact Games Jewel Case Edition</boardgameversion>
+															<boardgameversion objectid="141546">Peri edition</boardgameversion>
+															<boardgamepublisher objectid="648">Peri Spiele</boardgamepublisher>
+															<boardgamepublisher objectid="22">Piatnik</boardgamepublisher>
+															<boardgameversion objectid="130344">Piatnik Green Box Edition</boardgameversion>
+															<boardgameversion objectid="185454">Piatnik Red/Yellow Travel Edition</boardgameversion>
+															<boardgameversion objectid="130346">Piatnik Wood edition</boardgameversion>
+															<boardgamepublisher objectid="1087">Pin International</boardgamepublisher>
+															<boardgamepublisher objectid="4910">Pintoy</boardgamepublisher>
+															<boardgameversion objectid="180407">Pintoy edition</boardgameversion>
+																													<boardgamepublisher objectid="8666">play time</boardgamepublisher>
+															<boardgameversion objectid="226359">Play time multilingual edition 2002</boardgameversion>
+															<boardgamepublisher objectid="2256">Pleasantime Games</boardgamepublisher>
+															<boardgameversion objectid="141957">Pleasantime Games Yellow Edition</boardgameversion>
+															<boardgameversion objectid="168794">Polish edition</boardgameversion>
+															<boardgamefamily objectid="11505">Promotional Board Games</boardgamefamily>
+															<boardgamepublisher objectid="23041">Przedsiebiorstwo Zagraniczne LABO</boardgamepublisher>
+															<boardgamepublisher objectid="22546">Ramsons</boardgamepublisher>
+															<boardgameversion objectid="137311">Ravensburger Black Edition 1982</boardgameversion>
+															<boardgamefamily objectid="81">Ravensburger Casino Series</boardgamefamily>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+															<boardgameversion objectid="125384">Ravensburger Tric Trac/Puff Edition</boardgameversion>
+															<boardgamepublisher objectid="24436">Regionalia Verlag GmbH</boardgamepublisher>
+															<boardgameversion objectid="135010">Reiss Edition 1975</boardgameversion>
+															<boardgameversion objectid="133655">Reiss Edition 1977</boardgameversion>
+															<boardgamepublisher objectid="945">Reiss Games</boardgamepublisher>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamepublisher objectid="664">RoseArt</boardgamepublisher>
+															<boardgameversion objectid="189760">RoseArt Classic Edition 1993</boardgameversion>
+																																											<boardgamepublisher objectid="5392">Schmidt France</boardgamepublisher>
+															<boardgameversion objectid="147722">Schmidt France Grey Edition</boardgameversion>
+															<boardgamefamily objectid="12927">Schmidt Spiele Classic Line</boardgamefamily>
+															<boardgamecompilation objectid="12499">Schöne alte Spiele</boardgamecompilation>
+															<boardgamepublisher objectid="359">Selchow &amp; Righter</boardgamepublisher>
+															<boardgameversion objectid="133695">Selchow &amp; Righter Edition 1975</boardgameversion>
+															<boardgamepublisher objectid="15026">Silk Cut</boardgamepublisher>
+															<boardgameversion objectid="145020">Silk Cut Cigarette Edition</boardgameversion>
+															<videogamebg objectid="146993">Simutek Package Seven</videogamebg>
+															<boardgamepublisher objectid="433">Skor-Mor</boardgamepublisher>
+															<boardgameversion objectid="142509">Skor-Mor Black Edition</boardgameversion>
+															<boardgamepublisher objectid="23146">Sladecolour Board Games</boardgamepublisher>
+															<boardgameversion objectid="173697">Sladecolour For Sight Difficulties Edition</boardgameversion>
+															<boardgamepublisher objectid="3080">Smethport Specialty Co.</boardgamepublisher>
+															<boardgameversion objectid="142528">Smethport Specialty Hip Hugger Edition</boardgameversion>
+															<boardgameversion objectid="149079">Spanish Edition</boardgameversion>
+															<boardgamepublisher objectid="2142">Square Root Games</boardgamepublisher>
+															<boardgamepublisher objectid="2625">Sterling Games</boardgamepublisher>
+															<boardgamepublisher objectid="6088">Super Accord</boardgamepublisher>
+															<boardgameversion objectid="142303">Swedish Edition</boardgameversion>
+															<boardgameversion objectid="142304">Swedish Edition</boardgameversion>
+															<boardgamepublisher objectid="964">Tactic</boardgamepublisher>
+															<boardgameversion objectid="38907">Tactic &quot;Classic Games&quot; Edition</boardgameversion>
+															<boardgameversion objectid="32791">Tactic Wooden Classic Edition</boardgameversion>
+																						<boardgamepublisher objectid="22791">Top Mark</boardgamepublisher>
+															<boardgamepublisher objectid="22353">Unicorn (II)</boardgamepublisher>
+															<boardgameversion objectid="162805">Unicorn British Edition</boardgameversion>
+															<boardgamepublisher objectid="634">USAopoly</boardgamepublisher>
+															<boardgameversion objectid="189915">USAopoly Edition</boardgameversion>
+															<videogamebg objectid="98232">Videocart-11: Backgammon, Acey-Deucey</videogamebg>
+															<boardgameversion objectid="156986">Waddingtons Canadian Edition 1973</boardgameversion>
+															<boardgamepublisher objectid="95">Waddingtons Games</boardgamepublisher>
+															<boardgamepublisher objectid="23115">Węgiel</boardgamepublisher>
+															<boardgamepublisher objectid="11702">Westside Fun Games</boardgamepublisher>
+															<boardgameexpansion objectid="24154">Whamgammon</boardgameexpansion>
+															<boardgamepublisher objectid="329">Whitman</boardgamepublisher>
+															<boardgameversion objectid="141612">Whitman White Edition</boardgameversion>
+															<boardgamepublisher objectid="16793">Wicked Vision</boardgamepublisher>
+																						<boardgamepublisher objectid="3245">Wm F. Drueke &amp; Sons, Inc.</boardgamepublisher>
+															<boardgamepublisher objectid="7506">Wood Expressions</boardgamepublisher>
+															<boardgamepublisher objectid="11953">Zontik Games</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="92">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="69" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="88" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="66" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="53">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="53" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="37">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="6" />
+					<result value="8" numvotes="22" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+			
+		
+				
+		</boardgame>
+	</boardgames>
