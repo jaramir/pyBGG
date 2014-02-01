@@ -21,8 +21,8 @@ along with pyBGG.  If not, see <http://www.gnu.org/licenses/>.
 
 """
 
-import urllib
-import urllib2
+import urllib.request, urllib.parse, urllib.error
+import urllib.request, urllib.error, urllib.parse
 import xml.etree.ElementTree as ET
 
 root = "http://www.boardgamegeek.com/xmlapi/"
@@ -46,8 +46,8 @@ class BoardGame( object ):
             return
 
         if self.id not in boardgame_cache:
-            url = root + "boardgame/" + urllib.quote( self.id )
-            tree = ET.parse( urllib2.urlopen( url ) )
+            url = root + "boardgame/" + urllib.parse.quote( self.id )
+            tree = ET.parse( urllib.request.urlopen( url ) )
             boardgame_cache[self.id] = tree.find( "boardgame" )
         self.et = boardgame_cache[self.id]
 
@@ -147,16 +147,16 @@ def search( term, exact=False, prefetch=False ):
 
     """
 
-    url = root + "search?search=" + urllib.quote( term )
+    url = root + "search?search=" + urllib.parse.quote( term )
     if exact:
         url += "&exact=1"
 
-    tree = ET.parse( urllib2.urlopen( url ) )
+    tree = ET.parse( urllib.request.urlopen( url ) )
 
     games = tree.findall( "boardgame" )
 
     if prefetch:
-        games = __prefetch( [ urllib.quote( el.attrib["objectid"] ) for el in games ] )
+        games = __prefetch( [ urllib.parse.quote( el.attrib["objectid"] ) for el in games ] )
 
     rv = []
     for bg in games:
@@ -178,16 +178,16 @@ def collection( username, own=False, prefetch=False ):
 
     """
 
-    url = root + "collection/" + urllib.quote( username )
+    url = root + "collection/" + urllib.parse.quote( username )
     if own:
         url += "?own=1"
 
-    tree = ET.parse( urllib2.urlopen( url ) )
+    tree = ET.parse( urllib.request.urlopen( url ) )
 
     games = tree.findall( "item[@objecttype='thing'][@subtype='boardgame']" )
 
     if prefetch:
-        games = __prefetch( [ urllib.quote( el.attrib["objectid"] ) for el in games ] )
+        games = __prefetch( [ urllib.parse.quote( el.attrib["objectid"] ) for el in games ] )
 
     rv = []
     for bg in games:
@@ -200,7 +200,7 @@ def __prefetch( ids ):
 
     """
     murl = root + "boardgame/" + ",".join( ids )
-    mtree = ET.parse( urllib2.urlopen( murl ) )
+    mtree = ET.parse( urllib.request.urlopen( murl ) )
     for subtree in mtree.findall( "boardgame" ):
         boardgame_cache[subtree.attrib["objectid"]] = subtree
         yield subtree

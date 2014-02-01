@@ -18,8 +18,8 @@ You should have received a copy of the GNU General Public License
 along with pyBGG.  If not, see <http://www.gnu.org/licenses/>.
 
 """
-import urllib2
-import StringIO
+import urllib.request, urllib.error, urllib.parse
+import io
 import unittest
 import pyBGG
 
@@ -52,13 +52,13 @@ class TestResponse( object ):
         self.request = request
         self.code = 200
         self.msg = "OK"
-        self.content = StringIO.StringIO( canned_response[url] )
+        self.content = io.StringIO( canned_response[url] )
         self.read = self.content.read
 
     def info( self ):
         return []
 
-class TestHandler( urllib2.HTTPHandler ):
+class TestHandler( urllib.request.HTTPHandler ):
     def __init__( self ):
         self.hits = []
 
@@ -70,8 +70,8 @@ class TestHandler( urllib2.HTTPHandler ):
         self.hits = []
 
 handler = TestHandler()
-opener = urllib2.build_opener( handler )
-urllib2.install_opener( opener )
+opener = urllib.request.build_opener( handler )
+urllib.request.install_opener( opener )
 
 ## This works but will make a request per fixture on every run
 ## Uncomment and use when necessary
@@ -89,7 +89,7 @@ class handlerTest( unittest.TestCase ):
 
     def test_count_hits( self ):
         url = "http://www.boardgamegeek.com/xmlapi/boardgame/13"
-        urllib2.urlopen( url ).read()
+        urllib.request.urlopen( url ).read()
         self.assertEqual( handler.hits, [url] )
 
 class pyBGGTest( unittest.TestCase ):
@@ -130,8 +130,8 @@ class pyBGGTest( unittest.TestCase ):
         en = "The Settlers of Catan"
         us = "Catan"
         it = "I Coloni di Catan"
-        ru = u"Заселниците на Катан"
-        ja = u"カタンの開拓者"
+        ru = "Заселниците на Катан"
+        ja = "カタンの開拓者"
 
         bg = pyBGG.BoardGame.by_id( "13" )
         names = bg.names
@@ -179,7 +179,7 @@ class pyBGGTest( unittest.TestCase ):
     def test_prefetch_populates_cache( self ):
         coll = pyBGG.collection( "cesco", own=True, prefetch=True )
         for game in coll:
-            self.assertIn( game.id, pyBGG.boardgame_cache.keys() )
+            self.assertIn( game.id, list(pyBGG.boardgame_cache.keys()) )
 
     def test_collection_no_prefetch_no_requests( self ):
         coll = pyBGG.collection( "Iago71", own=True, prefetch=False )
